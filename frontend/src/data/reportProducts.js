@@ -1,0 +1,183 @@
+export const reportProducts = [
+  [
+    "Centella Serum",
+    "Skin1004",
+    "Serum",
+    "South Korea",
+    92,
+    "High",
+    20,
+    "Medium",
+    8,
+    2,
+  ],
+  [
+    "Niacinamide Serum",
+    "The Ordinary",
+    "Serum",
+    "Canada",
+    84,
+    "High",
+    18,
+    "High",
+    7,
+    2,
+  ],
+  [
+    "Hyaluronic Acid Serum",
+    "Hada Labo",
+    "Serum",
+    "Japan",
+    78,
+    "High",
+    19,
+    "Medium",
+    7.5,
+    2,
+  ],
+  [
+    "Sunscreen SPF50",
+    "Beauty of Joseon",
+    "Sunscreen",
+    "South Korea",
+    88,
+    "High",
+    20,
+    "High",
+    8.5,
+    2.5,
+  ],
+  [
+    "Vitamin C Serum",
+    "Melano CC",
+    "Serum",
+    "Japan",
+    73,
+    "Medium",
+    17,
+    "High",
+    6.5,
+    2,
+  ],
+  [
+    "Lip Tint",
+    "rom&nd",
+    "Lipstick",
+    "South Korea",
+    81,
+    "High",
+    14,
+    "Medium",
+    5,
+    1.5,
+  ],
+  [
+    "Matte Lipstick",
+    "MAC",
+    "Lipstick",
+    "United States",
+    59,
+    "Medium",
+    25,
+    "High",
+    12,
+    3,
+  ],
+  [
+    "Cleansing Balm",
+    "Banila Co",
+    "Cleanser",
+    "South Korea",
+    70,
+    "Medium",
+    21,
+    "Medium",
+    9,
+    2.5,
+  ],
+  [
+    "Moisturizer",
+    "COSRX",
+    "Moisturizer",
+    "South Korea",
+    76,
+    "High",
+    20,
+    "Medium",
+    8,
+    2,
+  ],
+  [
+    "Facial Cleanser",
+    "CeraVe",
+    "Cleanser",
+    "United States",
+    66,
+    "Medium",
+    16,
+    "High",
+    6.5,
+    2,
+  ],
+].map(
+  (
+    [
+      name,
+      brand,
+      category,
+      origin,
+      interest,
+      demand,
+      recommended,
+      competition,
+      cost,
+      extra,
+    ],
+    index,
+  ) => ({
+    name,
+    brand,
+    category,
+    origin,
+    interest,
+    demand,
+    recommended,
+    price: `$${recommended - 2}–$${recommended + 2}`,
+    competition,
+    cost,
+    extra,
+    potential: demand === "High" ? "Good opportunity" : "Consider carefully",
+    trend:
+      index % 3 === 0
+        ? "Fast-rising interest"
+        : index % 3 === 1
+          ? "Steady growth"
+          : "Stable interest",
+    trendStatus: index < 6 ? "Rising" : index < 8 ? "Stable" : "Cooling",
+    growth: [32, 24, 18, 27, 15, 22, 6, 9, 13, -4][index],
+    history: Array.from({ length: 7 }, (_, point) =>
+      Math.max(
+        20,
+        Math.min(
+          100,
+          Math.round(
+            interest -
+              ([32, 24, 18, 27, 15, 22, 6, 9, 13, -4][index] * (6 - point)) / 8,
+          ),
+        ),
+      ),
+    ),
+    outlook:
+      demand === "High"
+        ? "Interest may continue if product education, pricing, and availability fit the local market."
+        : "Interest may remain selective, so a small test and customer feedback are especially important.",
+    marketNote:
+      origin === "South Korea"
+        ? "K-beauty awareness may support discovery across nearby Asian markets."
+        : "Origin-led awareness varies, so local education and channel fit matter.",
+    reason:
+      demand === "High"
+        ? "Customer interest appears strong in the available illustrative trend signals."
+        : "Interest exists, but pricing and competition should be tested carefully.",
+  }),
+)

@@ -1,0 +1,1 @@
+"""BeauTrend backend application package."""
