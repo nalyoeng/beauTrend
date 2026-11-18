@@ -1,0 +1,9 @@
+﻿services:
+  - type: web
+    name: beautytrend-api
+    runtime: python
+    buildCommand: ""
+    startCommand: python backend/server.py
+    envVars:
+      - key: CORS_ORIGINS
+        sync: false

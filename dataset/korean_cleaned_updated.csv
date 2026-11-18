@@ -1,0 +1,2001 @@
+Date,Brand,Subcategory,Product_Name,Price_USD,Units_Sold,quantity
+23-01-01,The Body Shop,Mascara,The Body Shop Lash Sensational Mascara,21.01,78,531
+23-01-01,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,101.71,35,787
+23-01-01,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,103.56,44,1421
+23-01-03,Nykaa,Moisturizer,Nykaa Deep Hydration Moisturizer,104.15,90,695
+23-01-03,The Body Shop,Foundation,The Body Shop Fit Me Foundation,70.14,50,508
+23-01-04,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,13.31,73,729
+23-01-05,Sugar Cosmetics,Deodorant,Sugar Cosmetics Charcoal Clean Deodorant,105.91,37,584
+23-01-05,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,35.94,104,1027
+23-01-06,Lakme,Hand Cream,Lakme Daily Nourish Hand Cream,68.44,41,626
+23-01-06,Nykaa,Shampoo,Nykaa Gentle Daily Shampoo,15.21,66,341
+23-01-06,Nivea,Mascara,Nivea Lift & Define Mascara,26.33,91,221
+23-01-07,Lakme,Body Mist,Lakme Fresh Berry Body Mist,81.83,45,603
+23-01-08,Nivea,Body Lotion,Nivea Vitamin Glow Body Lotion,59.56,16,810
+23-01-08,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,68.25,63,1421
+23-01-09,Nivea,Shampoo,Nivea Color Protect Shampoo,10.82,40,640
+23-01-09,Revlon,Hair Oil,Revlon Jojoba Smooth Hair Oil,12.38,132,373
+23-01-09,L'Oreal,Soap,L'Oreal Neem Purify Soap,80.44,146,915
+23-01-09,Revlon,Perfume,Revlon Jasmine Noir Perfume,30.35,22,734
+23-01-09,Himalaya,Face Mask,Himalaya Clay Detox Face Mask,55.69,26,671
+23-01-10,L'Oreal,Blush,L'Oreal Rose Petal Blush,114.54,42,720
+23-01-11,Nivea,Hand Cream,Nivea Rich Moisture Hand Cream,78.26,6,607
+23-01-12,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,42.81,42,941
+23-01-12,L'Oreal,Shampoo,L'Oreal Smooth & Shine Shampoo,29.72,53,723
+23-01-13,Himalaya,Conditioner,Himalaya Smooth Silk Conditioner,24.4,20,321
+23-01-15,Lakme,Hair Oil,Lakme Amla Strength Hair Oil,25.81,82,535
+23-01-15,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,109.38,52,637
+23-01-15,The Body Shop,Serum,The Body Shop Green Tea Balance Serum,27.56,47,389
+23-01-15,Sugar Cosmetics,Conditioner,Sugar Cosmetics Herbal Strength Conditioner,12.81,196,515
+23-01-16,Revlon,Eyeliner,Revlon Glitter Shine Eyeliner,81.87,24,856
+23-01-16,Sugar Cosmetics,Body Wash,Sugar Cosmetics Rose Silk Body Wash,60.74,52,252
+23-01-16,MAC,Lipstick,MAC Satin Nude Lipstick,49.57,36,187
+23-01-16,MAC,Moisturizer,MAC Ceramide Repair Moisturizer,17.01,28,489
+23-01-16,Maybelline,Shampoo,Maybelline Herbal Cleanse Shampoo,90.55,54,508
+23-01-17,The Body Shop,Soap,The Body Shop Charcoal Detox Soap,82.59,54,777
+23-01-17,Maybelline,Conditioner,Maybelline Frizz Control Conditioner,81.06,71,554
+23-01-18,Lakme,Hair Mask,Lakme Argan Revive Hair Mask,89.9,45,237
+23-01-18,Maybelline,Lipstick,Maybelline Liquid Lip Color Lipstick,50.89,89,495
+23-01-19,MAC,Perfume,MAC Amber Oud Perfume,89.6,82,1033
+23-01-19,Lakme,Blush,Lakme Coral Pop Blush,32.8,20,752
+23-01-19,Sugar Cosmetics,Foundation,Sugar Cosmetics Luminous Silk Foundation,115.19,75,671
+23-01-19,Lakme,Body Lotion,Lakme Aloe Vera Body Lotion,3.87,199,874
+23-01-20,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,52.14,104,729
+23-01-20,Nykaa,Body Lotion,Nykaa Soft Almond Body Lotion,72.37,27,600
+23-01-21,Revlon,Deodorant,Revlon Original 48H Deodorant,5.83,32,693
+23-01-21,Nivea,Hair Serum,Nivea Vitamin Shine Hair Serum,93.88,49,319
+23-01-21,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,54.72,61,1422
+23-01-22,Revlon,Hand Cream,Revlon Vitamin E Hand Cream,51.43,23,631
+23-01-22,Nykaa,Face Wash,Nykaa Acne Clear Face Wash,30.99,54,479
+23-01-22,Sugar Cosmetics,Serum,Sugar Cosmetics Collagen Lift Serum,6.55,81,705
+23-01-22,Sugar Cosmetics,Hair Serum,Sugar Cosmetics Split-End Care Hair Serum,44.96,22,478
+23-01-23,Lakme,Soap,Lakme Glycerin Pure Soap,52.11,17,605
+23-01-24,Lakme,Body Lotion,Lakme Aloe Vera Body Lotion,62.1,125,874
+23-01-25,Sugar Cosmetics,Serum,Sugar Cosmetics Collagen Lift Serum,36.14,14,705
+23-01-26,MAC,Foundation,MAC Skin Tint Foundation,40.08,58,844
+23-01-26,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,73.91,44,1090
+23-01-27,MAC,Blush,MAC Soft Pink Blush,16.13,78,469
+23-01-27,Maybelline,Soap,Maybelline Honey Gentle Soap,101.77,113,1146
+23-01-28,MAC,Hand Cream,MAC Soft Touch Hand Cream,66.99,32,427
+23-01-29,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,50.79,27,787
+23-01-30,Himalaya,Soap,Himalaya Classic Bar Soap,89.52,7,923
+23-01-30,MAC,Body Wash,MAC Cocoa Butter Body Wash,98.59,42,586
+23-01-30,Revlon,Moisturizer,Revlon Night Renew Moisturizer,98.7,53,635
+23-01-30,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,96.49,10,729
+23-01-30,MAC,Mascara,MAC Black Intense Mascara,100.69,29,315
+23-01-30,MAC,Eyeliner,MAC Kohl Smoky Eyeliner,112.33,58,480
+23-01-31,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,24.53,63,787
+23-01-31,Revlon,Shampoo,Revlon Strength & Growth Shampoo,3.11,85,839
+23-01-31,Nivea,Deodorant,Nivea Roll-On Aqua Deodorant,98.97,36,424
+23-01-31,MAC,Body Wash,MAC Cocoa Butter Body Wash,90.32,4,586
+23-02-01,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,23.09,7,1090
+23-02-01,Himalaya,Shampoo,Himalaya Anti-Dandruff Shampoo,69.83,27,855
+23-02-01,Revlon,Deodorant,Revlon Original 48H Deodorant,64.44,41,693
+23-02-01,Himalaya,Deodorant,Himalaya Active Dry Deodorant,56.61,56,1122
+23-02-01,Nivea,Hand Cream,Nivea Rich Moisture Hand Cream,86.71,277,607
+23-02-01,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,47.4,262,1422
+23-02-01,Maybelline,Mascara,Maybelline Fiber Lash Mascara,12.19,118,704
+23-02-02,L'Oreal,Hair Oil,L'Oreal Coconut Shine Hair Oil,38.24,43,367
+23-02-02,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,95.73,51,1205
+23-02-02,Nykaa,Shampoo,Nykaa Gentle Daily Shampoo,54.5,49,341
+23-02-03,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,8.99,16,902
+23-02-03,Himalaya,Shampoo,Himalaya Anti-Dandruff Shampoo,92.34,50,855
+23-02-04,Himalaya,Lipstick,Himalaya Matte Velvet Lipstick,53.51,108,587
+23-02-04,L'Oreal,Moisturizer,L'Oreal Daily Glow Moisturizer,82.45,11,433
+23-02-05,L'Oreal,Body Wash,L'Oreal Aloe Fresh Body Wash,26.31,38,499
+23-02-05,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,109.35,6,941
+23-02-06,MAC,Face Wash,MAC Brightening Glow Face Wash,101.71,71,273
+23-02-06,Himalaya,Hand Cream,Himalaya Intensive Repair Hand Cream,60.38,58,641
+23-02-06,Sugar Cosmetics,Serum,Sugar Cosmetics Collagen Lift Serum,92.63,78,705
+23-02-08,Nykaa,Eyeliner,Nykaa Brown Soft Eyeliner,70.21,44,693
+23-02-08,Revlon,Lipstick,Revlon Coral Crush Lipstick,53.03,81,627
+23-02-09,Sugar Cosmetics,Lipstick,Sugar Cosmetics Long-Wear Classic Lipstick,21.91,59,487
+23-02-09,Maybelline,Face Mask,Maybelline Aloe Calm Face Mask,116.83,54,455
+23-02-10,Nivea,Foundation,Nivea Soft Focus Foundation,71.67,101,533
+23-02-10,Nivea,Foundation,Nivea Soft Focus Foundation,92.14,16,533
+23-02-11,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,60.08,46,637
+23-02-11,Maybelline,Hair Mask,Maybelline Protein Strength Hair Mask,52.73,21,719
+23-02-11,Himalaya,Hair Serum,Himalaya Frizz-Free Shine Hair Serum,49.17,26,176
+23-02-12,Nykaa,Hair Oil,Nykaa Light Daily Hair Oil,18.5,55,507
+23-02-12,Himalaya,Body Wash,Himalaya Creamy Shower Gel Body Wash,107.56,84,630
+23-02-12,Maybelline,Foundation,Maybelline Long-Wear Foundation,65.28,40,711
+23-02-12,Nivea,Hand Cream,Nivea Rich Moisture Hand Cream,114.31,52,607
+23-02-13,L'Oreal,Eyeliner,L'Oreal Gel Precision Eyeliner,47.92,82,464
+23-02-13,Sugar Cosmetics,Serum,Sugar Cosmetics Collagen Lift Serum,38.09,13,705
+23-02-14,Lakme,Serum,Lakme Niacinamide Clear Serum,74.66,244,697
+23-02-15,L'Oreal,Foundation,L'Oreal Dewy Glow Foundation,28.16,25,218
+23-02-15,MAC,Body Wash,MAC Cocoa Butter Body Wash,69.84,48,586
+23-02-15,L'Oreal,Blush,L'Oreal Rose Petal Blush,39.48,0,720
+23-02-15,The Body Shop,Hair Mask,The Body Shop Honey Silk Hair Mask,64.48,43,402
+23-02-15,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,51.1,25,1090
+23-02-16,The Body Shop,Hair Oil,The Body Shop Herbal Blend Hair Oil,116.84,33,476
+23-02-17,Lakme,Sunscreen,Lakme Invisible Matte Sunscreen,92.66,58,374
+23-02-17,Sugar Cosmetics,Body Wash,Sugar Cosmetics Rose Silk Body Wash,38.59,35,252
+23-02-17,L'Oreal,Mascara,L'Oreal Lash Lengthening Mascara,75.32,73,414
+23-02-18,Revlon,Serum,Revlon Snail Repair Serum,80.48,55,578
+23-02-19,L'Oreal,Face Mask,L'Oreal Hydrating Sheet Face Mask,102.91,35,670
+23-02-19,Revlon,Body Wash,Revlon Sea Mineral Body Wash,40.39,27,543
+23-02-20,Maybelline,Mascara,Maybelline Fiber Lash Mascara,97.55,66,704
+23-02-22,MAC,Perfume,MAC Amber Oud Perfume,96.64,197,1033
+23-02-22,Himalaya,Mascara,Himalaya Volume Boost Mascara,114.21,2,465
+23-02-22,Sugar Cosmetics,Blush,Sugar Cosmetics Nude Bloom Blush,56.3,85,359
+23-02-24,Maybelline,Lipstick,Maybelline Liquid Lip Color Lipstick,50.71,51,495
+23-02-24,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,79.63,37,983
+23-02-24,MAC,Serum,MAC Retinol Renew Serum,71.19,28,466
+23-02-24,Lakme,Foundation,Lakme Full Coverage Foundation,82.46,9,601
+23-02-24,Himalaya,Hand Cream,Himalaya Intensive Repair Hand Cream,79.84,3,641
+23-02-24,Nykaa,Hand Cream,Nykaa Glycerin Soothe Hand Cream,76.12,47,638
+23-02-24,L'Oreal,Moisturizer,L'Oreal Daily Glow Moisturizer,79.31,25,433
+23-02-24,The Body Shop,Body Lotion,The Body Shop Milk Nourish Body Lotion,60.54,31,213
+23-02-24,MAC,Lipstick,MAC Satin Nude Lipstick,24.57,17,187
+23-02-25,Nivea,Serum,Nivea Brightening Dark Spot Serum,82.3,10,596
+23-02-25,Revlon,Lipstick,Revlon Coral Crush Lipstick,13.49,81,627
+23-02-25,Revlon,Serum,Revlon Snail Repair Serum,93.78,83,578
+23-02-25,The Body Shop,Deodorant,The Body Shop Citrus Guard Deodorant,77.11,60,477
+23-02-25,Revlon,Deodorant,Revlon Original 48H Deodorant,81.48,21,693
+23-02-26,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,23.3,19,890
+23-02-26,Revlon,Shampoo,Revlon Strength & Growth Shampoo,54.27,39,839
+23-02-27,Maybelline,Soap,Maybelline Honey Gentle Soap,36.05,86,1146
+23-02-27,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,85.42,26,575
+23-02-27,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,29.82,34,575
+23-02-27,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,47.45,222,1205
+23-02-27,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,113.34,33,1205
+23-02-28,Nivea,Face Mask,Nivea Rice Water Face Mask,52.67,18,285
+23-02-28,Himalaya,Deodorant,Himalaya Active Dry Deodorant,108.0,37,1122
+23-03-01,MAC,Hair Serum,MAC Heat Protect Hair Serum,95.21,38,458
+23-03-01,Sugar Cosmetics,Body Wash,Sugar Cosmetics Rose Silk Body Wash,25.62,45,252
+23-03-01,Sugar Cosmetics,Mascara,Sugar Cosmetics Smudge-Proof Mascara,73.99,62,324
+23-03-02,Revlon,Perfume,Revlon Jasmine Noir Perfume,108.44,47,734
+23-03-02,Maybelline,Hair Mask,Maybelline Protein Strength Hair Mask,40.63,38,719
+23-03-03,L'Oreal,Conditioner,L'Oreal Deep Repair Conditioner,63.33,49,728
+23-03-03,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,3.92,24,652
+23-03-03,Sugar Cosmetics,Mascara,Sugar Cosmetics Smudge-Proof Mascara,10.61,44,324
+23-03-04,Lakme,Perfume,Lakme Floral Bloom Perfume,49.72,52,651
+23-03-04,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,80.26,25,941
+23-03-04,Lakme,Blush,Lakme Coral Pop Blush,50.74,53,752
+23-03-05,Himalaya,Mascara,Himalaya Volume Boost Mascara,70.86,162,465
+23-03-05,Lakme,Body Lotion,Lakme Aloe Vera Body Lotion,64.85,60,874
+23-03-06,Revlon,Body Wash,Revlon Sea Mineral Body Wash,22.86,137,543
+23-03-06,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,51.08,65,1422
+23-03-06,MAC,Serum,MAC Retinol Renew Serum,84.67,18,466
+23-03-07,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,21.11,67,722
+23-03-07,Nykaa,Face Wash,Nykaa Acne Clear Face Wash,69.26,32,479
+23-03-07,Maybelline,Soap,Maybelline Honey Gentle Soap,5.24,170,1146
+23-03-08,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,54.39,56,902
+23-03-08,MAC,Hand Cream,MAC Soft Touch Hand Cream,15.34,101,427
+23-03-08,Nivea,Serum,Nivea Brightening Dark Spot Serum,32.61,48,596
+23-03-08,Lakme,Hair Serum,Lakme Argan Gloss Hair Serum,87.24,36,869
+23-03-08,MAC,Body Lotion,MAC Skin Firming Body Lotion,101.39,23,660
+23-03-09,Nivea,Perfume,Nivea Velvet Vanilla Perfume,83.8,190,775
+23-03-09,Sugar Cosmetics,Hair Mask,Sugar Cosmetics Damage Rescue Hair Mask,30.04,37,520
+23-03-10,Sugar Cosmetics,Lipstick,Sugar Cosmetics Long-Wear Classic Lipstick,25.8,79,487
+23-03-10,MAC,Perfume,MAC Amber Oud Perfume,79.22,33,1033
+23-03-10,Lakme,Blush,Lakme Coral Pop Blush,45.61,68,752
+23-03-10,L'Oreal,Blush,L'Oreal Rose Petal Blush,86.37,17,720
+23-03-10,Nykaa,Eyeliner,Nykaa Brown Soft Eyeliner,25.47,134,693
+23-03-10,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,88.06,93,941
+23-03-10,Lakme,Body Mist,Lakme Fresh Berry Body Mist,109.29,62,603
+23-03-11,Revlon,Shampoo,Revlon Strength & Growth Shampoo,100.14,144,839
+23-03-11,Himalaya,Blush,Himalaya Peach Glow Blush,49.74,70,366
+23-03-11,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,19.47,55,890
+23-03-11,Nykaa,Perfume,Nykaa Ocean Breeze Perfume,67.98,107,1263
+23-03-11,Nivea,Foundation,Nivea Soft Focus Foundation,11.3,148,533
+23-03-12,Revlon,Blush,Revlon Shimmer Sunset Blush,67.62,35,314
+23-03-14,Nykaa,Blush,Nykaa Cream Cheek Blush,57.82,54,434
+23-03-14,Himalaya,Deodorant,Himalaya Active Dry Deodorant,89.34,111,1122
+23-03-14,Revlon,Moisturizer,Revlon Night Renew Moisturizer,109.19,32,635
+23-03-14,Maybelline,Hair Mask,Maybelline Protein Strength Hair Mask,61.54,63,719
+23-03-14,Nykaa,Body Lotion,Nykaa Soft Almond Body Lotion,96.42,6,600
+23-03-15,Nivea,Body Mist,Nivea Tropical Splash Body Mist,5.57,41,718
+23-03-15,Nykaa,Body Wash,Nykaa Moisture Plus Body Wash,52.75,102,661
+23-03-15,The Body Shop,Blush,The Body Shop Cheek Pop Blush,7.77,52,635
+23-03-15,MAC,Serum,MAC Retinol Renew Serum,21.45,73,466
+23-03-16,L'Oreal,Face Mask,L'Oreal Hydrating Sheet Face Mask,39.2,72,670
+23-03-16,L'Oreal,Shampoo,L'Oreal Smooth & Shine Shampoo,119.72,77,723
+23-03-16,Revlon,Foundation,Revlon Stay True Foundation,58.81,37,466
+23-03-16,Nykaa,Sunscreen,Nykaa Oil-Free SPF 40 Sunscreen,9.12,12,281
+23-03-16,Nykaa,Mascara,Nykaa Ultra Curl Mascara,72.66,118,346
+23-03-17,MAC,Hair Mask,MAC Hydrating Treatment Hair Mask,27.92,123,337
+23-03-17,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,84.2,146,1098
+23-03-17,Maybelline,Shampoo,Maybelline Herbal Cleanse Shampoo,114.76,25,508
+23-03-18,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,94.94,82,787
+23-03-18,Sugar Cosmetics,Sunscreen,Sugar Cosmetics Aqua Fresh SPF 50 Sunscreen,12.54,162,541
+23-03-18,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,109.97,57,902
+23-03-18,Himalaya,Face Mask,Himalaya Clay Detox Face Mask,15.56,77,671
+23-03-19,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,15.25,7,983
+23-03-20,Lakme,Face Wash,Lakme Neem Purify Face Wash,66.5,123,562
+23-03-20,Himalaya,Sunscreen,Himalaya SPF 50 Gel Sunscreen,30.1,70,309
+23-03-20,Revlon,Hair Mask,Revlon Coconut Cream Hair Mask,33.36,50,455
+23-03-21,Maybelline,Shampoo,Maybelline Herbal Cleanse Shampoo,113.33,29,508
+23-03-21,Nykaa,Lipstick,Nykaa Moisture Shine Lipstick,110.29,101,846
+23-03-21,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,90.47,3,1421
+23-03-22,MAC,Mascara,MAC Black Intense Mascara,100.62,61,315
+23-03-22,Sugar Cosmetics,Moisturizer,Sugar Cosmetics Light Water Cream Moisturizer,61.25,67,360
+23-03-22,Lakme,Soap,Lakme Glycerin Pure Soap,67.28,152,605
+23-03-22,Nivea,Face Mask,Nivea Rice Water Face Mask,54.22,13,285
+23-03-22,Sugar Cosmetics,Lipstick,Sugar Cosmetics Long-Wear Classic Lipstick,63.52,17,487
+23-03-23,Sugar Cosmetics,Hair Oil,Sugar Cosmetics Olive Deep Hair Oil,76.48,67,224
+23-03-23,Nivea,Serum,Nivea Brightening Dark Spot Serum,37.86,6,596
+23-03-23,Maybelline,Soap,Maybelline Honey Gentle Soap,53.63,12,1146
+23-03-25,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,76.88,70,722
+23-03-25,L'Oreal,Conditioner,L'Oreal Deep Repair Conditioner,19.76,41,728
+23-03-25,Lakme,Hair Serum,Lakme Argan Gloss Hair Serum,54.36,25,869
+23-03-26,MAC,Deodorant,MAC Cool Sport Deodorant,85.96,74,480
+23-03-26,Himalaya,Hair Mask,Himalaya Deep Repair Hair Mask,41.25,80,418
+23-03-26,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,78.06,23,575
+23-03-26,The Body Shop,Face Wash,The Body Shop Vitamin C Fresh Face Wash,19.42,78,347
+23-03-26,Sugar Cosmetics,Hair Mask,Sugar Cosmetics Damage Rescue Hair Mask,28.91,46,520
+23-03-26,Nivea,Mascara,Nivea Lift & Define Mascara,69.93,26,221
+23-03-27,Lakme,Body Wash,Lakme Honey Almond Body Wash,27.4,34,333
+23-03-27,L'Oreal,Eyeliner,L'Oreal Gel Precision Eyeliner,105.21,61,464
+23-03-27,MAC,Hair Oil,MAC Almond Repair Hair Oil,82.0,30,296
+23-03-27,Lakme,Body Lotion,Lakme Aloe Vera Body Lotion,119.63,18,874
+23-03-27,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,114.85,84,623
+23-03-28,L'Oreal,Blush,L'Oreal Rose Petal Blush,38.09,85,720
+23-03-28,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,23.14,27,890
+23-03-28,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,82.92,9,652
+23-03-28,MAC,Perfume,MAC Amber Oud Perfume,96.82,47,1033
+23-03-28,Revlon,Perfume,Revlon Jasmine Noir Perfume,71.59,47,734
+23-03-29,Himalaya,Eyeliner,Himalaya Waterproof Black Eyeliner,73.59,70,415
+23-03-29,Lakme,Body Lotion,Lakme Aloe Vera Body Lotion,25.77,31,874
+23-03-29,Lakme,Face Wash,Lakme Neem Purify Face Wash,45.33,178,562
+23-03-30,Revlon,Hair Oil,Revlon Jojoba Smooth Hair Oil,84.32,29,373
+23-03-30,Nykaa,Soap,Nykaa Turmeric Glow Soap,111.48,32,758
+23-03-30,Sugar Cosmetics,Deodorant,Sugar Cosmetics Charcoal Clean Deodorant,30.61,34,584
+23-03-30,Nykaa,Hair Oil,Nykaa Light Daily Hair Oil,103.21,20,507
+23-03-31,MAC,Body Mist,MAC Coconut Breeze Body Mist,25.84,16,451
+23-03-31,Revlon,Hand Cream,Revlon Vitamin E Hand Cream,15.39,61,631
+23-04-01,Sugar Cosmetics,Face Mask,Sugar Cosmetics Honey Repair Face Mask,43.37,72,794
+23-04-01,Himalaya,Eyeliner,Himalaya Waterproof Black Eyeliner,106.3,17,415
+23-04-01,Lakme,Lipstick,Lakme Ruby Red Lipstick,56.34,88,563
+23-04-02,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,89.79,32,983
+23-04-02,Nykaa,Eyeliner,Nykaa Brown Soft Eyeliner,94.35,88,693
+23-04-02,L'Oreal,Perfume,L'Oreal Midnight Musk Perfume,113.25,109,680
+23-04-03,The Body Shop,Deodorant,The Body Shop Citrus Guard Deodorant,17.06,142,477
+23-04-03,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,14.86,14,941
+23-04-03,Sugar Cosmetics,Foundation,Sugar Cosmetics Luminous Silk Foundation,116.0,77,671
+23-04-04,MAC,Foundation,MAC Skin Tint Foundation,96.71,73,844
+23-04-04,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,83.72,57,1421
+23-04-05,MAC,Eyeliner,MAC Kohl Smoky Eyeliner,12.92,37,480
+23-04-06,Sugar Cosmetics,Mascara,Sugar Cosmetics Smudge-Proof Mascara,76.47,69,324
+23-04-06,Nykaa,Mascara,Nykaa Ultra Curl Mascara,94.34,29,346
+23-04-06,Nivea,Conditioner,Nivea Keratin Nourish Conditioner,101.15,45,373
+23-04-06,Nykaa,Foundation,Nykaa Flawless Satin Foundation,36.56,80,373
+23-04-06,Lakme,Conditioner,Lakme Color Care Conditioner,37.55,25,216
+23-04-07,Revlon,Shampoo,Revlon Strength & Growth Shampoo,20.85,59,839
+23-04-07,L'Oreal,Hair Mask,L'Oreal Keratin Smooth Hair Mask,37.4,7,404
+23-04-07,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,93.3,45,652
+23-04-07,MAC,Body Wash,MAC Cocoa Butter Body Wash,61.68,43,586
+23-04-07,The Body Shop,Sunscreen,The Body Shop Glow Protect Sunscreen,29.37,36,378
+23-04-07,MAC,Face Mask,MAC Charcoal Peel-Off Face Mask,25.12,62,181
+23-04-08,Maybelline,Body Mist,Maybelline Pure Lavender Body Mist,65.36,16,1204
+23-04-08,Maybelline,Hand Cream,Maybelline Almond Care Hand Cream,104.27,26,471
+23-04-09,Himalaya,Perfume,Himalaya Eau de Parfum Rose Perfume,75.62,93,759
+23-04-10,L'Oreal,Face Mask,L'Oreal Hydrating Sheet Face Mask,20.92,80,670
+23-04-10,Himalaya,Eyeliner,Himalaya Waterproof Black Eyeliner,30.54,91,415
+23-04-10,Himalaya,Shampoo,Himalaya Anti-Dandruff Shampoo,79.5,69,855
+23-04-10,Revlon,Foundation,Revlon Stay True Foundation,89.14,81,466
+23-04-11,L'Oreal,Perfume,L'Oreal Midnight Musk Perfume,94.54,63,680
+23-04-11,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,72.38,0,652
+23-04-11,Lakme,Hair Oil,Lakme Amla Strength Hair Oil,33.9,90,535
+23-04-12,Sugar Cosmetics,Body Lotion,Sugar Cosmetics Whitening Care Body Lotion,13.45,47,185
+23-04-12,L'Oreal,Blush,L'Oreal Rose Petal Blush,57.29,134,720
+23-04-12,MAC,Hair Mask,MAC Hydrating Treatment Hair Mask,35.98,0,337
+23-04-12,Nykaa,Eyeliner,Nykaa Brown Soft Eyeliner,22.14,60,693
+23-04-13,Sugar Cosmetics,Deodorant,Sugar Cosmetics Charcoal Clean Deodorant,91.94,16,584
+23-04-13,Nykaa,Body Lotion,Nykaa Soft Almond Body Lotion,17.23,54,600
+23-04-13,Maybelline,Foundation,Maybelline Long-Wear Foundation,99.25,54,711
+23-04-14,Revlon,Perfume,Revlon Jasmine Noir Perfume,70.63,50,734
+23-04-14,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,67.32,107,902
+23-04-15,Himalaya,Mascara,Himalaya Volume Boost Mascara,51.9,24,465
+23-04-16,L'Oreal,Hair Serum,L'Oreal Silk Smooth Hair Serum,92.44,49,737
+23-04-16,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,68.79,20,1205
+23-04-17,MAC,Shampoo,MAC Repair Intense Shampoo,52.67,52,344
+23-04-17,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,55.49,177,1098
+23-04-17,Sugar Cosmetics,Face Mask,Sugar Cosmetics Honey Repair Face Mask,79.82,39,794
+23-04-17,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,96.08,21,637
+23-04-18,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,71.8,108,729
+23-04-18,The Body Shop,Hair Mask,The Body Shop Honey Silk Hair Mask,58.68,36,402
+23-04-19,Nivea,Hand Cream,Nivea Rich Moisture Hand Cream,105.21,93,607
+23-04-19,Sugar Cosmetics,Hand Cream,Sugar Cosmetics Quick Absorb Hand Cream,80.7,31,723
+23-04-20,Lakme,Hand Cream,Lakme Daily Nourish Hand Cream,103.76,43,626
+23-04-20,Nykaa,Conditioner,Nykaa Daily Detangle Conditioner,62.06,51,235
+23-04-20,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,56.2,69,1027
+23-04-21,Lakme,Face Wash,Lakme Neem Purify Face Wash,105.18,118,562
+23-04-21,Sugar Cosmetics,Deodorant,Sugar Cosmetics Charcoal Clean Deodorant,69.78,13,584
+23-04-21,L'Oreal,Hair Mask,L'Oreal Keratin Smooth Hair Mask,76.42,34,404
+23-04-21,Nivea,Serum,Nivea Brightening Dark Spot Serum,36.81,58,596
+23-04-22,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,10.87,79,1421
+23-04-22,Himalaya,Perfume,Himalaya Eau de Parfum Rose Perfume,53.19,182,759
+23-04-22,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,87.13,162,1421
+23-04-23,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,115.36,98,1421
+23-04-23,Revlon,Face Mask,Revlon Tea Tree Clear Face Mask,62.41,41,173
+23-04-23,Nivea,Perfume,Nivea Velvet Vanilla Perfume,90.59,58,775
+23-04-24,Maybelline,Face Mask,Maybelline Aloe Calm Face Mask,33.09,83,455
+23-04-25,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,3.63,67,652
+23-04-25,Maybelline,Foundation,Maybelline Long-Wear Foundation,86.94,65,711
+23-04-25,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,76.27,24,787
+23-04-25,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,82.34,149,1098
+23-04-25,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,47.2,108,943
+23-04-26,Sugar Cosmetics,Face Mask,Sugar Cosmetics Honey Repair Face Mask,46.72,75,794
+23-04-26,The Body Shop,Eyeliner,The Body Shop Matte Define Eyeliner,79.18,11,195
+23-04-27,Nykaa,Hair Oil,Nykaa Light Daily Hair Oil,23.52,44,507
+23-04-27,Lakme,Body Lotion,Lakme Aloe Vera Body Lotion,12.77,57,874
+23-04-27,The Body Shop,Foundation,The Body Shop Fit Me Foundation,7.25,62,508
+23-04-27,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,39.21,16,623
+23-04-27,The Body Shop,Conditioner,The Body Shop Argan Moisture Conditioner,47.48,49,672
+23-04-28,L'Oreal,Soap,L'Oreal Neem Purify Soap,78.94,149,915
+23-04-28,Lakme,Foundation,Lakme Full Coverage Foundation,65.66,60,601
+23-04-28,The Body Shop,Lipstick,The Body Shop Plum Perfect Lipstick,90.84,71,458
+23-04-28,The Body Shop,Face Mask,The Body Shop Overnight Sleeping Face Mask,48.75,77,637
+23-04-29,Revlon,Eyeliner,Revlon Glitter Shine Eyeliner,31.86,191,856
+23-04-29,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,86.32,26,652
+23-04-29,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,33.26,49,722
+23-04-29,Nivea,Foundation,Nivea Soft Focus Foundation,104.45,22,533
+23-04-30,Lakme,Perfume,Lakme Floral Bloom Perfume,30.3,83,651
+23-04-30,The Body Shop,Mascara,The Body Shop Lash Sensational Mascara,10.71,36,531
+23-04-30,Sugar Cosmetics,Shampoo,Sugar Cosmetics Keratin Care Shampoo,27.6,174,638
+23-05-01,MAC,Sunscreen,MAC Sport Waterproof Sunscreen,70.34,41,322
+23-05-01,L'Oreal,Body Wash,L'Oreal Aloe Fresh Body Wash,54.02,91,499
+23-05-02,L'Oreal,Conditioner,L'Oreal Deep Repair Conditioner,31.32,124,728
+23-05-02,Himalaya,Mascara,Himalaya Volume Boost Mascara,73.54,59,465
+23-05-02,Nykaa,Shampoo,Nykaa Gentle Daily Shampoo,81.68,34,341
+23-05-03,Revlon,Face Mask,Revlon Tea Tree Clear Face Mask,94.35,27,173
+23-05-03,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,14.64,38,902
+23-05-03,Himalaya,Mascara,Himalaya Volume Boost Mascara,78.83,11,465
+23-05-03,Sugar Cosmetics,Sunscreen,Sugar Cosmetics Aqua Fresh SPF 50 Sunscreen,109.27,30,541
+23-05-03,Nykaa,Hair Serum,Nykaa Anti-Frizz Drops Hair Serum,13.04,56,410
+23-05-04,L'Oreal,Body Mist,L'Oreal Vanilla Dream Body Mist,3.49,4,623
+23-05-04,Sugar Cosmetics,Hair Oil,Sugar Cosmetics Olive Deep Hair Oil,119.12,14,224
+23-05-04,Nykaa,Hair Oil,Nykaa Light Daily Hair Oil,23.76,78,507
+23-05-05,Lakme,Deodorant,Lakme Sensitive Care Deodorant,69.94,34,342
+23-05-05,MAC,Foundation,MAC Skin Tint Foundation,53.36,15,844
+23-05-05,Sugar Cosmetics,Soap,Sugar Cosmetics Oatmeal Soft Soap,105.27,176,778
+23-05-05,Lakme,Blush,Lakme Coral Pop Blush,72.84,110,752
+23-05-05,Himalaya,Shampoo,Himalaya Anti-Dandruff Shampoo,49.82,14,855
+23-05-05,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,44.25,67,902
+23-05-05,Nykaa,Hair Mask,Nykaa Banana Nourish Hair Mask,37.76,21,527
+23-05-06,Revlon,Soap,Revlon Aloe Cool Soap,63.22,35,482
+23-05-07,Himalaya,Soap,Himalaya Classic Bar Soap,23.89,39,923
+23-05-08,The Body Shop,Soap,The Body Shop Charcoal Detox Soap,22.72,37,777
+23-05-08,Himalaya,Lipstick,Himalaya Matte Velvet Lipstick,25.47,110,587
+23-05-08,Nivea,Hair Oil,Nivea Bhringraj Care Hair Oil,30.25,70,371
+23-05-08,Maybelline,Hair Serum,Maybelline Repair & Seal Hair Serum,4.01,32,358
+23-05-08,The Body Shop,Moisturizer,The Body Shop Peptide Firm Moisturizer,58.44,108,437
+23-05-10,Maybelline,Face Mask,Maybelline Aloe Calm Face Mask,45.58,22,455
+23-05-10,Nykaa,Face Mask,Nykaa Collagen Boost Face Mask,45.71,50,369
+23-05-10,Maybelline,Soap,Maybelline Honey Gentle Soap,25.5,9,1146
+23-05-10,Nivea,Shampoo,Nivea Color Protect Shampoo,91.28,105,640
+23-05-10,Sugar Cosmetics,Hand Cream,Sugar Cosmetics Quick Absorb Hand Cream,112.5,124,723
+23-05-10,The Body Shop,Blush,The Body Shop Cheek Pop Blush,21.34,113,635
+23-05-11,Revlon,Conditioner,Revlon Volume Light Conditioner,44.57,34,245
+23-05-11,Revlon,Deodorant,Revlon Original 48H Deodorant,117.9,57,693
+23-05-11,Lakme,Deodorant,Lakme Sensitive Care Deodorant,118.21,46,342
+23-05-11,Himalaya,Hair Mask,Himalaya Deep Repair Hair Mask,84.19,22,418
+23-05-12,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,103.64,39,792
+23-05-12,Himalaya,Conditioner,Himalaya Smooth Silk Conditioner,44.36,14,321
+23-05-12,Revlon,Deodorant,Revlon Original 48H Deodorant,52.38,54,693
+23-05-12,Revlon,Hair Oil,Revlon Jojoba Smooth Hair Oil,88.61,22,373
+23-05-12,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,48.28,162,1090
+23-05-13,Nykaa,Eyeliner,Nykaa Brown Soft Eyeliner,90.81,116,693
+23-05-14,Nykaa,Serum,Nykaa Anti-Aging Youth Serum,54.97,34,380
+23-05-14,Nykaa,Hair Mask,Nykaa Banana Nourish Hair Mask,78.56,91,527
+23-05-14,Himalaya,Hair Mask,Himalaya Deep Repair Hair Mask,84.02,75,418
+23-05-14,Sugar Cosmetics,Sunscreen,Sugar Cosmetics Aqua Fresh SPF 50 Sunscreen,48.98,35,541
+23-05-15,Lakme,Hair Serum,Lakme Argan Gloss Hair Serum,15.45,218,869
+23-05-15,Himalaya,Serum,Himalaya Vitamin C Glow Serum,15.0,50,606
+23-05-16,MAC,Sunscreen,MAC Sport Waterproof Sunscreen,52.43,37,322
+23-05-17,Revlon,Lipstick,Revlon Coral Crush Lipstick,80.38,50,627
+23-05-17,The Body Shop,Hair Mask,The Body Shop Honey Silk Hair Mask,24.27,10,402
+23-05-17,Revlon,Perfume,Revlon Jasmine Noir Perfume,110.47,122,734
+23-05-17,Maybelline,Blush,Maybelline Berry Flush Blush,26.27,36,150
+23-05-18,Maybelline,Hand Cream,Maybelline Almond Care Hand Cream,82.28,50,471
+23-05-18,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,32.87,112,722
+23-05-18,Revlon,Soap,Revlon Aloe Cool Soap,20.38,12,482
+23-05-18,Sugar Cosmetics,Hand Cream,Sugar Cosmetics Quick Absorb Hand Cream,115.84,54,723
+23-05-18,The Body Shop,Deodorant,The Body Shop Citrus Guard Deodorant,118.64,27,477
+23-05-19,Lakme,Foundation,Lakme Full Coverage Foundation,49.12,50,601
+23-05-19,MAC,Body Mist,MAC Coconut Breeze Body Mist,79.59,18,451
+23-05-19,Nivea,Body Lotion,Nivea Vitamin Glow Body Lotion,69.0,124,810
+23-05-20,Maybelline,Soap,Maybelline Honey Gentle Soap,69.61,87,1146
+23-05-20,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,55.8,43,722
+23-05-20,Nivea,Blush,Nivea Bronze Warm Blush,117.0,6,120
+23-05-20,Lakme,Serum,Lakme Niacinamide Clear Serum,85.56,95,697
+23-05-20,Himalaya,Perfume,Himalaya Eau de Parfum Rose Perfume,34.2,68,759
+23-05-20,Maybelline,Mascara,Maybelline Fiber Lash Mascara,53.73,75,704
+23-05-20,Maybelline,Face Wash,Maybelline Aloe Hydrate Face Wash,114.55,46,294
+23-05-20,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,17.26,96,792
+23-05-21,Nykaa,Mascara,Nykaa Ultra Curl Mascara,80.83,38,346
+23-05-21,Lakme,Body Lotion,Lakme Aloe Vera Body Lotion,62.5,8,874
+23-05-21,Nykaa,Perfume,Nykaa Ocean Breeze Perfume,83.92,27,1263
+23-05-22,L'Oreal,Soap,L'Oreal Neem Purify Soap,114.81,36,915
+23-05-22,Nykaa,Soap,Nykaa Turmeric Glow Soap,43.42,60,758
+23-05-22,Revlon,Mascara,Revlon Dramatic Lash Mascara,17.84,132,499
+23-05-22,MAC,Hair Oil,MAC Almond Repair Hair Oil,95.55,18,296
+23-05-23,Himalaya,Lipstick,Himalaya Matte Velvet Lipstick,76.27,17,587
+23-05-23,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,62.65,28,637
+23-05-23,Sugar Cosmetics,Body Mist,Sugar Cosmetics Rose Petal Body Mist,48.32,53,469
+23-05-23,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,78.0,36,902
+23-05-24,Sugar Cosmetics,Moisturizer,Sugar Cosmetics Light Water Cream Moisturizer,69.97,8,360
+23-05-24,Nykaa,Serum,Nykaa Anti-Aging Youth Serum,29.78,33,380
+23-05-24,Maybelline,Serum,Maybelline Peptide Firm Serum,15.5,130,375
+23-05-24,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,56.05,40,1027
+23-05-24,The Body Shop,Blush,The Body Shop Cheek Pop Blush,66.1,27,635
+23-05-24,Nykaa,Soap,Nykaa Turmeric Glow Soap,84.69,16,758
+23-05-25,Lakme,Sunscreen,Lakme Invisible Matte Sunscreen,59.65,53,374
+23-05-25,Lakme,Body Mist,Lakme Fresh Berry Body Mist,73.0,47,603
+23-05-26,Nivea,Eyeliner,Nivea Felt-Tip Ultra Eyeliner,109.85,50,599
+23-05-26,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,78.59,129,623
+23-05-27,Himalaya,Eyeliner,Himalaya Waterproof Black Eyeliner,105.57,109,415
+23-05-27,Nykaa,Hair Mask,Nykaa Banana Nourish Hair Mask,27.77,46,527
+23-05-27,Lakme,Serum,Lakme Niacinamide Clear Serum,7.39,87,697
+23-05-28,Himalaya,Mascara,Himalaya Volume Boost Mascara,101.81,81,465
+23-05-28,Revlon,Face Wash,Revlon Charcoal Detox Face Wash,58.07,41,578
+23-05-30,Lakme,Soap,Lakme Glycerin Pure Soap,17.64,56,605
+23-05-30,Maybelline,Shampoo,Maybelline Herbal Cleanse Shampoo,111.99,60,508
+23-05-31,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,35.38,85,941
+23-05-31,Lakme,Body Mist,Lakme Fresh Berry Body Mist,112.25,43,603
+23-06-01,Revlon,Foundation,Revlon Stay True Foundation,47.14,58,466
+23-06-01,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,23.43,166,1098
+23-06-01,The Body Shop,Mascara,The Body Shop Lash Sensational Mascara,38.94,17,531
+23-06-01,Himalaya,Sunscreen,Himalaya SPF 50 Gel Sunscreen,102.27,17,309
+23-06-02,Maybelline,Sunscreen,Maybelline Daily UV Shield Sunscreen,6.51,60,393
+23-06-02,MAC,Body Wash,MAC Cocoa Butter Body Wash,103.58,24,586
+23-06-02,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,57.69,66,941
+23-06-02,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,113.68,76,941
+23-06-02,Lakme,Serum,Lakme Niacinamide Clear Serum,69.19,55,697
+23-06-02,The Body Shop,Hair Oil,The Body Shop Herbal Blend Hair Oil,93.63,19,476
+23-06-02,Nivea,Serum,Nivea Brightening Dark Spot Serum,62.15,96,596
+23-06-02,Maybelline,Moisturizer,Maybelline Oil-Free Gel Moisturizer,67.96,10,382
+23-06-03,Nivea,Blush,Nivea Bronze Warm Blush,84.16,43,120
+23-06-03,Nykaa,Hair Oil,Nykaa Light Daily Hair Oil,79.54,62,507
+23-06-03,MAC,Hair Serum,MAC Heat Protect Hair Serum,64.39,13,458
+23-06-03,Maybelline,Soap,Maybelline Honey Gentle Soap,57.46,31,1146
+23-06-04,L'Oreal,Hair Serum,L'Oreal Silk Smooth Hair Serum,66.82,50,737
+23-06-04,Revlon,Deodorant,Revlon Original 48H Deodorant,110.73,99,693
+23-06-06,Nivea,Hair Mask,Nivea Color Lock Hair Mask,111.35,48,390
+23-06-06,MAC,Hand Cream,MAC Soft Touch Hand Cream,112.81,50,427
+23-06-06,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,23.71,41,637
+23-06-06,Lakme,Soap,Lakme Glycerin Pure Soap,78.3,58,605
+23-06-07,MAC,Body Lotion,MAC Skin Firming Body Lotion,53.93,9,660
+23-06-08,Maybelline,Hair Serum,Maybelline Repair & Seal Hair Serum,4.63,16,358
+23-06-08,MAC,Eyeliner,MAC Kohl Smoky Eyeliner,85.72,31,480
+23-06-08,L'Oreal,Mascara,L'Oreal Lash Lengthening Mascara,39.25,72,414
+23-06-09,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,111.75,25,1090
+23-06-09,Maybelline,Face Wash,Maybelline Aloe Hydrate Face Wash,16.23,32,294
+23-06-10,Sugar Cosmetics,Hair Serum,Sugar Cosmetics Split-End Care Hair Serum,112.15,104,478
+23-06-10,The Body Shop,Deodorant,The Body Shop Citrus Guard Deodorant,6.63,25,477
+23-06-10,Maybelline,Mascara,Maybelline Fiber Lash Mascara,44.06,154,704
+23-06-10,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,13.37,204,943
+23-06-10,Sugar Cosmetics,Deodorant,Sugar Cosmetics Charcoal Clean Deodorant,32.72,68,584
+23-06-11,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,59.74,92,787
+23-06-11,Maybelline,Shampoo,Maybelline Herbal Cleanse Shampoo,94.85,28,508
+23-06-12,Himalaya,Foundation,Himalaya Matte Finish Foundation,41.64,54,539
+23-06-13,Revlon,Hair Serum,Revlon Lightweight Leave-In Hair Serum,73.12,45,379
+23-06-13,Nivea,Shampoo,Nivea Color Protect Shampoo,102.98,44,640
+23-06-14,Lakme,Hair Serum,Lakme Argan Gloss Hair Serum,51.88,19,869
+23-06-14,MAC,Hand Cream,MAC Soft Touch Hand Cream,62.95,84,427
+23-06-14,L'Oreal,Body Mist,L'Oreal Vanilla Dream Body Mist,64.73,29,623
+23-06-15,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,12.19,6,792
+23-06-15,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,81.5,34,1422
+23-06-15,MAC,Foundation,MAC Skin Tint Foundation,110.73,28,844
+23-06-15,Lakme,Body Lotion,Lakme Aloe Vera Body Lotion,45.39,90,874
+23-06-16,The Body Shop,Blush,The Body Shop Cheek Pop Blush,39.29,30,635
+23-06-16,Sugar Cosmetics,Body Mist,Sugar Cosmetics Rose Petal Body Mist,24.63,55,469
+23-06-16,Revlon,Deodorant,Revlon Original 48H Deodorant,9.51,21,693
+23-06-17,Maybelline,Lipstick,Maybelline Liquid Lip Color Lipstick,106.55,42,495
+23-06-18,L'Oreal,Eyeliner,L'Oreal Gel Precision Eyeliner,42.5,44,464
+23-06-18,MAC,Body Wash,MAC Cocoa Butter Body Wash,91.54,111,586
+23-06-18,Maybelline,Shampoo,Maybelline Herbal Cleanse Shampoo,19.73,113,508
+23-06-18,Nivea,Hand Cream,Nivea Rich Moisture Hand Cream,59.87,24,607
+23-06-19,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,108.31,140,1027
+23-06-19,Nivea,Body Mist,Nivea Tropical Splash Body Mist,65.98,42,718
+23-06-19,Himalaya,Eyeliner,Himalaya Waterproof Black Eyeliner,69.9,24,415
+23-06-19,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,113.83,28,1422
+23-06-20,Sugar Cosmetics,Body Mist,Sugar Cosmetics Rose Petal Body Mist,19.3,14,469
+23-06-20,The Body Shop,Hair Oil,The Body Shop Herbal Blend Hair Oil,81.56,44,476
+23-06-20,Maybelline,Mascara,Maybelline Fiber Lash Mascara,97.2,74,704
+23-06-21,Himalaya,Sunscreen,Himalaya SPF 50 Gel Sunscreen,83.3,17,309
+23-06-21,Lakme,Soap,Lakme Glycerin Pure Soap,27.37,239,605
+23-06-21,Revlon,Blush,Revlon Shimmer Sunset Blush,92.87,24,314
+23-06-21,L'Oreal,Shampoo,L'Oreal Smooth & Shine Shampoo,39.72,95,723
+23-06-22,Revlon,Lipstick,Revlon Coral Crush Lipstick,5.23,76,627
+23-06-22,Nivea,Hair Mask,Nivea Color Lock Hair Mask,52.58,93,390
+23-06-22,Sugar Cosmetics,Foundation,Sugar Cosmetics Luminous Silk Foundation,113.58,59,671
+23-06-23,L'Oreal,Hair Mask,L'Oreal Keratin Smooth Hair Mask,112.8,104,404
+23-06-23,Lakme,Body Wash,Lakme Honey Almond Body Wash,53.2,94,333
+23-06-24,Himalaya,Serum,Himalaya Vitamin C Glow Serum,78.89,26,606
+23-06-24,Nykaa,Hair Serum,Nykaa Anti-Frizz Drops Hair Serum,44.97,47,410
+23-06-25,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,112.74,74,792
+23-06-25,Nivea,Hair Oil,Nivea Bhringraj Care Hair Oil,9.85,26,371
+23-06-25,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,61.28,19,902
+23-06-25,L'Oreal,Perfume,L'Oreal Midnight Musk Perfume,72.3,92,680
+23-06-26,Maybelline,Hand Cream,Maybelline Almond Care Hand Cream,70.89,16,471
+23-06-26,Revlon,Serum,Revlon Snail Repair Serum,25.67,67,578
+23-06-26,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,49.3,84,1205
+23-06-27,Himalaya,Moisturizer,Himalaya Hydra Boost Moisturizer,66.82,24,362
+23-06-28,The Body Shop,Moisturizer,The Body Shop Peptide Firm Moisturizer,115.77,7,437
+23-06-28,L'Oreal,Hair Mask,L'Oreal Keratin Smooth Hair Mask,60.21,13,404
+23-06-29,Nivea,Hair Oil,Nivea Bhringraj Care Hair Oil,77.89,29,371
+23-06-29,Revlon,Face Wash,Revlon Charcoal Detox Face Wash,25.98,165,578
+23-06-29,Maybelline,Body Lotion,Maybelline Shea Silk Body Lotion,38.27,58,460
+23-06-30,Lakme,Sunscreen,Lakme Invisible Matte Sunscreen,112.73,136,374
+23-07-01,Nivea,Lipstick,Nivea Berry Bold Lipstick,17.08,81,604
+23-07-01,MAC,Foundation,MAC Skin Tint Foundation,107.96,60,844
+23-07-01,Nivea,Perfume,Nivea Velvet Vanilla Perfume,16.05,8,775
+23-07-02,L'Oreal,Moisturizer,L'Oreal Daily Glow Moisturizer,105.28,25,433
+23-07-02,The Body Shop,Blush,The Body Shop Cheek Pop Blush,41.17,20,635
+23-07-03,Sugar Cosmetics,Face Wash,Sugar Cosmetics Sensitive Soothe Face Wash,86.78,92,497
+23-07-03,L'Oreal,Moisturizer,L'Oreal Daily Glow Moisturizer,70.0,66,433
+23-07-03,L'Oreal,Foundation,L'Oreal Dewy Glow Foundation,67.68,41,218
+23-07-04,Lakme,Hair Serum,Lakme Argan Gloss Hair Serum,27.07,61,869
+23-07-05,Maybelline,Body Mist,Maybelline Pure Lavender Body Mist,65.28,76,1204
+23-07-05,MAC,Serum,MAC Retinol Renew Serum,32.17,54,466
+23-07-05,Nykaa,Shampoo,Nykaa Gentle Daily Shampoo,26.23,149,341
+23-07-05,L'Oreal,Hair Oil,L'Oreal Coconut Shine Hair Oil,18.73,51,367
+23-07-05,Nivea,Perfume,Nivea Velvet Vanilla Perfume,96.34,103,775
+23-07-06,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,68.6,13,890
+23-07-07,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,84.44,13,623
+23-07-07,MAC,Mascara,MAC Black Intense Mascara,30.72,108,315
+23-07-07,Nivea,Soap,Nivea Rose Cream Soap,102.07,24,283
+23-07-07,Lakme,Blush,Lakme Coral Pop Blush,50.4,39,752
+23-07-07,Nykaa,Soap,Nykaa Turmeric Glow Soap,18.47,59,758
+23-07-08,Himalaya,Foundation,Himalaya Matte Finish Foundation,88.28,44,539
+23-07-08,Sugar Cosmetics,Mascara,Sugar Cosmetics Smudge-Proof Mascara,31.32,30,324
+23-07-08,Nykaa,Hand Cream,Nykaa Glycerin Soothe Hand Cream,33.52,26,638
+23-07-08,Lakme,Body Mist,Lakme Fresh Berry Body Mist,109.62,14,603
+23-07-08,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,104.96,23,623
+23-07-09,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,30.13,37,1090
+23-07-09,L'Oreal,Body Wash,L'Oreal Aloe Fresh Body Wash,39.61,100,499
+23-07-10,Lakme,Eyeliner,Lakme Liquid Wing Eyeliner,12.97,120,433
+23-07-10,L'Oreal,Face Mask,L'Oreal Hydrating Sheet Face Mask,5.76,57,670
+23-07-10,MAC,Eyeliner,MAC Kohl Smoky Eyeliner,73.6,30,480
+23-07-10,Nykaa,Body Wash,Nykaa Moisture Plus Body Wash,82.38,91,661
+23-07-11,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,17.84,33,1421
+23-07-11,The Body Shop,Mascara,The Body Shop Lash Sensational Mascara,90.62,30,531
+23-07-11,Revlon,Shampoo,Revlon Strength & Growth Shampoo,81.59,47,839
+23-07-11,Himalaya,Lipstick,Himalaya Matte Velvet Lipstick,11.3,75,587
+23-07-11,Revlon,Deodorant,Revlon Original 48H Deodorant,37.45,97,693
+23-07-11,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,74.03,59,1205
+23-07-12,Sugar Cosmetics,Face Mask,Sugar Cosmetics Honey Repair Face Mask,51.99,44,794
+23-07-12,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,75.44,104,1422
+23-07-13,Nivea,Body Lotion,Nivea Vitamin Glow Body Lotion,45.5,6,810
+23-07-13,L'Oreal,Soap,L'Oreal Neem Purify Soap,111.68,115,915
+23-07-14,Sugar Cosmetics,Face Mask,Sugar Cosmetics Honey Repair Face Mask,114.32,51,794
+23-07-14,MAC,Perfume,MAC Amber Oud Perfume,19.74,26,1033
+23-07-14,MAC,Soap,MAC Sandal Fresh Soap,45.54,49,328
+23-07-16,L'Oreal,Face Mask,L'Oreal Hydrating Sheet Face Mask,54.49,60,670
+23-07-16,L'Oreal,Perfume,L'Oreal Midnight Musk Perfume,95.26,33,680
+23-07-16,The Body Shop,Mascara,The Body Shop Lash Sensational Mascara,9.41,73,531
+23-07-17,Nivea,Hair Oil,Nivea Bhringraj Care Hair Oil,101.19,13,371
+23-07-18,Sugar Cosmetics,Body Mist,Sugar Cosmetics Rose Petal Body Mist,105.89,33,469
+23-07-18,Lakme,Foundation,Lakme Full Coverage Foundation,10.87,76,601
+23-07-19,Himalaya,Hair Mask,Himalaya Deep Repair Hair Mask,12.34,78,418
+23-07-21,Nivea,Conditioner,Nivea Keratin Nourish Conditioner,103.33,40,373
+23-07-21,Maybelline,Face Wash,Maybelline Aloe Hydrate Face Wash,10.7,80,294
+23-07-22,Nykaa,Foundation,Nykaa Flawless Satin Foundation,37.64,18,373
+23-07-22,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,56.23,161,637
+23-07-22,MAC,Moisturizer,MAC Ceramide Repair Moisturizer,8.17,23,489
+23-07-23,L'Oreal,Moisturizer,L'Oreal Daily Glow Moisturizer,32.63,77,433
+23-07-23,Revlon,Perfume,Revlon Jasmine Noir Perfume,92.57,65,734
+23-07-23,Sugar Cosmetics,Hand Cream,Sugar Cosmetics Quick Absorb Hand Cream,29.84,8,723
+23-07-23,Revlon,Perfume,Revlon Jasmine Noir Perfume,37.85,30,734
+23-07-24,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,100.49,78,1090
+23-07-24,MAC,Soap,MAC Sandal Fresh Soap,4.53,7,328
+23-07-24,Himalaya,Shampoo,Himalaya Anti-Dandruff Shampoo,23.73,166,855
+23-07-24,Nykaa,Moisturizer,Nykaa Deep Hydration Moisturizer,32.28,154,695
+23-07-24,The Body Shop,Hair Mask,The Body Shop Honey Silk Hair Mask,46.09,151,402
+23-07-24,L'Oreal,Conditioner,L'Oreal Deep Repair Conditioner,98.64,15,728
+23-07-24,Sugar Cosmetics,Soap,Sugar Cosmetics Oatmeal Soft Soap,45.26,94,778
+23-07-24,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,111.9,35,575
+23-07-26,Sugar Cosmetics,Moisturizer,Sugar Cosmetics Light Water Cream Moisturizer,11.47,37,360
+23-07-26,L'Oreal,Perfume,L'Oreal Midnight Musk Perfume,99.06,31,680
+23-07-26,The Body Shop,Hair Oil,The Body Shop Herbal Blend Hair Oil,66.62,48,476
+23-07-27,Lakme,Moisturizer,Lakme Aloe Soothe Moisturizer,53.85,81,284
+23-07-27,Nivea,Body Mist,Nivea Tropical Splash Body Mist,36.39,22,718
+23-07-27,The Body Shop,Hair Oil,The Body Shop Herbal Blend Hair Oil,15.07,75,476
+23-07-29,Sugar Cosmetics,Lipstick,Sugar Cosmetics Long-Wear Classic Lipstick,103.43,49,487
+23-07-29,Lakme,Hand Cream,Lakme Daily Nourish Hand Cream,31.32,108,626
+23-07-30,Maybelline,Eyeliner,Maybelline Smudge-Proof Pencil Eyeliner,13.19,43,156
+23-07-30,Nivea,Face Wash,Nivea Deep Clean Face Wash,117.05,50,539
+23-07-30,Nykaa,Perfume,Nykaa Ocean Breeze Perfume,104.01,197,1263
+23-07-30,MAC,Hair Oil,MAC Almond Repair Hair Oil,57.56,29,296
+23-07-30,Revlon,Moisturizer,Revlon Night Renew Moisturizer,3.61,25,635
+23-07-30,Maybelline,Sunscreen,Maybelline Daily UV Shield Sunscreen,58.86,55,393
+23-07-31,Revlon,Perfume,Revlon Jasmine Noir Perfume,14.66,104,734
+23-07-31,MAC,Foundation,MAC Skin Tint Foundation,102.85,42,844
+23-08-02,Revlon,Perfume,Revlon Jasmine Noir Perfume,31.92,23,734
+23-08-02,Revlon,Perfume,Revlon Jasmine Noir Perfume,29.02,15,734
+23-08-02,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,21.92,157,1090
+23-08-03,MAC,Deodorant,MAC Cool Sport Deodorant,62.07,78,480
+23-08-03,Himalaya,Serum,Himalaya Vitamin C Glow Serum,29.89,4,606
+23-08-03,Nykaa,Body Wash,Nykaa Moisture Plus Body Wash,108.64,23,661
+23-08-03,Nivea,Soap,Nivea Rose Cream Soap,25.06,71,283
+23-08-04,Nykaa,Hair Serum,Nykaa Anti-Frizz Drops Hair Serum,9.27,64,410
+23-08-04,Nykaa,Serum,Nykaa Anti-Aging Youth Serum,60.4,50,380
+23-08-04,Maybelline,Serum,Maybelline Peptide Firm Serum,72.74,16,375
+23-08-04,Sugar Cosmetics,Hand Cream,Sugar Cosmetics Quick Absorb Hand Cream,58.19,161,723
+23-08-04,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,98.87,78,941
+23-08-05,MAC,Foundation,MAC Skin Tint Foundation,70.58,111,844
+23-08-05,MAC,Hair Oil,MAC Almond Repair Hair Oil,38.77,64,296
+23-08-05,Maybelline,Body Lotion,Maybelline Shea Silk Body Lotion,89.1,88,460
+23-08-05,Himalaya,Soap,Himalaya Classic Bar Soap,25.77,75,923
+23-08-06,Himalaya,Soap,Himalaya Classic Bar Soap,46.43,27,923
+23-08-06,Revlon,Moisturizer,Revlon Night Renew Moisturizer,13.18,52,635
+23-08-06,Sugar Cosmetics,Shampoo,Sugar Cosmetics Keratin Care Shampoo,89.52,5,638
+23-08-06,Himalaya,Sunscreen,Himalaya SPF 50 Gel Sunscreen,17.88,41,309
+23-08-07,Revlon,Shampoo,Revlon Strength & Growth Shampoo,51.83,11,839
+23-08-07,Nykaa,Lipstick,Nykaa Moisture Shine Lipstick,28.63,181,846
+23-08-08,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,16.4,64,575
+23-08-08,Revlon,Shampoo,Revlon Strength & Growth Shampoo,41.68,30,839
+23-08-11,Nykaa,Deodorant,Nykaa Pearl Beauty Deodorant,81.38,38,356
+23-08-11,Sugar Cosmetics,Face Mask,Sugar Cosmetics Honey Repair Face Mask,104.13,144,794
+23-08-12,Nivea,Moisturizer,Nivea Vitamin C Bright Moisturizer,72.46,77,293
+23-08-13,Revlon,Blush,Revlon Shimmer Sunset Blush,56.72,87,314
+23-08-13,Lakme,Body Lotion,Lakme Aloe Vera Body Lotion,21.82,60,874
+23-08-13,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,45.14,52,1027
+23-08-14,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,20.23,47,943
+23-08-14,Maybelline,Lipstick,Maybelline Liquid Lip Color Lipstick,119.96,72,495
+23-08-14,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,93.06,97,1098
+23-08-15,Nykaa,Face Wash,Nykaa Acne Clear Face Wash,101.94,23,479
+23-08-15,Lakme,Face Mask,Lakme Brightening Glow Face Mask,88.95,41,257
+23-08-15,Himalaya,Eyeliner,Himalaya Waterproof Black Eyeliner,118.7,43,415
+23-08-15,Himalaya,Hand Cream,Himalaya Intensive Repair Hand Cream,27.98,114,641
+23-08-15,Nivea,Serum,Nivea Brightening Dark Spot Serum,53.5,100,596
+23-08-15,Maybelline,Hair Mask,Maybelline Protein Strength Hair Mask,85.5,41,719
+23-08-16,Sugar Cosmetics,Hand Cream,Sugar Cosmetics Quick Absorb Hand Cream,64.94,9,723
+23-08-16,Sugar Cosmetics,Moisturizer,Sugar Cosmetics Light Water Cream Moisturizer,18.64,85,360
+23-08-16,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,41.64,99,1421
+23-08-17,Lakme,Perfume,Lakme Floral Bloom Perfume,65.24,91,651
+23-08-17,Nykaa,Serum,Nykaa Anti-Aging Youth Serum,110.94,6,380
+23-08-18,The Body Shop,Sunscreen,The Body Shop Glow Protect Sunscreen,84.39,38,378
+23-08-18,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,5.64,60,792
+23-08-18,MAC,Sunscreen,MAC Sport Waterproof Sunscreen,86.68,85,322
+23-08-18,The Body Shop,Body Lotion,The Body Shop Milk Nourish Body Lotion,69.56,37,213
+23-08-18,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,11.49,33,652
+23-08-19,Nivea,Serum,Nivea Brightening Dark Spot Serum,15.38,77,596
+23-08-19,Himalaya,Deodorant,Himalaya Active Dry Deodorant,57.36,81,1122
+23-08-20,MAC,Perfume,MAC Amber Oud Perfume,7.78,72,1033
+23-08-21,L'Oreal,Sunscreen,L'Oreal SPF 30 Light Sunscreen,117.25,15,104
+23-08-22,Revlon,Foundation,Revlon Stay True Foundation,60.59,37,466
+23-08-23,Maybelline,Shampoo,Maybelline Herbal Cleanse Shampoo,4.33,27,508
+23-08-23,Lakme,Body Mist,Lakme Fresh Berry Body Mist,12.13,49,603
+23-08-23,Sugar Cosmetics,Blush,Sugar Cosmetics Nude Bloom Blush,60.89,54,359
+23-08-23,Himalaya,Face Mask,Himalaya Clay Detox Face Mask,4.33,125,671
+23-08-25,Himalaya,Deodorant,Himalaya Active Dry Deodorant,63.73,16,1122
+23-08-25,Sugar Cosmetics,Face Wash,Sugar Cosmetics Sensitive Soothe Face Wash,71.3,73,497
+23-08-25,Nykaa,Blush,Nykaa Cream Cheek Blush,67.67,61,434
+23-08-25,The Body Shop,Deodorant,The Body Shop Citrus Guard Deodorant,59.19,37,477
+23-08-25,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,84.53,21,1027
+23-08-26,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,83.88,3,1098
+23-08-26,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,28.8,67,1422
+23-08-27,Nykaa,Moisturizer,Nykaa Deep Hydration Moisturizer,104.34,139,695
+23-08-27,Nykaa,Deodorant,Nykaa Pearl Beauty Deodorant,16.94,56,356
+23-08-27,Revlon,Hand Cream,Revlon Vitamin E Hand Cream,25.07,93,631
+23-08-27,Sugar Cosmetics,Face Mask,Sugar Cosmetics Honey Repair Face Mask,103.52,27,794
+23-08-27,MAC,Hand Cream,MAC Soft Touch Hand Cream,62.98,59,427
+23-08-28,Lakme,Hair Serum,Lakme Argan Gloss Hair Serum,101.79,48,869
+23-08-29,L'Oreal,Face Wash,L'Oreal Gentle Foaming Face Wash,30.58,21,312
+23-08-29,Maybelline,Face Mask,Maybelline Aloe Calm Face Mask,18.11,78,455
+23-08-30,Himalaya,Hand Cream,Himalaya Intensive Repair Hand Cream,88.8,125,641
+23-08-31,Nivea,Face Wash,Nivea Deep Clean Face Wash,112.13,111,539
+23-09-01,Nivea,Lipstick,Nivea Berry Bold Lipstick,87.01,58,604
+23-09-02,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,64.46,77,943
+23-09-02,Lakme,Face Mask,Lakme Brightening Glow Face Mask,75.11,42,257
+23-09-03,Revlon,Conditioner,Revlon Volume Light Conditioner,98.86,44,245
+23-09-03,Revlon,Mascara,Revlon Dramatic Lash Mascara,35.99,28,499
+23-09-04,Sugar Cosmetics,Hair Oil,Sugar Cosmetics Olive Deep Hair Oil,65.99,12,224
+23-09-04,Himalaya,Conditioner,Himalaya Smooth Silk Conditioner,31.93,39,321
+23-09-04,Nivea,Body Lotion,Nivea Vitamin Glow Body Lotion,100.22,31,810
+23-09-04,The Body Shop,Serum,The Body Shop Green Tea Balance Serum,9.67,16,389
+23-09-04,L'Oreal,Face Wash,L'Oreal Gentle Foaming Face Wash,61.54,13,312
+23-09-05,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,12.0,72,914
+23-09-05,Himalaya,Face Mask,Himalaya Clay Detox Face Mask,13.58,43,671
+23-09-06,Sugar Cosmetics,Blush,Sugar Cosmetics Nude Bloom Blush,18.59,23,359
+23-09-06,The Body Shop,Lipstick,The Body Shop Plum Perfect Lipstick,77.46,34,458
+23-09-06,Revlon,Mascara,Revlon Dramatic Lash Mascara,26.01,111,499
+23-09-07,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,26.47,27,890
+23-09-07,MAC,Shampoo,MAC Repair Intense Shampoo,55.5,23,344
+23-09-07,Revlon,Moisturizer,Revlon Night Renew Moisturizer,15.54,97,635
+23-09-08,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,59.99,52,941
+23-09-08,Lakme,Moisturizer,Lakme Aloe Soothe Moisturizer,46.82,18,284
+23-09-08,Nivea,Body Wash,Nivea Oat Soothe Body Wash,10.61,30,197
+23-09-08,Himalaya,Mascara,Himalaya Volume Boost Mascara,32.24,29,465
+23-09-09,Revlon,Eyeliner,Revlon Glitter Shine Eyeliner,54.13,131,856
+23-09-09,L'Oreal,Foundation,L'Oreal Dewy Glow Foundation,80.42,41,218
+23-09-10,The Body Shop,Blush,The Body Shop Cheek Pop Blush,12.45,130,635
+23-09-10,Himalaya,Foundation,Himalaya Matte Finish Foundation,104.9,111,539
+23-09-11,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,70.94,17,729
+23-09-12,The Body Shop,Soap,The Body Shop Charcoal Detox Soap,41.13,152,777
+23-09-12,L'Oreal,Foundation,L'Oreal Dewy Glow Foundation,21.98,17,218
+23-09-12,Maybelline,Body Lotion,Maybelline Shea Silk Body Lotion,119.93,62,460
+23-09-12,Himalaya,Lipstick,Himalaya Matte Velvet Lipstick,30.16,64,587
+23-09-12,Himalaya,Soap,Himalaya Classic Bar Soap,87.18,15,923
+23-09-12,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,116.57,65,729
+23-09-13,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,7.21,58,575
+23-09-13,Maybelline,Hand Cream,Maybelline Almond Care Hand Cream,78.66,92,471
+23-09-13,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,57.27,92,1090
+23-09-13,Nykaa,Foundation,Nykaa Flawless Satin Foundation,77.94,52,373
+23-09-14,Sugar Cosmetics,Conditioner,Sugar Cosmetics Herbal Strength Conditioner,3.27,2,515
+23-09-14,Nykaa,Perfume,Nykaa Ocean Breeze Perfume,113.3,73,1263
+23-09-14,Nykaa,Soap,Nykaa Turmeric Glow Soap,9.63,89,758
+23-09-14,Revlon,Shampoo,Revlon Strength & Growth Shampoo,63.73,59,839
+23-09-15,MAC,Perfume,MAC Amber Oud Perfume,102.21,112,1033
+23-09-15,Revlon,Face Wash,Revlon Charcoal Detox Face Wash,102.8,60,578
+23-09-15,L'Oreal,Soap,L'Oreal Neem Purify Soap,35.54,66,915
+23-09-15,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,118.87,33,722
+23-09-16,Nivea,Blush,Nivea Bronze Warm Blush,7.69,12,120
+23-09-16,Maybelline,Hair Mask,Maybelline Protein Strength Hair Mask,22.98,67,719
+23-09-17,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,26.78,116,890
+23-09-17,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,82.15,69,1090
+23-09-18,Sugar Cosmetics,Hair Mask,Sugar Cosmetics Damage Rescue Hair Mask,83.23,36,520
+23-09-18,Himalaya,Sunscreen,Himalaya SPF 50 Gel Sunscreen,50.25,39,309
+23-09-18,Lakme,Hair Mask,Lakme Argan Revive Hair Mask,70.81,38,237
+23-09-19,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,65.81,47,1205
+23-09-19,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,41.61,89,943
+23-09-19,The Body Shop,Lipstick,The Body Shop Plum Perfect Lipstick,77.09,48,458
+23-09-19,Lakme,Conditioner,Lakme Color Care Conditioner,95.98,15,216
+23-09-20,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,114.72,66,1027
+23-09-21,L'Oreal,Body Mist,L'Oreal Vanilla Dream Body Mist,113.59,30,623
+23-09-22,MAC,Face Wash,MAC Brightening Glow Face Wash,101.44,49,273
+23-09-22,MAC,Moisturizer,MAC Ceramide Repair Moisturizer,20.5,28,489
+23-09-22,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,41.06,39,902
+23-09-23,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,59.79,27,1422
+23-09-23,Nivea,Body Mist,Nivea Tropical Splash Body Mist,116.14,192,718
+23-09-23,Lakme,Serum,Lakme Niacinamide Clear Serum,74.2,24,697
+23-09-24,MAC,Deodorant,MAC Cool Sport Deodorant,31.14,26,480
+23-09-24,L'Oreal,Perfume,L'Oreal Midnight Musk Perfume,117.17,5,680
+23-09-24,Lakme,Face Mask,Lakme Brightening Glow Face Mask,58.48,30,257
+23-09-25,Nivea,Deodorant,Nivea Roll-On Aqua Deodorant,112.8,42,424
+23-09-25,L'Oreal,Body Mist,L'Oreal Vanilla Dream Body Mist,60.05,43,623
+23-09-25,Lakme,Hand Cream,Lakme Daily Nourish Hand Cream,104.9,28,626
+23-09-25,Nivea,Body Wash,Nivea Oat Soothe Body Wash,44.79,51,197
+23-09-26,Revlon,Mascara,Revlon Dramatic Lash Mascara,65.28,36,499
+23-09-27,Nivea,Conditioner,Nivea Keratin Nourish Conditioner,76.66,29,373
+23-09-27,Sugar Cosmetics,Lipstick,Sugar Cosmetics Long-Wear Classic Lipstick,106.97,16,487
+23-09-27,Lakme,Face Mask,Lakme Brightening Glow Face Mask,6.22,68,257
+23-09-27,Maybelline,Moisturizer,Maybelline Oil-Free Gel Moisturizer,5.1,50,382
+23-09-28,Lakme,Hand Cream,Lakme Daily Nourish Hand Cream,4.08,22,626
+23-09-28,MAC,Shampoo,MAC Repair Intense Shampoo,20.54,48,344
+23-09-28,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,18.32,82,575
+23-09-29,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,92.65,22,623
+23-09-29,Revlon,Hair Serum,Revlon Lightweight Leave-In Hair Serum,64.61,20,379
+23-09-30,Himalaya,Shampoo,Himalaya Anti-Dandruff Shampoo,80.99,59,855
+23-09-30,Sugar Cosmetics,Moisturizer,Sugar Cosmetics Light Water Cream Moisturizer,5.62,32,360
+23-09-30,Himalaya,Moisturizer,Himalaya Hydra Boost Moisturizer,107.25,120,362
+23-10-01,MAC,Blush,MAC Soft Pink Blush,93.36,166,469
+23-10-01,L'Oreal,Body Mist,L'Oreal Vanilla Dream Body Mist,98.79,31,623
+23-10-03,Revlon,Perfume,Revlon Jasmine Noir Perfume,87.29,15,734
+23-10-03,MAC,Perfume,MAC Amber Oud Perfume,7.6,27,1033
+23-10-03,Revlon,Hand Cream,Revlon Vitamin E Hand Cream,112.21,75,631
+23-10-03,Revlon,Soap,Revlon Aloe Cool Soap,112.46,59,482
+23-10-04,Maybelline,Sunscreen,Maybelline Daily UV Shield Sunscreen,27.56,74,393
+23-10-04,Himalaya,Soap,Himalaya Classic Bar Soap,6.91,78,923
+23-10-04,Maybelline,Soap,Maybelline Honey Gentle Soap,20.48,50,1146
+23-10-04,Himalaya,Conditioner,Himalaya Smooth Silk Conditioner,98.84,29,321
+23-10-04,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,45.15,83,983
+23-10-04,Revlon,Hair Serum,Revlon Lightweight Leave-In Hair Serum,22.61,90,379
+23-10-04,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,69.89,86,637
+23-10-06,Sugar Cosmetics,Face Wash,Sugar Cosmetics Sensitive Soothe Face Wash,23.46,2,497
+23-10-06,The Body Shop,Serum,The Body Shop Green Tea Balance Serum,43.69,186,389
+23-10-06,Maybelline,Hand Cream,Maybelline Almond Care Hand Cream,117.67,13,471
+23-10-06,L'Oreal,Eyeliner,L'Oreal Gel Precision Eyeliner,89.91,65,464
+23-10-07,The Body Shop,Moisturizer,The Body Shop Peptide Firm Moisturizer,21.57,143,437
+23-10-07,MAC,Body Mist,MAC Coconut Breeze Body Mist,6.61,49,451
+23-10-07,Nykaa,Perfume,Nykaa Ocean Breeze Perfume,13.12,60,1263
+23-10-08,Lakme,Lipstick,Lakme Ruby Red Lipstick,87.57,53,563
+23-10-08,Himalaya,Sunscreen,Himalaya SPF 50 Gel Sunscreen,53.52,17,309
+23-10-09,MAC,Body Mist,MAC Coconut Breeze Body Mist,39.27,62,451
+23-10-09,The Body Shop,Hair Oil,The Body Shop Herbal Blend Hair Oil,8.14,42,476
+23-10-10,Sugar Cosmetics,Shampoo,Sugar Cosmetics Keratin Care Shampoo,32.54,40,638
+23-10-11,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,12.07,28,941
+23-10-11,The Body Shop,Lipstick,The Body Shop Plum Perfect Lipstick,41.94,21,458
+23-10-11,Nykaa,Perfume,Nykaa Ocean Breeze Perfume,97.82,47,1263
+23-10-11,Lakme,Foundation,Lakme Full Coverage Foundation,21.77,88,601
+23-10-12,Revlon,Lipstick,Revlon Coral Crush Lipstick,94.85,58,627
+23-10-12,Revlon,Conditioner,Revlon Volume Light Conditioner,78.22,55,245
+23-10-13,The Body Shop,Eyeliner,The Body Shop Matte Define Eyeliner,48.0,34,195
+23-10-13,Nykaa,Soap,Nykaa Turmeric Glow Soap,97.8,8,758
+23-10-15,Revlon,Face Wash,Revlon Charcoal Detox Face Wash,21.08,29,578
+23-10-16,Lakme,Deodorant,Lakme Sensitive Care Deodorant,53.12,18,342
+23-10-17,Nykaa,Blush,Nykaa Cream Cheek Blush,32.35,16,434
+23-10-17,Maybelline,Foundation,Maybelline Long-Wear Foundation,18.9,11,711
+23-10-17,Revlon,Shampoo,Revlon Strength & Growth Shampoo,117.01,96,839
+23-10-18,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,105.62,37,1205
+23-10-18,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,65.85,33,729
+23-10-18,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,54.73,43,983
+23-10-18,Nivea,Soap,Nivea Rose Cream Soap,81.54,48,283
+23-10-19,Himalaya,Moisturizer,Himalaya Hydra Boost Moisturizer,40.45,95,362
+23-10-19,Revlon,Hair Mask,Revlon Coconut Cream Hair Mask,79.77,48,455
+23-10-19,L'Oreal,Blush,L'Oreal Rose Petal Blush,62.1,30,720
+23-10-19,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,77.14,27,722
+23-10-19,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,3.75,67,914
+23-10-19,Himalaya,Body Lotion,Himalaya Cocoa Radiance Body Lotion,51.29,69,218
+23-10-19,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,99.79,36,623
+23-10-20,Revlon,Mascara,Revlon Dramatic Lash Mascara,105.01,71,499
+23-10-21,Lakme,Eyeliner,Lakme Liquid Wing Eyeliner,51.92,39,433
+23-10-21,Revlon,Body Wash,Revlon Sea Mineral Body Wash,65.12,47,543
+23-10-21,Nivea,Body Mist,Nivea Tropical Splash Body Mist,18.73,21,718
+23-10-22,Maybelline,Sunscreen,Maybelline Daily UV Shield Sunscreen,94.32,40,393
+23-10-22,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,90.56,43,890
+23-10-22,Himalaya,Soap,Himalaya Classic Bar Soap,98.6,109,923
+23-10-23,Maybelline,Soap,Maybelline Honey Gentle Soap,46.68,89,1146
+23-10-23,Maybelline,Mascara,Maybelline Fiber Lash Mascara,23.31,69,704
+23-10-23,Himalaya,Foundation,Himalaya Matte Finish Foundation,96.91,66,539
+23-10-24,Himalaya,Lipstick,Himalaya Matte Velvet Lipstick,99.87,141,587
+23-10-25,Sugar Cosmetics,Blush,Sugar Cosmetics Nude Bloom Blush,99.02,101,359
+23-10-25,Nykaa,Deodorant,Nykaa Pearl Beauty Deodorant,94.92,26,356
+23-10-25,Himalaya,Perfume,Himalaya Eau de Parfum Rose Perfume,22.52,107,759
+23-10-26,Nivea,Mascara,Nivea Lift & Define Mascara,3.07,101,221
+23-10-26,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,39.23,115,1027
+23-10-27,Nivea,Body Mist,Nivea Tropical Splash Body Mist,38.51,38,718
+23-10-27,Himalaya,Moisturizer,Himalaya Hydra Boost Moisturizer,72.61,25,362
+23-10-28,Himalaya,Serum,Himalaya Vitamin C Glow Serum,80.44,117,606
+23-10-28,Lakme,Hair Mask,Lakme Argan Revive Hair Mask,51.21,49,237
+23-10-28,Sugar Cosmetics,Hair Mask,Sugar Cosmetics Damage Rescue Hair Mask,119.56,29,520
+23-10-29,Himalaya,Perfume,Himalaya Eau de Parfum Rose Perfume,46.72,24,759
+23-10-29,Lakme,Foundation,Lakme Full Coverage Foundation,47.27,36,601
+23-10-30,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,50.47,45,1027
+23-10-31,L'Oreal,Hair Mask,L'Oreal Keratin Smooth Hair Mask,60.63,115,404
+23-10-31,The Body Shop,Mascara,The Body Shop Lash Sensational Mascara,11.08,91,531
+23-11-01,L'Oreal,Hair Serum,L'Oreal Silk Smooth Hair Serum,116.6,132,737
+23-11-01,Nykaa,Hand Cream,Nykaa Glycerin Soothe Hand Cream,61.02,26,638
+23-11-03,Sugar Cosmetics,Deodorant,Sugar Cosmetics Charcoal Clean Deodorant,94.42,104,584
+23-11-04,MAC,Deodorant,MAC Cool Sport Deodorant,107.72,18,480
+23-11-04,Sugar Cosmetics,Hair Serum,Sugar Cosmetics Split-End Care Hair Serum,15.93,42,478
+23-11-04,Sugar Cosmetics,Shampoo,Sugar Cosmetics Keratin Care Shampoo,80.5,71,638
+23-11-04,Nykaa,Body Wash,Nykaa Moisture Plus Body Wash,59.94,174,661
+23-11-05,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,25.96,20,983
+23-11-05,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,92.74,78,1422
+23-11-06,L'Oreal,Eyeliner,L'Oreal Gel Precision Eyeliner,43.07,76,464
+23-11-06,Lakme,Perfume,Lakme Floral Bloom Perfume,98.31,61,651
+23-11-07,Nivea,Body Wash,Nivea Oat Soothe Body Wash,31.84,76,197
+23-11-08,Revlon,Deodorant,Revlon Original 48H Deodorant,3.72,7,693
+23-11-08,The Body Shop,Soap,The Body Shop Charcoal Detox Soap,3.08,62,777
+23-11-08,Sugar Cosmetics,Hair Mask,Sugar Cosmetics Damage Rescue Hair Mask,37.2,41,520
+23-11-08,Nykaa,Hair Mask,Nykaa Banana Nourish Hair Mask,50.02,33,527
+23-11-08,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,105.21,112,1422
+23-11-08,L'Oreal,Moisturizer,L'Oreal Daily Glow Moisturizer,110.26,152,433
+23-11-09,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,52.08,45,637
+23-11-09,Revlon,Deodorant,Revlon Original 48H Deodorant,38.84,26,693
+23-11-10,MAC,Hair Oil,MAC Almond Repair Hair Oil,76.62,104,296
+23-11-10,Sugar Cosmetics,Body Mist,Sugar Cosmetics Rose Petal Body Mist,33.74,72,469
+23-11-10,Revlon,Sunscreen,Revlon Sensitive Mineral Sunscreen,38.51,9,49
+23-11-10,The Body Shop,Moisturizer,The Body Shop Peptide Firm Moisturizer,30.34,117,437
+23-11-10,Nivea,Hair Mask,Nivea Color Lock Hair Mask,15.2,79,390
+23-11-11,Nykaa,Foundation,Nykaa Flawless Satin Foundation,17.03,59,373
+23-11-11,Revlon,Moisturizer,Revlon Night Renew Moisturizer,41.72,43,635
+23-11-11,MAC,Soap,MAC Sandal Fresh Soap,66.74,17,328
+23-11-11,Lakme,Hand Cream,Lakme Daily Nourish Hand Cream,109.57,51,626
+23-11-12,Sugar Cosmetics,Serum,Sugar Cosmetics Collagen Lift Serum,75.23,109,705
+23-11-12,Himalaya,Soap,Himalaya Classic Bar Soap,97.2,75,923
+23-11-12,Himalaya,Serum,Himalaya Vitamin C Glow Serum,94.21,30,606
+23-11-12,The Body Shop,Lipstick,The Body Shop Plum Perfect Lipstick,47.35,41,458
+23-11-12,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,101.95,38,792
+23-11-13,MAC,Body Wash,MAC Cocoa Butter Body Wash,88.93,36,586
+23-11-13,Lakme,Serum,Lakme Niacinamide Clear Serum,116.32,20,697
+23-11-13,Revlon,Face Wash,Revlon Charcoal Detox Face Wash,84.6,34,578
+23-11-13,MAC,Moisturizer,MAC Ceramide Repair Moisturizer,44.57,59,489
+23-11-13,Sugar Cosmetics,Lipstick,Sugar Cosmetics Long-Wear Classic Lipstick,89.42,104,487
+23-11-14,Nykaa,Hair Oil,Nykaa Light Daily Hair Oil,78.84,8,507
+23-11-14,Maybelline,Body Mist,Maybelline Pure Lavender Body Mist,97.29,28,1204
+23-11-14,L'Oreal,Mascara,L'Oreal Lash Lengthening Mascara,82.71,51,414
+23-11-15,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,68.33,41,1098
+23-11-15,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,83.74,18,941
+23-11-15,L'Oreal,Blush,L'Oreal Rose Petal Blush,28.1,25,720
+23-11-15,Maybelline,Lipstick,Maybelline Liquid Lip Color Lipstick,54.82,158,495
+23-11-16,Maybelline,Face Mask,Maybelline Aloe Calm Face Mask,108.52,19,455
+23-11-16,Nykaa,Blush,Nykaa Cream Cheek Blush,92.01,133,434
+23-11-17,Nykaa,Face Mask,Nykaa Collagen Boost Face Mask,31.11,2,369
+23-11-17,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,16.11,81,1098
+23-11-17,The Body Shop,Serum,The Body Shop Green Tea Balance Serum,11.81,57,389
+23-11-17,MAC,Body Lotion,MAC Skin Firming Body Lotion,10.05,66,660
+23-11-18,L'Oreal,Body Mist,L'Oreal Vanilla Dream Body Mist,14.53,85,623
+23-11-18,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,62.89,83,943
+23-11-18,The Body Shop,Blush,The Body Shop Cheek Pop Blush,50.51,32,635
+23-11-18,Maybelline,Moisturizer,Maybelline Oil-Free Gel Moisturizer,111.4,32,382
+23-11-19,MAC,Body Lotion,MAC Skin Firming Body Lotion,30.79,60,660
+23-11-19,Nykaa,Hand Cream,Nykaa Glycerin Soothe Hand Cream,65.5,62,638
+23-11-19,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,36.6,52,1205
+23-11-20,Himalaya,Serum,Himalaya Vitamin C Glow Serum,77.99,75,606
+23-11-22,Sugar Cosmetics,Soap,Sugar Cosmetics Oatmeal Soft Soap,102.64,50,778
+23-11-22,MAC,Body Lotion,MAC Skin Firming Body Lotion,85.47,69,660
+23-11-22,Himalaya,Hair Mask,Himalaya Deep Repair Hair Mask,82.22,15,418
+23-11-22,Revlon,Soap,Revlon Aloe Cool Soap,98.0,15,482
+23-11-23,L'Oreal,Face Wash,L'Oreal Gentle Foaming Face Wash,49.97,30,312
+23-11-23,L'Oreal,Conditioner,L'Oreal Deep Repair Conditioner,58.23,31,728
+23-11-25,Nykaa,Hair Oil,Nykaa Light Daily Hair Oil,51.74,33,507
+23-11-25,The Body Shop,Mascara,The Body Shop Lash Sensational Mascara,113.06,34,531
+23-11-25,Himalaya,Face Mask,Himalaya Clay Detox Face Mask,51.61,154,671
+23-11-26,Nykaa,Hair Mask,Nykaa Banana Nourish Hair Mask,63.05,25,527
+23-11-26,The Body Shop,Soap,The Body Shop Charcoal Detox Soap,8.29,47,777
+23-11-26,MAC,Conditioner,MAC Hydra Soft Conditioner,95.69,69,313
+23-11-27,MAC,Conditioner,MAC Hydra Soft Conditioner,98.83,78,313
+23-11-28,Nivea,Hair Mask,Nivea Color Lock Hair Mask,56.7,24,390
+23-11-28,The Body Shop,Foundation,The Body Shop Fit Me Foundation,112.05,61,508
+23-11-28,Lakme,Face Wash,Lakme Neem Purify Face Wash,116.48,59,562
+23-11-28,MAC,Perfume,MAC Amber Oud Perfume,11.76,10,1033
+23-11-28,Lakme,Blush,Lakme Coral Pop Blush,21.12,123,752
+23-11-29,The Body Shop,Face Mask,The Body Shop Overnight Sleeping Face Mask,108.33,7,637
+23-11-29,Nykaa,Body Wash,Nykaa Moisture Plus Body Wash,3.62,74,661
+23-11-29,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,6.1,79,792
+23-11-29,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,66.6,41,637
+23-11-29,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,7.42,14,1421
+23-11-29,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,62.08,69,1205
+23-11-29,MAC,Body Mist,MAC Coconut Breeze Body Mist,56.86,47,451
+23-11-29,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,75.83,56,729
+23-11-30,Nivea,Moisturizer,Nivea Vitamin C Bright Moisturizer,24.89,25,293
+23-11-30,L'Oreal,Body Wash,L'Oreal Aloe Fresh Body Wash,113.92,50,499
+23-11-30,Nivea,Lipstick,Nivea Berry Bold Lipstick,91.03,128,604
+23-12-01,The Body Shop,Deodorant,The Body Shop Citrus Guard Deodorant,43.44,30,477
+23-12-01,Nykaa,Perfume,Nykaa Ocean Breeze Perfume,28.71,129,1263
+23-12-01,MAC,Hair Serum,MAC Heat Protect Hair Serum,39.93,46,458
+23-12-02,Nivea,Face Mask,Nivea Rice Water Face Mask,83.78,16,285
+23-12-02,Maybelline,Hand Cream,Maybelline Almond Care Hand Cream,28.89,33,471
+23-12-02,Nykaa,Serum,Nykaa Anti-Aging Youth Serum,92.64,21,380
+23-12-03,Maybelline,Body Mist,Maybelline Pure Lavender Body Mist,13.52,263,1204
+23-12-03,Sugar Cosmetics,Hand Cream,Sugar Cosmetics Quick Absorb Hand Cream,90.9,52,723
+23-12-03,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,24.56,54,943
+23-12-04,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,71.84,99,914
+23-12-04,MAC,Shampoo,MAC Repair Intense Shampoo,36.43,37,344
+23-12-05,L'Oreal,Body Mist,L'Oreal Vanilla Dream Body Mist,59.64,43,623
+23-12-05,Nykaa,Sunscreen,Nykaa Oil-Free SPF 40 Sunscreen,114.32,99,281
+23-12-05,Sugar Cosmetics,Serum,Sugar Cosmetics Collagen Lift Serum,14.0,33,705
+23-12-05,L'Oreal,Blush,L'Oreal Rose Petal Blush,22.49,36,720
+23-12-05,Maybelline,Conditioner,Maybelline Frizz Control Conditioner,33.4,51,554
+23-12-05,Nykaa,Soap,Nykaa Turmeric Glow Soap,90.29,57,758
+23-12-05,The Body Shop,Face Mask,The Body Shop Overnight Sleeping Face Mask,12.99,139,637
+23-12-06,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,111.7,28,890
+23-12-06,Nivea,Face Mask,Nivea Rice Water Face Mask,26.92,55,285
+23-12-07,Sugar Cosmetics,Body Lotion,Sugar Cosmetics Whitening Care Body Lotion,64.63,16,185
+23-12-08,Nykaa,Face Mask,Nykaa Collagen Boost Face Mask,19.29,26,369
+23-12-08,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,14.43,112,902
+23-12-08,Maybelline,Eyeliner,Maybelline Smudge-Proof Pencil Eyeliner,81.09,5,156
+23-12-08,L'Oreal,Shampoo,L'Oreal Smooth & Shine Shampoo,42.9,37,723
+23-12-09,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,80.02,68,1421
+23-12-10,Sugar Cosmetics,Face Wash,Sugar Cosmetics Sensitive Soothe Face Wash,9.47,100,497
+23-12-10,Himalaya,Hair Serum,Himalaya Frizz-Free Shine Hair Serum,7.36,84,176
+23-12-10,Revlon,Serum,Revlon Snail Repair Serum,95.26,20,578
+23-12-10,Nivea,Eyeliner,Nivea Felt-Tip Ultra Eyeliner,66.68,70,599
+23-12-11,Revlon,Shampoo,Revlon Strength & Growth Shampoo,52.7,84,839
+23-12-12,Revlon,Deodorant,Revlon Original 48H Deodorant,25.98,25,693
+23-12-12,Nykaa,Hair Mask,Nykaa Banana Nourish Hair Mask,60.01,31,527
+23-12-12,Sugar Cosmetics,Sunscreen,Sugar Cosmetics Aqua Fresh SPF 50 Sunscreen,23.98,36,541
+23-12-12,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,49.7,10,722
+23-12-12,Sugar Cosmetics,Hair Serum,Sugar Cosmetics Split-End Care Hair Serum,38.48,98,478
+23-12-13,Nykaa,Eyeliner,Nykaa Brown Soft Eyeliner,91.21,85,693
+23-12-13,Maybelline,Face Mask,Maybelline Aloe Calm Face Mask,75.07,32,455
+23-12-14,MAC,Mascara,MAC Black Intense Mascara,113.57,68,315
+23-12-14,Nykaa,Soap,Nykaa Turmeric Glow Soap,114.75,6,758
+23-12-14,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,24.87,101,729
+23-12-14,Himalaya,Body Wash,Himalaya Creamy Shower Gel Body Wash,49.32,114,630
+23-12-15,Himalaya,Mascara,Himalaya Volume Boost Mascara,76.71,45,465
+23-12-15,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,53.26,80,1205
+23-12-15,Lakme,Foundation,Lakme Full Coverage Foundation,61.06,49,601
+23-12-15,The Body Shop,Soap,The Body Shop Charcoal Detox Soap,72.66,45,777
+23-12-16,Himalaya,Soap,Himalaya Classic Bar Soap,39.66,25,923
+23-12-16,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,48.67,22,1205
+23-12-16,Maybelline,Foundation,Maybelline Long-Wear Foundation,34.49,85,711
+23-12-17,Nivea,Eyeliner,Nivea Felt-Tip Ultra Eyeliner,13.18,104,599
+23-12-17,MAC,Hair Mask,MAC Hydrating Treatment Hair Mask,36.72,56,337
+23-12-17,Maybelline,Hair Mask,Maybelline Protein Strength Hair Mask,95.62,233,719
+23-12-18,MAC,Serum,MAC Retinol Renew Serum,52.3,43,466
+23-12-18,L'Oreal,Body Wash,L'Oreal Aloe Fresh Body Wash,45.68,40,499
+23-12-18,MAC,Deodorant,MAC Cool Sport Deodorant,20.19,92,480
+23-12-19,Revlon,Perfume,Revlon Jasmine Noir Perfume,64.4,8,734
+23-12-20,Revlon,Moisturizer,Revlon Night Renew Moisturizer,69.79,30,635
+23-12-20,Nykaa,Hair Mask,Nykaa Banana Nourish Hair Mask,107.69,30,527
+23-12-21,Nivea,Sunscreen,Nivea Tinted SPF 50 Sunscreen,52.85,13,374
+23-12-22,L'Oreal,Body Mist,L'Oreal Vanilla Dream Body Mist,94.21,82,623
+23-12-22,Nykaa,Deodorant,Nykaa Pearl Beauty Deodorant,43.46,68,356
+23-12-22,Nivea,Body Lotion,Nivea Vitamin Glow Body Lotion,99.24,59,810
+23-12-22,The Body Shop,Face Wash,The Body Shop Vitamin C Fresh Face Wash,103.33,9,347
+23-12-23,Maybelline,Body Mist,Maybelline Pure Lavender Body Mist,92.49,216,1204
+23-12-23,MAC,Moisturizer,MAC Ceramide Repair Moisturizer,53.96,82,489
+23-12-23,Lakme,Serum,Lakme Niacinamide Clear Serum,27.81,51,697
+23-12-23,The Body Shop,Hair Serum,The Body Shop Keratin Finish Hair Serum,63.61,48,195
+23-12-23,Nykaa,Soap,Nykaa Turmeric Glow Soap,91.8,92,758
+23-12-24,Nivea,Perfume,Nivea Velvet Vanilla Perfume,35.24,127,775
+23-12-25,Nivea,Perfume,Nivea Velvet Vanilla Perfume,10.74,35,775
+23-12-25,Revlon,Body Wash,Revlon Sea Mineral Body Wash,70.06,58,543
+23-12-26,Sugar Cosmetics,Deodorant,Sugar Cosmetics Charcoal Clean Deodorant,4.09,89,584
+23-12-26,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,55.62,21,623
+23-12-27,L'Oreal,Hair Mask,L'Oreal Keratin Smooth Hair Mask,42.58,19,404
+23-12-28,Maybelline,Serum,Maybelline Peptide Firm Serum,60.12,89,375
+23-12-28,Sugar Cosmetics,Hand Cream,Sugar Cosmetics Quick Absorb Hand Cream,97.13,184,723
+23-12-28,Himalaya,Perfume,Himalaya Eau de Parfum Rose Perfume,30.04,53,759
+23-12-28,MAC,Shampoo,MAC Repair Intense Shampoo,20.79,4,344
+23-12-28,Sugar Cosmetics,Foundation,Sugar Cosmetics Luminous Silk Foundation,21.29,141,671
+23-12-29,Nykaa,Lipstick,Nykaa Moisture Shine Lipstick,53.43,159,846
+23-12-29,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,104.74,33,1421
+23-12-29,Sugar Cosmetics,Shampoo,Sugar Cosmetics Keratin Care Shampoo,93.03,142,638
+23-12-29,Nivea,Hair Oil,Nivea Bhringraj Care Hair Oil,47.57,55,371
+23-12-29,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,70.01,20,787
+23-12-29,Revlon,Eyeliner,Revlon Glitter Shine Eyeliner,46.09,66,856
+23-12-29,Maybelline,Mascara,Maybelline Fiber Lash Mascara,114.01,88,704
+23-12-30,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,103.47,14,941
+23-12-30,Himalaya,Soap,Himalaya Classic Bar Soap,18.84,103,923
+23-12-31,The Body Shop,Lipstick,The Body Shop Plum Perfect Lipstick,117.2,67,458
+24-01-01,Himalaya,Deodorant,Himalaya Active Dry Deodorant,92.42,101,1122
+24-01-01,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,20.04,97,623
+24-01-01,Lakme,Sunscreen,Lakme Invisible Matte Sunscreen,34.36,14,374
+24-01-02,L'Oreal,Hair Oil,L'Oreal Coconut Shine Hair Oil,108.35,12,367
+24-01-03,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,39.41,42,1027
+24-01-04,Lakme,Body Mist,Lakme Fresh Berry Body Mist,114.26,6,603
+24-01-04,Nivea,Eyeliner,Nivea Felt-Tip Ultra Eyeliner,57.22,16,599
+24-01-04,Lakme,Lipstick,Lakme Ruby Red Lipstick,98.83,157,563
+24-01-04,Revlon,Hair Oil,Revlon Jojoba Smooth Hair Oil,85.35,97,373
+24-01-05,Maybelline,Hand Cream,Maybelline Almond Care Hand Cream,101.85,51,471
+24-01-05,Nykaa,Moisturizer,Nykaa Deep Hydration Moisturizer,104.95,13,695
+24-01-05,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,8.75,53,1421
+24-01-05,Lakme,Moisturizer,Lakme Aloe Soothe Moisturizer,13.4,44,284
+24-01-05,Lakme,Lipstick,Lakme Ruby Red Lipstick,22.05,18,563
+24-01-05,Lakme,Lipstick,Lakme Ruby Red Lipstick,87.53,13,563
+24-01-05,Revlon,Mascara,Revlon Dramatic Lash Mascara,19.38,3,499
+24-01-05,The Body Shop,Sunscreen,The Body Shop Glow Protect Sunscreen,95.45,81,378
+24-01-06,L'Oreal,Soap,L'Oreal Neem Purify Soap,72.77,84,915
+24-01-06,Himalaya,Face Wash,Himalaya Oil Control Face Wash,113.03,75,187
+24-01-07,L'Oreal,Perfume,L'Oreal Midnight Musk Perfume,32.08,26,680
+24-01-07,Nivea,Face Mask,Nivea Rice Water Face Mask,32.23,91,285
+24-01-07,Revlon,Hand Cream,Revlon Vitamin E Hand Cream,101.58,52,631
+24-01-08,Sugar Cosmetics,Hair Mask,Sugar Cosmetics Damage Rescue Hair Mask,33.76,48,520
+24-01-08,Himalaya,Body Wash,Himalaya Creamy Shower Gel Body Wash,80.15,12,630
+24-01-08,Sugar Cosmetics,Hair Oil,Sugar Cosmetics Olive Deep Hair Oil,82.77,49,224
+24-01-08,Lakme,Lipstick,Lakme Ruby Red Lipstick,13.75,34,563
+24-01-09,Nykaa,Body Wash,Nykaa Moisture Plus Body Wash,98.47,39,661
+24-01-09,Nivea,Lipstick,Nivea Berry Bold Lipstick,110.51,89,604
+24-01-09,Lakme,Hair Serum,Lakme Argan Gloss Hair Serum,11.45,184,869
+24-01-10,Nivea,Foundation,Nivea Soft Focus Foundation,107.92,71,533
+24-01-10,L'Oreal,Soap,L'Oreal Neem Purify Soap,53.56,3,915
+24-01-12,Himalaya,Hair Serum,Himalaya Frizz-Free Shine Hair Serum,99.61,66,176
+24-01-12,Maybelline,Mascara,Maybelline Fiber Lash Mascara,43.1,15,704
+24-01-13,The Body Shop,Body Lotion,The Body Shop Milk Nourish Body Lotion,17.11,31,213
+24-01-13,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,62.6,11,1027
+24-01-14,Nykaa,Shampoo,Nykaa Gentle Daily Shampoo,100.73,20,341
+24-01-14,Sugar Cosmetics,Mascara,Sugar Cosmetics Smudge-Proof Mascara,44.59,31,324
+24-01-14,Sugar Cosmetics,Face Mask,Sugar Cosmetics Honey Repair Face Mask,54.58,116,794
+24-01-14,Nykaa,Body Lotion,Nykaa Soft Almond Body Lotion,69.77,83,600
+24-01-16,L'Oreal,Eyeliner,L'Oreal Gel Precision Eyeliner,7.72,32,464
+24-01-16,Revlon,Eyeliner,Revlon Glitter Shine Eyeliner,108.3,60,856
+24-01-16,Revlon,Body Wash,Revlon Sea Mineral Body Wash,72.72,116,543
+24-01-17,Revlon,Body Wash,Revlon Sea Mineral Body Wash,112.06,51,543
+24-01-17,Sugar Cosmetics,Blush,Sugar Cosmetics Nude Bloom Blush,96.9,6,359
+24-01-17,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,10.33,89,943
+24-01-18,MAC,Body Wash,MAC Cocoa Butter Body Wash,11.66,24,586
+24-01-18,Maybelline,Body Mist,Maybelline Pure Lavender Body Mist,81.3,31,1204
+24-01-19,Himalaya,Sunscreen,Himalaya SPF 50 Gel Sunscreen,76.1,16,309
+24-01-19,MAC,Blush,MAC Soft Pink Blush,117.18,30,469
+24-01-19,Nivea,Moisturizer,Nivea Vitamin C Bright Moisturizer,41.36,35,293
+24-01-20,MAC,Face Mask,MAC Charcoal Peel-Off Face Mask,33.37,6,181
+24-01-20,Revlon,Conditioner,Revlon Volume Light Conditioner,14.58,81,245
+24-01-20,Nivea,Lipstick,Nivea Berry Bold Lipstick,28.16,31,604
+24-01-20,Lakme,Lipstick,Lakme Ruby Red Lipstick,99.0,42,563
+24-01-20,Nykaa,Soap,Nykaa Turmeric Glow Soap,10.1,44,758
+24-01-21,Nykaa,Hand Cream,Nykaa Glycerin Soothe Hand Cream,93.35,204,638
+24-01-21,Revlon,Deodorant,Revlon Original 48H Deodorant,50.18,29,693
+24-01-22,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,99.46,158,914
+24-01-22,Sugar Cosmetics,Conditioner,Sugar Cosmetics Herbal Strength Conditioner,49.45,97,515
+24-01-22,L'Oreal,Hair Serum,L'Oreal Silk Smooth Hair Serum,70.52,15,737
+24-01-22,Sugar Cosmetics,Serum,Sugar Cosmetics Collagen Lift Serum,64.75,237,705
+24-01-22,Sugar Cosmetics,Deodorant,Sugar Cosmetics Charcoal Clean Deodorant,9.59,48,584
+24-01-23,MAC,Foundation,MAC Skin Tint Foundation,36.08,52,844
+24-01-23,Nykaa,Body Lotion,Nykaa Soft Almond Body Lotion,76.27,59,600
+24-01-24,Nykaa,Serum,Nykaa Anti-Aging Youth Serum,13.65,13,380
+24-01-24,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,21.36,77,787
+24-01-24,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,89.38,110,1421
+24-01-24,L'Oreal,Body Wash,L'Oreal Aloe Fresh Body Wash,109.76,40,499
+24-01-24,MAC,Hair Serum,MAC Heat Protect Hair Serum,25.88,105,458
+24-01-24,Revlon,Mascara,Revlon Dramatic Lash Mascara,18.42,9,499
+24-01-24,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,26.93,84,914
+24-01-25,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,68.17,39,914
+24-01-25,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,115.78,44,729
+24-01-25,L'Oreal,Hair Serum,L'Oreal Silk Smooth Hair Serum,14.34,158,737
+24-01-25,Nivea,Eyeliner,Nivea Felt-Tip Ultra Eyeliner,27.02,9,599
+24-01-25,The Body Shop,Serum,The Body Shop Green Tea Balance Serum,103.29,40,389
+24-01-25,L'Oreal,Perfume,L'Oreal Midnight Musk Perfume,66.75,54,680
+24-01-25,Sugar Cosmetics,Lipstick,Sugar Cosmetics Long-Wear Classic Lipstick,6.91,14,487
+24-01-26,The Body Shop,Face Wash,The Body Shop Vitamin C Fresh Face Wash,16.4,29,347
+24-01-26,Sugar Cosmetics,Blush,Sugar Cosmetics Nude Bloom Blush,32.52,13,359
+24-01-26,MAC,Moisturizer,MAC Ceramide Repair Moisturizer,88.13,108,489
+24-01-26,Sugar Cosmetics,Hair Serum,Sugar Cosmetics Split-End Care Hair Serum,76.53,25,478
+24-01-26,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,18.29,154,1421
+24-01-27,Nivea,Shampoo,Nivea Color Protect Shampoo,46.04,22,640
+24-01-27,Revlon,Eyeliner,Revlon Glitter Shine Eyeliner,79.25,28,856
+24-01-27,Lakme,Deodorant,Lakme Sensitive Care Deodorant,8.52,21,342
+24-01-27,L'Oreal,Blush,L'Oreal Rose Petal Blush,116.24,99,720
+24-01-27,The Body Shop,Hair Oil,The Body Shop Herbal Blend Hair Oil,53.02,29,476
+24-01-27,Maybelline,Moisturizer,Maybelline Oil-Free Gel Moisturizer,118.37,74,382
+24-01-28,Nykaa,Conditioner,Nykaa Daily Detangle Conditioner,42.05,72,235
+24-01-28,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,21.31,96,722
+24-01-29,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,86.49,63,575
+24-01-29,Nykaa,Deodorant,Nykaa Pearl Beauty Deodorant,108.79,129,356
+24-01-29,The Body Shop,Sunscreen,The Body Shop Glow Protect Sunscreen,21.43,142,378
+24-01-29,The Body Shop,Soap,The Body Shop Charcoal Detox Soap,50.21,119,777
+24-01-30,Lakme,Deodorant,Lakme Sensitive Care Deodorant,42.22,74,342
+24-01-30,Nivea,Sunscreen,Nivea Tinted SPF 50 Sunscreen,4.42,15,374
+24-01-30,Lakme,Eyeliner,Lakme Liquid Wing Eyeliner,25.72,54,433
+24-01-30,The Body Shop,Sunscreen,The Body Shop Glow Protect Sunscreen,28.8,38,378
+24-01-31,Nivea,Moisturizer,Nivea Vitamin C Bright Moisturizer,19.81,44,293
+24-01-31,L'Oreal,Face Wash,L'Oreal Gentle Foaming Face Wash,109.03,24,312
+24-01-31,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,56.13,47,1090
+24-01-31,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,39.18,25,890
+24-01-31,Sugar Cosmetics,Hair Serum,Sugar Cosmetics Split-End Care Hair Serum,20.6,122,478
+24-02-01,Himalaya,Deodorant,Himalaya Active Dry Deodorant,12.21,17,1122
+24-02-01,Maybelline,Moisturizer,Maybelline Oil-Free Gel Moisturizer,27.72,58,382
+24-02-01,Maybelline,Foundation,Maybelline Long-Wear Foundation,14.29,28,711
+24-02-01,Himalaya,Moisturizer,Himalaya Hydra Boost Moisturizer,41.75,39,362
+24-02-01,Himalaya,Soap,Himalaya Classic Bar Soap,44.52,123,923
+24-02-01,L'Oreal,Blush,L'Oreal Rose Petal Blush,97.18,86,720
+24-02-02,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,12.77,29,1027
+24-02-03,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,113.56,66,637
+24-02-03,MAC,Face Mask,MAC Charcoal Peel-Off Face Mask,71.88,77,181
+24-02-04,The Body Shop,Hair Oil,The Body Shop Herbal Blend Hair Oil,4.03,21,476
+24-02-04,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,114.22,11,637
+24-02-05,Sugar Cosmetics,Hand Cream,Sugar Cosmetics Quick Absorb Hand Cream,41.0,71,723
+24-02-05,Nivea,Shampoo,Nivea Color Protect Shampoo,11.25,22,640
+24-02-06,Maybelline,Shampoo,Maybelline Herbal Cleanse Shampoo,86.94,37,508
+24-02-07,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,56.9,60,652
+24-02-07,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,41.25,34,1422
+24-02-08,Nykaa,Serum,Nykaa Anti-Aging Youth Serum,22.35,27,380
+24-02-09,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,18.59,108,1090
+24-02-09,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,24.74,45,983
+24-02-10,Maybelline,Serum,Maybelline Peptide Firm Serum,41.4,13,375
+24-02-11,L'Oreal,Perfume,L'Oreal Midnight Musk Perfume,89.99,55,680
+24-02-12,Lakme,Blush,Lakme Coral Pop Blush,76.1,58,752
+24-02-12,Nivea,Shampoo,Nivea Color Protect Shampoo,18.96,231,640
+24-02-12,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,47.43,34,914
+24-02-12,Lakme,Perfume,Lakme Floral Bloom Perfume,48.81,147,651
+24-02-13,Nykaa,Lipstick,Nykaa Moisture Shine Lipstick,80.63,162,846
+24-02-13,Maybelline,Soap,Maybelline Honey Gentle Soap,37.61,109,1146
+24-02-13,Sugar Cosmetics,Blush,Sugar Cosmetics Nude Bloom Blush,61.7,30,359
+24-02-13,Lakme,Conditioner,Lakme Color Care Conditioner,53.16,25,216
+24-02-13,The Body Shop,Deodorant,The Body Shop Citrus Guard Deodorant,106.84,102,477
+24-02-13,Himalaya,Body Lotion,Himalaya Cocoa Radiance Body Lotion,52.97,5,218
+24-02-14,MAC,Lipstick,MAC Satin Nude Lipstick,103.87,51,187
+24-02-14,The Body Shop,Eyeliner,The Body Shop Matte Define Eyeliner,69.7,59,195
+24-02-14,Lakme,Lipstick,Lakme Ruby Red Lipstick,100.59,29,563
+24-02-14,The Body Shop,Blush,The Body Shop Cheek Pop Blush,22.36,63,635
+24-02-14,Sugar Cosmetics,Blush,Sugar Cosmetics Nude Bloom Blush,9.27,3,359
+24-02-15,Himalaya,Eyeliner,Himalaya Waterproof Black Eyeliner,76.44,61,415
+24-02-15,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,70.09,45,1205
+24-02-15,Lakme,Hair Oil,Lakme Amla Strength Hair Oil,100.94,78,535
+24-02-15,L'Oreal,Conditioner,L'Oreal Deep Repair Conditioner,34.67,121,728
+24-02-16,Sugar Cosmetics,Face Mask,Sugar Cosmetics Honey Repair Face Mask,112.55,145,794
+24-02-17,MAC,Lipstick,MAC Satin Nude Lipstick,102.96,23,187
+24-02-17,Nivea,Face Wash,Nivea Deep Clean Face Wash,66.31,13,539
+24-02-18,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,56.62,23,902
+24-02-18,Nivea,Body Mist,Nivea Tropical Splash Body Mist,111.03,111,718
+24-02-20,MAC,Deodorant,MAC Cool Sport Deodorant,101.29,16,480
+24-02-21,Revlon,Deodorant,Revlon Original 48H Deodorant,89.27,3,693
+24-02-21,Lakme,Shampoo,Lakme Volume Lift Shampoo,74.16,25,68
+24-02-22,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,119.82,75,792
+24-02-22,Nykaa,Blush,Nykaa Cream Cheek Blush,84.13,5,434
+24-02-22,The Body Shop,Foundation,The Body Shop Fit Me Foundation,50.95,123,508
+24-02-22,Nivea,Body Lotion,Nivea Vitamin Glow Body Lotion,114.2,45,810
+24-02-22,Nykaa,Blush,Nykaa Cream Cheek Blush,8.25,73,434
+24-02-23,The Body Shop,Mascara,The Body Shop Lash Sensational Mascara,86.0,69,531
+24-02-24,MAC,Eyeliner,MAC Kohl Smoky Eyeliner,110.41,46,480
+24-02-25,L'Oreal,Eyeliner,L'Oreal Gel Precision Eyeliner,29.28,24,464
+24-02-25,Revlon,Sunscreen,Revlon Sensitive Mineral Sunscreen,87.09,11,49
+24-02-25,Nykaa,Mascara,Nykaa Ultra Curl Mascara,85.49,81,346
+24-02-25,Revlon,Hair Mask,Revlon Coconut Cream Hair Mask,16.85,108,455
+24-02-25,Nykaa,Moisturizer,Nykaa Deep Hydration Moisturizer,47.15,16,695
+24-02-26,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,59.69,75,983
+24-02-26,Revlon,Hair Oil,Revlon Jojoba Smooth Hair Oil,117.75,34,373
+24-02-27,The Body Shop,Face Wash,The Body Shop Vitamin C Fresh Face Wash,15.25,40,347
+24-02-28,Lakme,Perfume,Lakme Floral Bloom Perfume,16.09,59,651
+24-02-28,Revlon,Mascara,Revlon Dramatic Lash Mascara,12.37,105,499
+24-02-28,Himalaya,Sunscreen,Himalaya SPF 50 Gel Sunscreen,78.4,27,309
+24-02-29,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,10.78,53,941
+24-02-29,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,27.56,56,902
+24-02-29,Maybelline,Soap,Maybelline Honey Gentle Soap,112.17,19,1146
+24-03-01,Lakme,Hair Mask,Lakme Argan Revive Hair Mask,25.01,4,237
+24-03-01,Maybelline,Hair Mask,Maybelline Protein Strength Hair Mask,88.23,101,719
+24-03-02,Himalaya,Conditioner,Himalaya Smooth Silk Conditioner,32.21,47,321
+24-03-02,Sugar Cosmetics,Hair Mask,Sugar Cosmetics Damage Rescue Hair Mask,113.42,32,520
+24-03-02,Sugar Cosmetics,Face Mask,Sugar Cosmetics Honey Repair Face Mask,85.19,17,794
+24-03-03,MAC,Conditioner,MAC Hydra Soft Conditioner,99.92,20,313
+24-03-03,Revlon,Soap,Revlon Aloe Cool Soap,99.1,153,482
+24-03-04,Nykaa,Sunscreen,Nykaa Oil-Free SPF 40 Sunscreen,23.22,32,281
+24-03-04,MAC,Perfume,MAC Amber Oud Perfume,67.75,24,1033
+24-03-05,Sugar Cosmetics,Body Wash,Sugar Cosmetics Rose Silk Body Wash,91.95,85,252
+24-03-05,Nykaa,Blush,Nykaa Cream Cheek Blush,99.82,92,434
+24-03-05,Nivea,Deodorant,Nivea Roll-On Aqua Deodorant,90.55,41,424
+24-03-05,Revlon,Foundation,Revlon Stay True Foundation,70.71,118,466
+24-03-05,Nykaa,Hair Mask,Nykaa Banana Nourish Hair Mask,83.81,3,527
+24-03-05,MAC,Lipstick,MAC Satin Nude Lipstick,94.37,33,187
+24-03-05,Maybelline,Conditioner,Maybelline Frizz Control Conditioner,65.25,164,554
+24-03-05,Nykaa,Hair Oil,Nykaa Light Daily Hair Oil,91.0,3,507
+24-03-06,Nivea,Hand Cream,Nivea Rich Moisture Hand Cream,87.06,10,607
+24-03-06,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,58.4,40,652
+24-03-06,MAC,Moisturizer,MAC Ceramide Repair Moisturizer,85.23,17,489
+24-03-06,Lakme,Conditioner,Lakme Color Care Conditioner,12.56,18,216
+24-03-06,Lakme,Body Lotion,Lakme Aloe Vera Body Lotion,38.29,47,874
+24-03-07,MAC,Perfume,MAC Amber Oud Perfume,107.35,90,1033
+24-03-07,Maybelline,Body Lotion,Maybelline Shea Silk Body Lotion,25.58,56,460
+24-03-07,Himalaya,Perfume,Himalaya Eau de Parfum Rose Perfume,63.69,96,759
+24-03-08,MAC,Shampoo,MAC Repair Intense Shampoo,100.4,30,344
+24-03-08,The Body Shop,Eyeliner,The Body Shop Matte Define Eyeliner,109.57,25,195
+24-03-08,Maybelline,Hair Serum,Maybelline Repair & Seal Hair Serum,88.81,41,358
+24-03-08,Maybelline,Soap,Maybelline Honey Gentle Soap,50.04,79,1146
+24-03-10,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,85.36,19,941
+24-03-10,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,18.51,40,575
+24-03-10,Nivea,Body Mist,Nivea Tropical Splash Body Mist,92.04,83,718
+24-03-11,Maybelline,Body Lotion,Maybelline Shea Silk Body Lotion,112.58,85,460
+24-03-11,Lakme,Hand Cream,Lakme Daily Nourish Hand Cream,3.43,25,626
+24-03-12,Revlon,Foundation,Revlon Stay True Foundation,50.38,77,466
+24-03-14,The Body Shop,Conditioner,The Body Shop Argan Moisture Conditioner,48.79,133,672
+24-03-14,Nykaa,Lipstick,Nykaa Moisture Shine Lipstick,15.26,72,846
+24-03-14,Maybelline,Body Lotion,Maybelline Shea Silk Body Lotion,49.62,111,460
+24-03-15,Nykaa,Hair Mask,Nykaa Banana Nourish Hair Mask,21.06,87,527
+24-03-15,Himalaya,Face Wash,Himalaya Oil Control Face Wash,106.87,33,187
+24-03-15,Himalaya,Deodorant,Himalaya Active Dry Deodorant,60.85,78,1122
+24-03-16,Revlon,Hair Serum,Revlon Lightweight Leave-In Hair Serum,6.51,44,379
+24-03-16,Sugar Cosmetics,Body Wash,Sugar Cosmetics Rose Silk Body Wash,35.41,35,252
+24-03-16,Nykaa,Hand Cream,Nykaa Glycerin Soothe Hand Cream,47.48,39,638
+24-03-16,L'Oreal,Eyeliner,L'Oreal Gel Precision Eyeliner,89.97,22,464
+24-03-16,Nykaa,Hair Oil,Nykaa Light Daily Hair Oil,114.61,41,507
+24-03-17,Nivea,Eyeliner,Nivea Felt-Tip Ultra Eyeliner,30.96,107,599
+24-03-17,Lakme,Body Mist,Lakme Fresh Berry Body Mist,24.81,118,603
+24-03-17,Maybelline,Body Mist,Maybelline Pure Lavender Body Mist,77.46,88,1204
+24-03-17,Maybelline,Soap,Maybelline Honey Gentle Soap,43.8,38,1146
+24-03-17,MAC,Face Wash,MAC Brightening Glow Face Wash,81.71,74,273
+24-03-18,The Body Shop,Moisturizer,The Body Shop Peptide Firm Moisturizer,110.77,17,437
+24-03-18,Maybelline,Foundation,Maybelline Long-Wear Foundation,93.64,58,711
+24-03-18,The Body Shop,Conditioner,The Body Shop Argan Moisture Conditioner,25.63,44,672
+24-03-18,Maybelline,Moisturizer,Maybelline Oil-Free Gel Moisturizer,81.23,85,382
+24-03-19,Sugar Cosmetics,Body Mist,Sugar Cosmetics Rose Petal Body Mist,52.35,28,469
+24-03-19,Nivea,Soap,Nivea Rose Cream Soap,82.59,15,283
+24-03-20,Himalaya,Face Wash,Himalaya Oil Control Face Wash,94.6,26,187
+24-03-21,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,115.51,29,890
+24-03-21,Sugar Cosmetics,Soap,Sugar Cosmetics Oatmeal Soft Soap,7.52,37,778
+24-03-21,Nykaa,Hair Oil,Nykaa Light Daily Hair Oil,102.14,43,507
+24-03-22,The Body Shop,Hair Oil,The Body Shop Herbal Blend Hair Oil,73.69,2,476
+24-03-22,MAC,Soap,MAC Sandal Fresh Soap,8.99,51,328
+24-03-22,Revlon,Deodorant,Revlon Original 48H Deodorant,102.36,89,693
+24-03-24,Revlon,Mascara,Revlon Dramatic Lash Mascara,99.13,4,499
+24-03-24,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,119.61,84,623
+24-03-24,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,78.84,18,1090
+24-03-24,Himalaya,Serum,Himalaya Vitamin C Glow Serum,10.16,55,606
+24-03-24,Sugar Cosmetics,Hair Mask,Sugar Cosmetics Damage Rescue Hair Mask,60.49,11,520
+24-03-24,The Body Shop,Lipstick,The Body Shop Plum Perfect Lipstick,5.61,36,458
+24-03-24,Lakme,Body Wash,Lakme Honey Almond Body Wash,76.42,91,333
+24-03-25,Revlon,Hair Mask,Revlon Coconut Cream Hair Mask,64.97,50,455
+24-03-26,Nivea,Hand Cream,Nivea Rich Moisture Hand Cream,118.24,66,607
+24-03-26,MAC,Soap,MAC Sandal Fresh Soap,87.11,59,328
+24-03-27,MAC,Body Mist,MAC Coconut Breeze Body Mist,29.96,19,451
+24-03-27,L'Oreal,Hair Serum,L'Oreal Silk Smooth Hair Serum,114.63,60,737
+24-03-27,Sugar Cosmetics,Mascara,Sugar Cosmetics Smudge-Proof Mascara,64.43,37,324
+24-03-29,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,119.02,102,914
+24-03-30,Sugar Cosmetics,Serum,Sugar Cosmetics Collagen Lift Serum,18.74,34,705
+24-03-30,Nykaa,Face Wash,Nykaa Acne Clear Face Wash,75.34,15,479
+24-03-30,Nykaa,Body Wash,Nykaa Moisture Plus Body Wash,32.74,47,661
+24-03-30,Sugar Cosmetics,Serum,Sugar Cosmetics Collagen Lift Serum,116.09,17,705
+24-03-31,Lakme,Mascara,Lakme Waterproof Curl Mascara,60.81,6,399
+24-03-31,Lakme,Soap,Lakme Glycerin Pure Soap,9.13,34,605
+24-03-31,Nykaa,Deodorant,Nykaa Pearl Beauty Deodorant,63.1,10,356
+24-04-01,Nivea,Perfume,Nivea Velvet Vanilla Perfume,34.97,31,775
+24-04-01,Sugar Cosmetics,Lipstick,Sugar Cosmetics Long-Wear Classic Lipstick,72.16,31,487
+24-04-01,Lakme,Hair Oil,Lakme Amla Strength Hair Oil,93.41,85,535
+24-04-01,Sugar Cosmetics,Hair Mask,Sugar Cosmetics Damage Rescue Hair Mask,9.98,70,520
+24-04-01,Lakme,Perfume,Lakme Floral Bloom Perfume,56.54,21,651
+24-04-01,Revlon,Face Wash,Revlon Charcoal Detox Face Wash,112.28,30,578
+24-04-02,Nivea,Face Wash,Nivea Deep Clean Face Wash,62.28,52,539
+24-04-02,Nivea,Body Lotion,Nivea Vitamin Glow Body Lotion,55.17,47,810
+24-04-02,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,100.76,12,1090
+24-04-03,Himalaya,Deodorant,Himalaya Active Dry Deodorant,6.88,101,1122
+24-04-03,Himalaya,Deodorant,Himalaya Active Dry Deodorant,34.93,45,1122
+24-04-03,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,40.32,29,941
+24-04-03,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,31.64,18,943
+24-04-04,Nivea,Hair Serum,Nivea Vitamin Shine Hair Serum,38.85,29,319
+24-04-04,Revlon,Hand Cream,Revlon Vitamin E Hand Cream,46.4,50,631
+24-04-04,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,48.26,30,575
+24-04-04,Nykaa,Body Lotion,Nykaa Soft Almond Body Lotion,67.56,13,600
+24-04-05,MAC,Body Mist,MAC Coconut Breeze Body Mist,68.17,58,451
+24-04-07,Nykaa,Foundation,Nykaa Flawless Satin Foundation,87.28,114,373
+24-04-08,Himalaya,Hand Cream,Himalaya Intensive Repair Hand Cream,8.7,101,641
+24-04-08,Lakme,Deodorant,Lakme Sensitive Care Deodorant,73.01,39,342
+24-04-08,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,40.98,19,1421
+24-04-08,Nivea,Serum,Nivea Brightening Dark Spot Serum,74.9,25,596
+24-04-08,Sugar Cosmetics,Body Lotion,Sugar Cosmetics Whitening Care Body Lotion,36.47,8,185
+24-04-08,Himalaya,Serum,Himalaya Vitamin C Glow Serum,3.16,98,606
+24-04-09,Lakme,Face Wash,Lakme Neem Purify Face Wash,62.06,84,562
+24-04-09,Lakme,Serum,Lakme Niacinamide Clear Serum,63.17,31,697
+24-04-09,Lakme,Hand Cream,Lakme Daily Nourish Hand Cream,52.01,23,626
+24-04-09,MAC,Perfume,MAC Amber Oud Perfume,10.9,9,1033
+24-04-09,L'Oreal,Face Wash,L'Oreal Gentle Foaming Face Wash,91.92,85,312
+24-04-09,MAC,Hair Serum,MAC Heat Protect Hair Serum,11.72,76,458
+24-04-09,Lakme,Eyeliner,Lakme Liquid Wing Eyeliner,84.6,55,433
+24-04-09,The Body Shop,Blush,The Body Shop Cheek Pop Blush,115.91,89,635
+24-04-10,Revlon,Hand Cream,Revlon Vitamin E Hand Cream,30.14,142,631
+24-04-10,MAC,Eyeliner,MAC Kohl Smoky Eyeliner,5.59,32,480
+24-04-10,Maybelline,Sunscreen,Maybelline Daily UV Shield Sunscreen,20.86,99,393
+24-04-11,Nykaa,Body Lotion,Nykaa Soft Almond Body Lotion,29.53,30,600
+24-04-12,Nivea,Hair Serum,Nivea Vitamin Shine Hair Serum,102.4,3,319
+24-04-12,L'Oreal,Hair Serum,L'Oreal Silk Smooth Hair Serum,100.88,111,737
+24-04-12,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,92.16,22,1027
+24-04-12,The Body Shop,Sunscreen,The Body Shop Glow Protect Sunscreen,13.02,18,378
+24-04-13,Maybelline,Body Mist,Maybelline Pure Lavender Body Mist,28.92,272,1204
+24-04-13,MAC,Body Wash,MAC Cocoa Butter Body Wash,35.72,50,586
+24-04-13,Revlon,Soap,Revlon Aloe Cool Soap,36.65,55,482
+24-04-14,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,73.09,57,652
+24-04-14,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,67.79,91,1422
+24-04-14,Revlon,Soap,Revlon Aloe Cool Soap,59.32,31,482
+24-04-14,L'Oreal,Shampoo,L'Oreal Smooth & Shine Shampoo,46.03,126,723
+24-04-16,Maybelline,Hand Cream,Maybelline Almond Care Hand Cream,90.53,132,471
+24-04-16,Himalaya,Shampoo,Himalaya Anti-Dandruff Shampoo,84.57,32,855
+24-04-16,Sugar Cosmetics,Body Lotion,Sugar Cosmetics Whitening Care Body Lotion,107.78,40,185
+24-04-17,MAC,Body Lotion,MAC Skin Firming Body Lotion,78.82,89,660
+24-04-17,Nivea,Body Lotion,Nivea Vitamin Glow Body Lotion,108.59,78,810
+24-04-17,The Body Shop,Hair Serum,The Body Shop Keratin Finish Hair Serum,62.64,24,195
+24-04-18,Sugar Cosmetics,Body Mist,Sugar Cosmetics Rose Petal Body Mist,38.09,108,469
+24-04-18,Nykaa,Hand Cream,Nykaa Glycerin Soothe Hand Cream,55.34,72,638
+24-04-18,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,107.73,119,983
+24-04-18,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,68.04,26,787
+24-04-18,The Body Shop,Conditioner,The Body Shop Argan Moisture Conditioner,75.32,281,672
+24-04-19,Nivea,Hair Serum,Nivea Vitamin Shine Hair Serum,89.47,21,319
+24-04-19,Nivea,Foundation,Nivea Soft Focus Foundation,65.1,14,533
+24-04-19,Revlon,Face Mask,Revlon Tea Tree Clear Face Mask,86.32,61,173
+24-04-19,Himalaya,Body Lotion,Himalaya Cocoa Radiance Body Lotion,21.84,79,218
+24-04-19,Revlon,Hand Cream,Revlon Vitamin E Hand Cream,118.63,32,631
+24-04-20,Maybelline,Body Mist,Maybelline Pure Lavender Body Mist,16.3,16,1204
+24-04-20,MAC,Hand Cream,MAC Soft Touch Hand Cream,107.87,63,427
+24-04-20,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,56.89,43,902
+24-04-21,L'Oreal,Blush,L'Oreal Rose Petal Blush,105.88,103,720
+24-04-22,Revlon,Lipstick,Revlon Coral Crush Lipstick,4.89,11,627
+24-04-22,Maybelline,Face Wash,Maybelline Aloe Hydrate Face Wash,8.89,69,294
+24-04-22,Himalaya,Face Wash,Himalaya Oil Control Face Wash,5.7,8,187
+24-04-23,Nivea,Eyeliner,Nivea Felt-Tip Ultra Eyeliner,106.66,102,599
+24-04-24,The Body Shop,Face Wash,The Body Shop Vitamin C Fresh Face Wash,13.69,71,347
+24-04-25,L'Oreal,Perfume,L'Oreal Midnight Musk Perfume,4.9,117,680
+24-04-25,Lakme,Body Wash,Lakme Honey Almond Body Wash,52.01,40,333
+24-04-26,Sugar Cosmetics,Shampoo,Sugar Cosmetics Keratin Care Shampoo,30.18,12,638
+24-04-26,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,94.27,26,890
+24-04-26,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,14.83,31,890
+24-04-26,Lakme,Blush,Lakme Coral Pop Blush,7.02,183,752
+24-04-27,Himalaya,Face Wash,Himalaya Oil Control Face Wash,52.17,45,187
+24-04-27,L'Oreal,Body Mist,L'Oreal Vanilla Dream Body Mist,113.18,50,623
+24-04-27,MAC,Eyeliner,MAC Kohl Smoky Eyeliner,22.22,19,480
+24-04-27,The Body Shop,Eyeliner,The Body Shop Matte Define Eyeliner,13.07,29,195
+24-04-28,Revlon,Serum,Revlon Snail Repair Serum,82.58,72,578
+24-04-28,Lakme,Hand Cream,Lakme Daily Nourish Hand Cream,109.64,81,626
+24-04-29,Nykaa,Soap,Nykaa Turmeric Glow Soap,12.01,24,758
+24-04-30,Sugar Cosmetics,Body Mist,Sugar Cosmetics Rose Petal Body Mist,62.33,12,469
+24-04-30,Sugar Cosmetics,Deodorant,Sugar Cosmetics Charcoal Clean Deodorant,110.25,16,584
+24-04-30,Maybelline,Shampoo,Maybelline Herbal Cleanse Shampoo,116.74,88,508
+24-05-01,Sugar Cosmetics,Hair Mask,Sugar Cosmetics Damage Rescue Hair Mask,8.92,86,520
+24-05-03,Lakme,Perfume,Lakme Floral Bloom Perfume,69.79,31,651
+24-05-03,The Body Shop,Soap,The Body Shop Charcoal Detox Soap,67.8,5,777
+24-05-03,Sugar Cosmetics,Face Mask,Sugar Cosmetics Honey Repair Face Mask,36.53,35,794
+24-05-04,Himalaya,Body Wash,Himalaya Creamy Shower Gel Body Wash,114.41,194,630
+24-05-05,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,84.92,5,637
+24-05-05,Nykaa,Moisturizer,Nykaa Deep Hydration Moisturizer,115.98,49,695
+24-05-06,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,90.66,39,792
+24-05-06,Himalaya,Lipstick,Himalaya Matte Velvet Lipstick,21.01,30,587
+24-05-06,Nivea,Face Wash,Nivea Deep Clean Face Wash,24.68,149,539
+24-05-06,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,34.56,42,1027
+24-05-07,Nykaa,Moisturizer,Nykaa Deep Hydration Moisturizer,62.01,73,695
+24-05-07,Maybelline,Body Mist,Maybelline Pure Lavender Body Mist,97.08,52,1204
+24-05-07,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,67.82,145,890
+24-05-07,The Body Shop,Body Lotion,The Body Shop Milk Nourish Body Lotion,71.54,14,213
+24-05-07,Himalaya,Hand Cream,Himalaya Intensive Repair Hand Cream,42.78,45,641
+24-05-07,Lakme,Body Lotion,Lakme Aloe Vera Body Lotion,70.66,63,874
+24-05-07,Himalaya,Shampoo,Himalaya Anti-Dandruff Shampoo,7.94,291,855
+24-05-08,L'Oreal,Face Mask,L'Oreal Hydrating Sheet Face Mask,17.38,50,670
+24-05-08,Maybelline,Eyeliner,Maybelline Smudge-Proof Pencil Eyeliner,81.03,76,156
+24-05-08,Lakme,Mascara,Lakme Waterproof Curl Mascara,76.67,28,399
+24-05-09,Nivea,Hair Oil,Nivea Bhringraj Care Hair Oil,47.86,157,371
+24-05-09,Revlon,Lipstick,Revlon Coral Crush Lipstick,71.05,172,627
+24-05-09,Himalaya,Serum,Himalaya Vitamin C Glow Serum,31.07,36,606
+24-05-10,Lakme,Hair Serum,Lakme Argan Gloss Hair Serum,62.35,46,869
+24-05-10,L'Oreal,Shampoo,L'Oreal Smooth & Shine Shampoo,119.27,21,723
+24-05-11,Nykaa,Mascara,Nykaa Ultra Curl Mascara,72.87,58,346
+24-05-12,Revlon,Shampoo,Revlon Strength & Growth Shampoo,111.12,72,839
+24-05-12,L'Oreal,Sunscreen,L'Oreal SPF 30 Light Sunscreen,42.72,36,104
+24-05-12,Lakme,Hair Oil,Lakme Amla Strength Hair Oil,62.87,37,535
+24-05-13,Himalaya,Body Wash,Himalaya Creamy Shower Gel Body Wash,65.48,41,630
+24-05-13,MAC,Perfume,MAC Amber Oud Perfume,5.85,121,1033
+24-05-13,Nykaa,Face Mask,Nykaa Collagen Boost Face Mask,106.34,8,369
+24-05-14,Revlon,Face Mask,Revlon Tea Tree Clear Face Mask,24.85,14,173
+24-05-14,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,39.01,49,652
+24-05-14,Maybelline,Conditioner,Maybelline Frizz Control Conditioner,9.08,29,554
+24-05-14,Nykaa,Conditioner,Nykaa Daily Detangle Conditioner,101.62,55,235
+24-05-15,Lakme,Hand Cream,Lakme Daily Nourish Hand Cream,31.91,58,626
+24-05-15,Lakme,Hair Serum,Lakme Argan Gloss Hair Serum,93.0,71,869
+24-05-15,L'Oreal,Body Wash,L'Oreal Aloe Fresh Body Wash,53.35,78,499
+24-05-15,The Body Shop,Foundation,The Body Shop Fit Me Foundation,91.39,41,508
+24-05-16,MAC,Blush,MAC Soft Pink Blush,39.42,29,469
+24-05-17,Himalaya,Shampoo,Himalaya Anti-Dandruff Shampoo,50.84,34,855
+24-05-17,Nivea,Body Lotion,Nivea Vitamin Glow Body Lotion,74.8,75,810
+24-05-17,Lakme,Foundation,Lakme Full Coverage Foundation,62.9,56,601
+24-05-18,Maybelline,Body Mist,Maybelline Pure Lavender Body Mist,40.08,84,1204
+24-05-18,MAC,Body Mist,MAC Coconut Breeze Body Mist,38.71,10,451
+24-05-19,Nivea,Body Mist,Nivea Tropical Splash Body Mist,75.98,70,718
+24-05-19,Nivea,Body Lotion,Nivea Vitamin Glow Body Lotion,44.37,223,810
+24-05-19,The Body Shop,Body Lotion,The Body Shop Milk Nourish Body Lotion,103.81,51,213
+24-05-19,L'Oreal,Soap,L'Oreal Neem Purify Soap,99.95,33,915
+24-05-19,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,79.2,58,983
+24-05-19,Nykaa,Body Lotion,Nykaa Soft Almond Body Lotion,102.91,45,600
+24-05-19,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,54.32,104,941
+24-05-19,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,96.76,9,1098
+24-05-19,Nykaa,Face Wash,Nykaa Acne Clear Face Wash,34.17,24,479
+24-05-20,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,10.26,53,943
+24-05-20,Revlon,Moisturizer,Revlon Night Renew Moisturizer,74.83,164,635
+24-05-21,The Body Shop,Soap,The Body Shop Charcoal Detox Soap,110.11,206,777
+24-05-21,Lakme,Hair Oil,Lakme Amla Strength Hair Oil,7.4,63,535
+24-05-21,Maybelline,Lipstick,Maybelline Liquid Lip Color Lipstick,20.09,39,495
+24-05-22,Nivea,Eyeliner,Nivea Felt-Tip Ultra Eyeliner,103.63,85,599
+24-05-22,Maybelline,Eyeliner,Maybelline Smudge-Proof Pencil Eyeliner,51.1,21,156
+24-05-23,Maybelline,Hair Serum,Maybelline Repair & Seal Hair Serum,95.12,40,358
+24-05-23,Sugar Cosmetics,Body Mist,Sugar Cosmetics Rose Petal Body Mist,114.91,24,469
+24-05-23,Himalaya,Conditioner,Himalaya Smooth Silk Conditioner,94.83,37,321
+24-05-24,Nivea,Soap,Nivea Rose Cream Soap,3.31,5,283
+24-05-24,L'Oreal,Conditioner,L'Oreal Deep Repair Conditioner,73.55,177,728
+24-05-24,Sugar Cosmetics,Soap,Sugar Cosmetics Oatmeal Soft Soap,11.54,39,778
+24-05-25,L'Oreal,Shampoo,L'Oreal Smooth & Shine Shampoo,102.83,53,723
+24-05-26,Nivea,Soap,Nivea Rose Cream Soap,97.43,19,283
+24-05-26,MAC,Eyeliner,MAC Kohl Smoky Eyeliner,39.76,16,480
+24-05-26,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,21.27,95,1205
+24-05-27,Nykaa,Sunscreen,Nykaa Oil-Free SPF 40 Sunscreen,91.8,87,281
+24-05-27,Lakme,Hair Serum,Lakme Argan Gloss Hair Serum,68.33,91,869
+24-05-27,The Body Shop,Foundation,The Body Shop Fit Me Foundation,115.27,70,508
+24-05-27,Revlon,Foundation,Revlon Stay True Foundation,24.56,32,466
+24-05-27,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,41.26,65,890
+24-05-28,Himalaya,Conditioner,Himalaya Smooth Silk Conditioner,61.93,62,321
+24-05-28,The Body Shop,Moisturizer,The Body Shop Peptide Firm Moisturizer,90.05,23,437
+24-05-29,Sugar Cosmetics,Conditioner,Sugar Cosmetics Herbal Strength Conditioner,75.65,27,515
+24-05-29,The Body Shop,Face Mask,The Body Shop Overnight Sleeping Face Mask,92.95,92,637
+24-05-29,Nykaa,Hair Mask,Nykaa Banana Nourish Hair Mask,4.16,51,527
+24-05-29,L'Oreal,Body Mist,L'Oreal Vanilla Dream Body Mist,9.85,106,623
+24-05-29,The Body Shop,Face Mask,The Body Shop Overnight Sleeping Face Mask,7.32,52,637
+24-05-30,Sugar Cosmetics,Face Wash,Sugar Cosmetics Sensitive Soothe Face Wash,79.07,120,497
+24-05-30,MAC,Lipstick,MAC Satin Nude Lipstick,96.31,27,187
+24-05-30,MAC,Conditioner,MAC Hydra Soft Conditioner,119.74,50,313
+24-06-01,Sugar Cosmetics,Serum,Sugar Cosmetics Collagen Lift Serum,83.05,41,705
+24-06-01,Sugar Cosmetics,Conditioner,Sugar Cosmetics Herbal Strength Conditioner,58.6,46,515
+24-06-02,Nykaa,Conditioner,Nykaa Daily Detangle Conditioner,7.62,14,235
+24-06-03,Lakme,Shampoo,Lakme Volume Lift Shampoo,61.81,40,68
+24-06-03,Revlon,Hair Mask,Revlon Coconut Cream Hair Mask,62.98,71,455
+24-06-04,MAC,Body Lotion,MAC Skin Firming Body Lotion,22.76,88,660
+24-06-05,Himalaya,Blush,Himalaya Peach Glow Blush,13.43,32,366
+24-06-05,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,97.01,47,1027
+24-06-05,Revlon,Deodorant,Revlon Original 48H Deodorant,90.04,9,693
+24-06-06,Himalaya,Body Lotion,Himalaya Cocoa Radiance Body Lotion,83.97,25,218
+24-06-07,Maybelline,Soap,Maybelline Honey Gentle Soap,11.55,140,1146
+24-06-07,Revlon,Hair Mask,Revlon Coconut Cream Hair Mask,82.92,66,455
+24-06-07,Revlon,Perfume,Revlon Jasmine Noir Perfume,39.84,37,734
+24-06-07,The Body Shop,Hair Oil,The Body Shop Herbal Blend Hair Oil,116.26,83,476
+24-06-07,Nykaa,Soap,Nykaa Turmeric Glow Soap,105.84,79,758
+24-06-08,Sugar Cosmetics,Body Lotion,Sugar Cosmetics Whitening Care Body Lotion,109.57,13,185
+24-06-08,L'Oreal,Face Mask,L'Oreal Hydrating Sheet Face Mask,20.25,110,670
+24-06-08,Himalaya,Hand Cream,Himalaya Intensive Repair Hand Cream,111.32,47,641
+24-06-09,Nivea,Body Mist,Nivea Tropical Splash Body Mist,43.02,47,718
+24-06-09,Maybelline,Hand Cream,Maybelline Almond Care Hand Cream,77.42,40,471
+24-06-09,Maybelline,Hair Oil,Maybelline Onion Growth Hair Oil,43.81,54,73
+24-06-09,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,74.03,23,1090
+24-06-09,Sugar Cosmetics,Mascara,Sugar Cosmetics Smudge-Proof Mascara,32.8,46,324
+24-06-09,The Body Shop,Lipstick,The Body Shop Plum Perfect Lipstick,60.91,67,458
+24-06-09,Nivea,Face Wash,Nivea Deep Clean Face Wash,32.11,129,539
+24-06-11,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,67.24,133,983
+24-06-11,Maybelline,Moisturizer,Maybelline Oil-Free Gel Moisturizer,87.84,53,382
+24-06-11,Revlon,Sunscreen,Revlon Sensitive Mineral Sunscreen,21.51,29,49
+24-06-12,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,24.77,42,941
+24-06-12,Nykaa,Hair Serum,Nykaa Anti-Frizz Drops Hair Serum,6.62,67,410
+24-06-12,Nivea,Foundation,Nivea Soft Focus Foundation,52.95,161,533
+24-06-12,Revlon,Body Wash,Revlon Sea Mineral Body Wash,57.03,85,543
+24-06-13,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,46.59,27,787
+24-06-13,Sugar Cosmetics,Deodorant,Sugar Cosmetics Charcoal Clean Deodorant,71.85,46,584
+24-06-13,MAC,Body Lotion,MAC Skin Firming Body Lotion,83.96,77,660
+24-06-13,Nivea,Deodorant,Nivea Roll-On Aqua Deodorant,78.65,56,424
+24-06-13,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,28.63,50,652
+24-06-13,L'Oreal,Perfume,L'Oreal Midnight Musk Perfume,109.24,53,680
+24-06-13,Nivea,Serum,Nivea Brightening Dark Spot Serum,3.4,88,596
+24-06-14,L'Oreal,Body Wash,L'Oreal Aloe Fresh Body Wash,102.0,37,499
+24-06-14,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,37.81,22,943
+24-06-14,Nykaa,Lipstick,Nykaa Moisture Shine Lipstick,118.6,117,846
+24-06-14,Nykaa,Perfume,Nykaa Ocean Breeze Perfume,116.41,200,1263
+24-06-15,Maybelline,Soap,Maybelline Honey Gentle Soap,66.93,48,1146
+24-06-15,Revlon,Body Wash,Revlon Sea Mineral Body Wash,117.56,22,543
+24-06-15,Nivea,Blush,Nivea Bronze Warm Blush,44.55,53,120
+24-06-15,Sugar Cosmetics,Sunscreen,Sugar Cosmetics Aqua Fresh SPF 50 Sunscreen,16.42,53,541
+24-06-16,Lakme,Blush,Lakme Coral Pop Blush,74.9,49,752
+24-06-16,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,49.36,45,890
+24-06-16,Sugar Cosmetics,Moisturizer,Sugar Cosmetics Light Water Cream Moisturizer,118.17,19,360
+24-06-16,Maybelline,Blush,Maybelline Berry Flush Blush,68.96,35,150
+24-06-17,Himalaya,Lipstick,Himalaya Matte Velvet Lipstick,50.22,27,587
+24-06-17,Lakme,Conditioner,Lakme Color Care Conditioner,109.85,72,216
+24-06-18,Sugar Cosmetics,Serum,Sugar Cosmetics Collagen Lift Serum,61.81,48,705
+24-06-18,MAC,Body Lotion,MAC Skin Firming Body Lotion,61.84,53,660
+24-06-18,Himalaya,Foundation,Himalaya Matte Finish Foundation,5.37,40,539
+24-06-19,Lakme,Foundation,Lakme Full Coverage Foundation,44.53,24,601
+24-06-19,Maybelline,Foundation,Maybelline Long-Wear Foundation,6.65,44,711
+24-06-19,Revlon,Eyeliner,Revlon Glitter Shine Eyeliner,99.23,49,856
+24-06-20,Maybelline,Hair Serum,Maybelline Repair & Seal Hair Serum,64.06,154,358
+24-06-20,Nivea,Serum,Nivea Brightening Dark Spot Serum,98.04,88,596
+24-06-20,The Body Shop,Mascara,The Body Shop Lash Sensational Mascara,99.49,57,531
+24-06-20,Himalaya,Body Wash,Himalaya Creamy Shower Gel Body Wash,50.72,50,630
+24-06-21,Maybelline,Serum,Maybelline Peptide Firm Serum,80.45,13,375
+24-06-22,The Body Shop,Face Mask,The Body Shop Overnight Sleeping Face Mask,77.64,147,637
+24-06-22,Maybelline,Serum,Maybelline Peptide Firm Serum,34.99,114,375
+24-06-22,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,104.33,106,1090
+24-06-22,Sugar Cosmetics,Sunscreen,Sugar Cosmetics Aqua Fresh SPF 50 Sunscreen,61.32,92,541
+24-06-22,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,118.47,49,729
+24-06-23,Nykaa,Hand Cream,Nykaa Glycerin Soothe Hand Cream,38.46,13,638
+24-06-23,Revlon,Hand Cream,Revlon Vitamin E Hand Cream,50.14,59,631
+24-06-23,The Body Shop,Hair Mask,The Body Shop Honey Silk Hair Mask,96.05,60,402
+24-06-23,Nykaa,Hair Mask,Nykaa Banana Nourish Hair Mask,89.12,71,527
+24-06-23,The Body Shop,Hair Mask,The Body Shop Honey Silk Hair Mask,32.62,51,402
+24-06-24,Sugar Cosmetics,Moisturizer,Sugar Cosmetics Light Water Cream Moisturizer,81.86,112,360
+24-06-24,L'Oreal,Eyeliner,L'Oreal Gel Precision Eyeliner,114.94,32,464
+24-06-25,L'Oreal,Sunscreen,L'Oreal SPF 30 Light Sunscreen,107.69,36,104
+24-06-25,L'Oreal,Foundation,L'Oreal Dewy Glow Foundation,18.07,61,218
+24-06-25,Himalaya,Deodorant,Himalaya Active Dry Deodorant,10.2,44,1122
+24-06-26,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,99.15,33,623
+24-06-26,Lakme,Hair Mask,Lakme Argan Revive Hair Mask,74.62,47,237
+24-06-26,Sugar Cosmetics,Foundation,Sugar Cosmetics Luminous Silk Foundation,61.63,48,671
+24-06-26,Nivea,Sunscreen,Nivea Tinted SPF 50 Sunscreen,8.59,95,374
+24-06-27,Maybelline,Face Mask,Maybelline Aloe Calm Face Mask,49.06,110,455
+24-06-27,Maybelline,Face Mask,Maybelline Aloe Calm Face Mask,65.41,35,455
+24-06-27,Himalaya,Deodorant,Himalaya Active Dry Deodorant,33.09,117,1122
+24-06-27,Lakme,Conditioner,Lakme Color Care Conditioner,91.25,23,216
+24-06-29,Sugar Cosmetics,Foundation,Sugar Cosmetics Luminous Silk Foundation,98.54,38,671
+24-06-30,L'Oreal,Moisturizer,L'Oreal Daily Glow Moisturizer,64.34,34,433
+24-06-30,Lakme,Hair Serum,Lakme Argan Gloss Hair Serum,12.11,70,869
+24-06-30,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,119.49,107,787
+24-07-01,Nykaa,Face Mask,Nykaa Collagen Boost Face Mask,58.43,56,369
+24-07-01,Lakme,Body Mist,Lakme Fresh Berry Body Mist,65.36,71,603
+24-07-01,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,55.71,80,722
+24-07-02,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,6.88,51,1098
+24-07-02,Maybelline,Body Mist,Maybelline Pure Lavender Body Mist,59.63,62,1204
+24-07-03,MAC,Hair Serum,MAC Heat Protect Hair Serum,57.92,70,458
+24-07-04,Nykaa,Face Wash,Nykaa Acne Clear Face Wash,98.56,16,479
+24-07-04,MAC,Soap,MAC Sandal Fresh Soap,108.97,37,328
+24-07-04,MAC,Shampoo,MAC Repair Intense Shampoo,24.71,106,344
+24-07-04,L'Oreal,Mascara,L'Oreal Lash Lengthening Mascara,35.0,5,414
+24-07-05,Himalaya,Hand Cream,Himalaya Intensive Repair Hand Cream,75.95,90,641
+24-07-05,Nivea,Hand Cream,Nivea Rich Moisture Hand Cream,69.63,79,607
+24-07-05,Nykaa,Body Lotion,Nykaa Soft Almond Body Lotion,117.2,36,600
+24-07-06,L'Oreal,Eyeliner,L'Oreal Gel Precision Eyeliner,7.6,26,464
+24-07-06,Nykaa,Face Wash,Nykaa Acne Clear Face Wash,61.73,48,479
+24-07-07,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,79.56,128,1098
+24-07-07,Revlon,Hair Oil,Revlon Jojoba Smooth Hair Oil,85.13,59,373
+24-07-07,Himalaya,Conditioner,Himalaya Smooth Silk Conditioner,36.41,23,321
+24-07-08,Nykaa,Face Wash,Nykaa Acne Clear Face Wash,100.27,109,479
+24-07-08,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,44.01,87,792
+24-07-08,Nivea,Body Lotion,Nivea Vitamin Glow Body Lotion,35.07,98,810
+24-07-08,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,88.33,39,575
+24-07-08,L'Oreal,Face Wash,L'Oreal Gentle Foaming Face Wash,40.41,28,312
+24-07-08,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,50.89,27,1098
+24-07-09,Nykaa,Moisturizer,Nykaa Deep Hydration Moisturizer,93.75,4,695
+24-07-09,Lakme,Eyeliner,Lakme Liquid Wing Eyeliner,107.46,70,433
+24-07-10,Nivea,Hair Mask,Nivea Color Lock Hair Mask,108.62,54,390
+24-07-11,Nivea,Shampoo,Nivea Color Protect Shampoo,30.87,41,640
+24-07-11,The Body Shop,Hair Serum,The Body Shop Keratin Finish Hair Serum,9.12,29,195
+24-07-12,L'Oreal,Hair Serum,L'Oreal Silk Smooth Hair Serum,8.73,116,737
+24-07-12,MAC,Body Mist,MAC Coconut Breeze Body Mist,5.63,62,451
+24-07-12,MAC,Hand Cream,MAC Soft Touch Hand Cream,51.99,24,427
+24-07-13,Revlon,Soap,Revlon Aloe Cool Soap,67.79,23,482
+24-07-13,Himalaya,Face Mask,Himalaya Clay Detox Face Mask,41.49,82,671
+24-07-16,Revlon,Eyeliner,Revlon Glitter Shine Eyeliner,95.39,83,856
+24-07-16,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,22.27,14,902
+24-07-16,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,78.37,17,722
+24-07-17,Lakme,Mascara,Lakme Waterproof Curl Mascara,100.06,201,399
+24-07-17,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,82.1,81,792
+24-07-17,Revlon,Hand Cream,Revlon Vitamin E Hand Cream,8.61,44,631
+24-07-17,The Body Shop,Hair Serum,The Body Shop Keratin Finish Hair Serum,22.97,94,195
+24-07-17,Sugar Cosmetics,Deodorant,Sugar Cosmetics Charcoal Clean Deodorant,58.91,42,584
+24-07-18,MAC,Moisturizer,MAC Ceramide Repair Moisturizer,114.66,89,489
+24-07-18,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,88.71,77,787
+24-07-19,Sugar Cosmetics,Body Mist,Sugar Cosmetics Rose Petal Body Mist,13.37,70,469
+24-07-20,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,76.59,37,787
+24-07-20,Revlon,Face Wash,Revlon Charcoal Detox Face Wash,74.02,72,578
+24-07-20,Lakme,Body Mist,Lakme Fresh Berry Body Mist,44.74,64,603
+24-07-20,Himalaya,Lipstick,Himalaya Matte Velvet Lipstick,35.99,15,587
+24-07-22,Sugar Cosmetics,Blush,Sugar Cosmetics Nude Bloom Blush,50.12,18,359
+24-07-22,L'Oreal,Mascara,L'Oreal Lash Lengthening Mascara,63.85,39,414
+24-07-22,Nivea,Soap,Nivea Rose Cream Soap,53.95,24,283
+24-07-23,Sugar Cosmetics,Sunscreen,Sugar Cosmetics Aqua Fresh SPF 50 Sunscreen,84.31,129,541
+24-07-23,Nivea,Lipstick,Nivea Berry Bold Lipstick,43.75,60,604
+24-07-23,Nivea,Hair Mask,Nivea Color Lock Hair Mask,110.43,50,390
+24-07-24,Nivea,Eyeliner,Nivea Felt-Tip Ultra Eyeliner,70.54,47,599
+24-07-24,L'Oreal,Soap,L'Oreal Neem Purify Soap,63.64,65,915
+24-07-25,Revlon,Shampoo,Revlon Strength & Growth Shampoo,46.97,60,839
+24-07-25,The Body Shop,Soap,The Body Shop Charcoal Detox Soap,5.35,43,777
+24-07-25,Nivea,Deodorant,Nivea Roll-On Aqua Deodorant,104.29,16,424
+24-07-25,L'Oreal,Soap,L'Oreal Neem Purify Soap,41.9,8,915
+24-07-26,The Body Shop,Serum,The Body Shop Green Tea Balance Serum,35.14,43,389
+24-07-26,Lakme,Face Mask,Lakme Brightening Glow Face Mask,80.05,76,257
+24-07-26,Sugar Cosmetics,Face Mask,Sugar Cosmetics Honey Repair Face Mask,94.64,29,794
+24-07-27,Himalaya,Deodorant,Himalaya Active Dry Deodorant,102.02,82,1122
+24-07-27,Himalaya,Hair Mask,Himalaya Deep Repair Hair Mask,103.77,89,418
+24-07-27,Himalaya,Moisturizer,Himalaya Hydra Boost Moisturizer,98.25,19,362
+24-07-27,Revlon,Face Wash,Revlon Charcoal Detox Face Wash,32.06,75,578
+24-07-27,Sugar Cosmetics,Conditioner,Sugar Cosmetics Herbal Strength Conditioner,79.69,72,515
+24-07-28,L'Oreal,Soap,L'Oreal Neem Purify Soap,9.58,78,915
+24-07-29,Himalaya,Perfume,Himalaya Eau de Parfum Rose Perfume,30.94,39,759
+24-07-29,The Body Shop,Soap,The Body Shop Charcoal Detox Soap,80.0,7,777
+24-07-29,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,102.62,17,943
+24-07-29,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,85.46,19,914
+24-07-30,L'Oreal,Hair Oil,L'Oreal Coconut Shine Hair Oil,78.45,71,367
+24-07-30,Nivea,Sunscreen,Nivea Tinted SPF 50 Sunscreen,51.95,17,374
+24-07-30,Himalaya,Conditioner,Himalaya Smooth Silk Conditioner,87.64,34,321
+24-07-31,Revlon,Hair Mask,Revlon Coconut Cream Hair Mask,66.28,35,455
+24-07-31,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,106.15,136,902
+24-08-01,Himalaya,Shampoo,Himalaya Anti-Dandruff Shampoo,33.84,113,855
+24-08-01,MAC,Foundation,MAC Skin Tint Foundation,21.55,3,844
+24-08-01,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,63.96,152,890
+24-08-01,Nykaa,Moisturizer,Nykaa Deep Hydration Moisturizer,22.22,118,695
+24-08-01,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,52.48,97,1422
+24-08-02,The Body Shop,Conditioner,The Body Shop Argan Moisture Conditioner,59.57,69,672
+24-08-02,Nivea,Body Lotion,Nivea Vitamin Glow Body Lotion,108.29,8,810
+24-08-02,Maybelline,Hair Mask,Maybelline Protein Strength Hair Mask,8.38,41,719
+24-08-02,Sugar Cosmetics,Blush,Sugar Cosmetics Nude Bloom Blush,93.36,26,359
+24-08-02,Revlon,Face Wash,Revlon Charcoal Detox Face Wash,117.63,35,578
+24-08-03,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,10.98,52,792
+24-08-03,Nykaa,Sunscreen,Nykaa Oil-Free SPF 40 Sunscreen,88.77,15,281
+24-08-04,L'Oreal,Shampoo,L'Oreal Smooth & Shine Shampoo,97.05,58,723
+24-08-04,Himalaya,Deodorant,Himalaya Active Dry Deodorant,54.85,11,1122
+24-08-04,Nykaa,Body Wash,Nykaa Moisture Plus Body Wash,68.26,21,661
+24-08-04,Himalaya,Soap,Himalaya Classic Bar Soap,40.23,59,923
+24-08-05,L'Oreal,Mascara,L'Oreal Lash Lengthening Mascara,6.63,137,414
+24-08-05,Nivea,Perfume,Nivea Velvet Vanilla Perfume,12.43,48,775
+24-08-07,MAC,Perfume,MAC Amber Oud Perfume,28.16,93,1033
+24-08-07,Maybelline,Sunscreen,Maybelline Daily UV Shield Sunscreen,55.91,65,393
+24-08-07,Maybelline,Foundation,Maybelline Long-Wear Foundation,71.24,120,711
+24-08-07,Nykaa,Hair Mask,Nykaa Banana Nourish Hair Mask,115.6,38,527
+24-08-08,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,11.33,58,792
+24-08-08,Revlon,Moisturizer,Revlon Night Renew Moisturizer,24.58,33,635
+24-08-08,Himalaya,Deodorant,Himalaya Active Dry Deodorant,91.18,101,1122
+24-08-09,Nykaa,Face Mask,Nykaa Collagen Boost Face Mask,78.54,35,369
+24-08-09,Himalaya,Face Mask,Himalaya Clay Detox Face Mask,36.37,100,671
+24-08-09,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,38.21,67,575
+24-08-09,L'Oreal,Face Mask,L'Oreal Hydrating Sheet Face Mask,32.01,95,670
+24-08-09,L'Oreal,Moisturizer,L'Oreal Daily Glow Moisturizer,82.4,43,433
+24-08-09,MAC,Soap,MAC Sandal Fresh Soap,72.99,58,328
+24-08-10,Revlon,Lipstick,Revlon Coral Crush Lipstick,78.95,98,627
+24-08-10,Maybelline,Blush,Maybelline Berry Flush Blush,103.54,43,150
+24-08-10,Nivea,Deodorant,Nivea Roll-On Aqua Deodorant,119.84,86,424
+24-08-10,Revlon,Blush,Revlon Shimmer Sunset Blush,88.8,41,314
+24-08-10,Maybelline,Hair Oil,Maybelline Onion Growth Hair Oil,102.59,19,73
+24-08-10,L'Oreal,Blush,L'Oreal Rose Petal Blush,52.27,12,720
+24-08-11,Lakme,Soap,Lakme Glycerin Pure Soap,109.73,36,605
+24-08-11,Sugar Cosmetics,Soap,Sugar Cosmetics Oatmeal Soft Soap,72.83,109,778
+24-08-12,Nykaa,Body Lotion,Nykaa Soft Almond Body Lotion,71.14,84,600
+24-08-12,Lakme,Body Lotion,Lakme Aloe Vera Body Lotion,31.98,116,874
+24-08-13,Nivea,Mascara,Nivea Lift & Define Mascara,43.77,3,221
+24-08-13,L'Oreal,Mascara,L'Oreal Lash Lengthening Mascara,61.75,37,414
+24-08-13,Lakme,Lipstick,Lakme Ruby Red Lipstick,39.93,96,563
+24-08-14,Lakme,Hair Oil,Lakme Amla Strength Hair Oil,30.02,58,535
+24-08-14,MAC,Deodorant,MAC Cool Sport Deodorant,14.2,67,480
+24-08-14,Revlon,Hair Mask,Revlon Coconut Cream Hair Mask,37.18,27,455
+24-08-14,L'Oreal,Body Mist,L'Oreal Vanilla Dream Body Mist,116.26,95,623
+24-08-14,Nykaa,Perfume,Nykaa Ocean Breeze Perfume,21.39,45,1263
+24-08-14,Nykaa,Body Lotion,Nykaa Soft Almond Body Lotion,64.01,81,600
+24-08-14,Himalaya,Deodorant,Himalaya Active Dry Deodorant,108.41,38,1122
+24-08-15,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,85.03,61,1027
+24-08-15,The Body Shop,Hair Oil,The Body Shop Herbal Blend Hair Oil,71.78,44,476
+24-08-15,Revlon,Serum,Revlon Snail Repair Serum,35.81,39,578
+24-08-15,Maybelline,Blush,Maybelline Berry Flush Blush,7.59,8,150
+24-08-16,Himalaya,Hair Oil,Himalaya Argan Nourish Hair Oil,22.03,14,575
+24-08-16,L'Oreal,Hair Serum,L'Oreal Silk Smooth Hair Serum,31.1,46,737
+24-08-16,Nivea,Shampoo,Nivea Color Protect Shampoo,91.2,91,640
+24-08-17,The Body Shop,Body Lotion,The Body Shop Milk Nourish Body Lotion,48.76,23,213
+24-08-17,Sugar Cosmetics,Lipstick,Sugar Cosmetics Long-Wear Classic Lipstick,70.83,78,487
+24-08-17,L'Oreal,Soap,L'Oreal Neem Purify Soap,20.7,132,915
+24-08-18,Nykaa,Eyeliner,Nykaa Brown Soft Eyeliner,115.43,20,693
+24-08-18,MAC,Face Wash,MAC Brightening Glow Face Wash,100.64,79,273
+24-08-18,Nykaa,Deodorant,Nykaa Pearl Beauty Deodorant,28.31,29,356
+24-08-19,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,40.3,59,983
+24-08-19,MAC,Body Mist,MAC Coconut Breeze Body Mist,68.25,23,451
+24-08-19,Sugar Cosmetics,Lipstick,Sugar Cosmetics Long-Wear Classic Lipstick,118.23,40,487
+24-08-20,Nykaa,Perfume,Nykaa Ocean Breeze Perfume,96.46,113,1263
+24-08-20,Sugar Cosmetics,Hair Mask,Sugar Cosmetics Damage Rescue Hair Mask,24.63,84,520
+24-08-21,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,65.05,28,623
+24-08-21,Maybelline,Shampoo,Maybelline Herbal Cleanse Shampoo,33.21,47,508
+24-08-21,Nivea,Lipstick,Nivea Berry Bold Lipstick,62.64,22,604
+24-08-22,Lakme,Hair Oil,Lakme Amla Strength Hair Oil,14.31,42,535
+24-08-22,The Body Shop,Hair Oil,The Body Shop Herbal Blend Hair Oil,45.37,36,476
+24-08-22,MAC,Deodorant,MAC Cool Sport Deodorant,78.96,72,480
+24-08-23,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,50.46,7,1090
+24-08-23,MAC,Hair Oil,MAC Almond Repair Hair Oil,51.57,45,296
+24-08-23,Nykaa,Hair Oil,Nykaa Light Daily Hair Oil,27.03,93,507
+24-08-23,Nivea,Shampoo,Nivea Color Protect Shampoo,53.01,12,640
+24-08-24,Nykaa,Moisturizer,Nykaa Deep Hydration Moisturizer,83.67,39,695
+24-08-24,Nivea,Perfume,Nivea Velvet Vanilla Perfume,19.81,62,775
+24-08-24,Lakme,Blush,Lakme Coral Pop Blush,112.12,49,752
+24-08-25,Revlon,Conditioner,Revlon Volume Light Conditioner,76.14,15,245
+24-08-25,Revlon,Eyeliner,Revlon Glitter Shine Eyeliner,88.13,133,856
+24-08-25,L'Oreal,Face Wash,L'Oreal Gentle Foaming Face Wash,53.02,53,312
+24-08-25,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,64.0,185,983
+24-08-27,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,114.51,57,914
+24-08-27,Sugar Cosmetics,Soap,Sugar Cosmetics Oatmeal Soft Soap,12.78,152,778
+24-08-27,Nivea,Soap,Nivea Rose Cream Soap,36.87,39,283
+24-08-28,Nykaa,Body Wash,Nykaa Moisture Plus Body Wash,42.29,40,661
+24-08-28,Nykaa,Soap,Nykaa Turmeric Glow Soap,42.74,71,758
+24-08-29,Revlon,Moisturizer,Revlon Night Renew Moisturizer,25.47,106,635
+24-08-29,Nivea,Moisturizer,Nivea Vitamin C Bright Moisturizer,117.95,28,293
+24-08-29,MAC,Perfume,MAC Amber Oud Perfume,64.03,13,1033
+24-08-30,Revlon,Face Mask,Revlon Tea Tree Clear Face Mask,33.7,30,173
+24-08-31,The Body Shop,Mascara,The Body Shop Lash Sensational Mascara,79.86,46,531
+24-08-31,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,88.73,11,890
+24-09-01,Himalaya,Blush,Himalaya Peach Glow Blush,41.71,97,366
+24-09-01,The Body Shop,Body Mist,The Body Shop Sunset Amber Body Mist,117.14,97,941
+24-09-02,Sugar Cosmetics,Soap,Sugar Cosmetics Oatmeal Soft Soap,33.04,39,778
+24-09-02,Lakme,Deodorant,Lakme Sensitive Care Deodorant,69.8,31,342
+24-09-02,The Body Shop,Face Mask,The Body Shop Overnight Sleeping Face Mask,57.99,63,637
+24-09-03,Nivea,Hair Mask,Nivea Color Lock Hair Mask,42.87,16,390
+24-09-03,The Body Shop,Conditioner,The Body Shop Argan Moisture Conditioner,25.3,32,672
+24-09-04,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,80.09,111,1421
+24-09-04,The Body Shop,Body Lotion,The Body Shop Milk Nourish Body Lotion,26.46,26,213
+24-09-04,Sugar Cosmetics,Shampoo,Sugar Cosmetics Keratin Care Shampoo,20.72,20,638
+24-09-05,L'Oreal,Conditioner,L'Oreal Deep Repair Conditioner,27.65,31,728
+24-09-05,The Body Shop,Conditioner,The Body Shop Argan Moisture Conditioner,5.95,64,672
+24-09-05,MAC,Face Mask,MAC Charcoal Peel-Off Face Mask,47.79,36,181
+24-09-06,Maybelline,Mascara,Maybelline Fiber Lash Mascara,48.89,45,704
+24-09-06,Himalaya,Hair Mask,Himalaya Deep Repair Hair Mask,36.83,59,418
+24-09-07,Maybelline,Conditioner,Maybelline Frizz Control Conditioner,24.02,78,554
+24-09-08,MAC,Conditioner,MAC Hydra Soft Conditioner,91.97,29,313
+24-09-08,Himalaya,Foundation,Himalaya Matte Finish Foundation,113.21,123,539
+24-09-08,MAC,Conditioner,MAC Hydra Soft Conditioner,32.07,67,313
+24-09-08,Nykaa,Conditioner,Nykaa Daily Detangle Conditioner,28.54,43,235
+24-09-08,Revlon,Face Wash,Revlon Charcoal Detox Face Wash,80.63,37,578
+24-09-09,Nykaa,Serum,Nykaa Anti-Aging Youth Serum,90.1,105,380
+24-09-09,Maybelline,Conditioner,Maybelline Frizz Control Conditioner,39.83,91,554
+24-09-09,Revlon,Shampoo,Revlon Strength & Growth Shampoo,69.49,26,839
+24-09-09,Nivea,Sunscreen,Nivea Tinted SPF 50 Sunscreen,44.8,97,374
+24-09-09,MAC,Serum,MAC Retinol Renew Serum,66.53,46,466
+24-09-09,Himalaya,Serum,Himalaya Vitamin C Glow Serum,38.13,83,606
+24-09-10,Revlon,Deodorant,Revlon Original 48H Deodorant,117.12,7,693
+24-09-10,Maybelline,Hand Cream,Maybelline Almond Care Hand Cream,95.32,18,471
+24-09-10,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,52.78,37,902
+24-09-11,Lakme,Eyeliner,Lakme Liquid Wing Eyeliner,113.81,95,433
+24-09-11,Revlon,Hair Serum,Revlon Lightweight Leave-In Hair Serum,84.14,180,379
+24-09-11,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,106.54,163,1421
+24-09-12,L'Oreal,Body Mist,L'Oreal Vanilla Dream Body Mist,93.66,25,623
+24-09-13,L'Oreal,Hair Mask,L'Oreal Keratin Smooth Hair Mask,89.68,16,404
+24-09-13,Nivea,Body Wash,Nivea Oat Soothe Body Wash,114.0,40,197
+24-09-14,MAC,Foundation,MAC Skin Tint Foundation,18.33,35,844
+24-09-14,Nivea,Sunscreen,Nivea Tinted SPF 50 Sunscreen,109.63,120,374
+24-09-15,Himalaya,Perfume,Himalaya Eau de Parfum Rose Perfume,71.77,33,759
+24-09-15,Maybelline,Soap,Maybelline Honey Gentle Soap,28.93,22,1146
+24-09-15,L'Oreal,Face Wash,L'Oreal Gentle Foaming Face Wash,117.81,31,312
+24-09-15,L'Oreal,Perfume,L'Oreal Midnight Musk Perfume,31.64,42,680
+24-09-17,Lakme,Lipstick,Lakme Ruby Red Lipstick,73.78,33,563
+24-09-17,L'Oreal,Hair Mask,L'Oreal Keratin Smooth Hair Mask,11.39,54,404
+24-09-17,MAC,Body Wash,MAC Cocoa Butter Body Wash,92.04,58,586
+24-09-18,Maybelline,Moisturizer,Maybelline Oil-Free Gel Moisturizer,103.08,20,382
+24-09-18,Sugar Cosmetics,Conditioner,Sugar Cosmetics Herbal Strength Conditioner,116.09,15,515
+24-09-18,Lakme,Body Wash,Lakme Honey Almond Body Wash,4.65,74,333
+24-09-18,L'Oreal,Body Wash,L'Oreal Aloe Fresh Body Wash,38.89,25,499
+24-09-18,Nykaa,Hair Serum,Nykaa Anti-Frizz Drops Hair Serum,8.5,72,410
+24-09-19,Nykaa,Serum,Nykaa Anti-Aging Youth Serum,59.37,48,380
+24-09-19,The Body Shop,Hand Cream,The Body Shop Overnight Repair Hand Cream,45.06,93,787
+24-09-20,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,78.37,44,943
+24-09-20,Lakme,Body Mist,Lakme Fresh Berry Body Mist,86.62,10,603
+24-09-20,Nivea,Deodorant,Nivea Roll-On Aqua Deodorant,106.37,76,424
+24-09-20,Maybelline,Body Wash,Maybelline Tea Tree Purify Body Wash,111.36,87,983
+24-09-20,Nykaa,Soap,Nykaa Turmeric Glow Soap,41.96,18,758
+24-09-21,Sugar Cosmetics,Perfume,Sugar Cosmetics Sandalwood Mist Perfume,10.49,38,943
+24-09-21,Lakme,Serum,Lakme Niacinamide Clear Serum,8.82,90,697
+24-09-22,The Body Shop,Eyeliner,The Body Shop Matte Define Eyeliner,49.89,37,195
+24-09-22,Maybelline,Conditioner,Maybelline Frizz Control Conditioner,96.3,70,554
+24-09-22,Sugar Cosmetics,Face Wash,Sugar Cosmetics Sensitive Soothe Face Wash,39.89,22,497
+24-09-22,MAC,Soap,MAC Sandal Fresh Soap,44.35,39,328
+24-09-23,Himalaya,Deodorant,Himalaya Active Dry Deodorant,84.97,19,1122
+24-09-23,MAC,Foundation,MAC Skin Tint Foundation,103.48,277,844
+24-09-24,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,110.62,9,914
+24-09-24,Nykaa,Body Wash,Nykaa Moisture Plus Body Wash,93.14,50,661
+24-09-25,Maybelline,Face Mask,Maybelline Aloe Calm Face Mask,26.01,22,455
+24-09-25,Sugar Cosmetics,Foundation,Sugar Cosmetics Luminous Silk Foundation,15.49,102,671
+24-09-25,Himalaya,Blush,Himalaya Peach Glow Blush,35.42,68,366
+24-09-26,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,13.34,85,1422
+24-09-26,Himalaya,Foundation,Himalaya Matte Finish Foundation,7.54,69,539
+24-09-26,Sugar Cosmetics,Mascara,Sugar Cosmetics Smudge-Proof Mascara,43.94,5,324
+24-09-27,Himalaya,Face Mask,Himalaya Clay Detox Face Mask,102.45,34,671
+24-09-28,Revlon,Serum,Revlon Snail Repair Serum,61.07,146,578
+24-09-29,MAC,Eyeliner,MAC Kohl Smoky Eyeliner,75.88,211,480
+24-09-30,Revlon,Deodorant,Revlon Original 48H Deodorant,119.61,62,693
+24-09-30,Himalaya,Mascara,Himalaya Volume Boost Mascara,86.63,52,465
+24-09-30,Nivea,Deodorant,Nivea Roll-On Aqua Deodorant,108.28,52,424
+24-09-30,Lakme,Body Mist,Lakme Fresh Berry Body Mist,30.33,48,603
+24-09-30,The Body Shop,Foundation,The Body Shop Fit Me Foundation,47.07,65,508
+24-09-30,Nivea,Conditioner,Nivea Keratin Nourish Conditioner,19.06,29,373
+24-09-30,Revlon,Shampoo,Revlon Strength & Growth Shampoo,118.4,27,839
+24-10-01,Lakme,Sunscreen,Lakme Invisible Matte Sunscreen,14.91,55,374
+24-10-01,MAC,Sunscreen,MAC Sport Waterproof Sunscreen,56.31,140,322
+24-10-01,MAC,Perfume,MAC Amber Oud Perfume,45.38,36,1033
+24-10-02,Himalaya,Foundation,Himalaya Matte Finish Foundation,47.09,26,539
+24-10-02,Lakme,Sunscreen,Lakme Invisible Matte Sunscreen,85.63,58,374
+24-10-02,L'Oreal,Face Mask,L'Oreal Hydrating Sheet Face Mask,47.25,41,670
+24-10-02,MAC,Hand Cream,MAC Soft Touch Hand Cream,45.23,14,427
+24-10-02,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,84.27,80,652
+24-10-03,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,93.33,92,1422
+24-10-04,MAC,Moisturizer,MAC Ceramide Repair Moisturizer,8.29,20,489
+24-10-04,Maybelline,Lipstick,Maybelline Liquid Lip Color Lipstick,71.76,44,495
+24-10-04,Nivea,Eyeliner,Nivea Felt-Tip Ultra Eyeliner,75.79,9,599
+24-10-05,Lakme,Foundation,Lakme Full Coverage Foundation,85.99,40,601
+24-10-05,Maybelline,Hair Mask,Maybelline Protein Strength Hair Mask,24.27,60,719
+24-10-05,Nivea,Blush,Nivea Bronze Warm Blush,32.66,6,120
+24-10-05,Sugar Cosmetics,Body Lotion,Sugar Cosmetics Whitening Care Body Lotion,45.97,41,185
+24-10-05,Nykaa,Body Lotion,Nykaa Soft Almond Body Lotion,3.09,82,600
+24-10-06,Himalaya,Blush,Himalaya Peach Glow Blush,41.23,40,366
+24-10-06,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,71.29,53,652
+24-10-06,Maybelline,Face Wash,Maybelline Aloe Hydrate Face Wash,88.32,67,294
+24-10-06,L'Oreal,Shampoo,L'Oreal Smooth & Shine Shampoo,35.83,154,723
+24-10-06,Himalaya,Conditioner,Himalaya Smooth Silk Conditioner,60.45,16,321
+24-10-06,L'Oreal,Conditioner,L'Oreal Deep Repair Conditioner,85.49,35,728
+24-10-07,Revlon,Conditioner,Revlon Volume Light Conditioner,77.53,16,245
+24-10-07,Revlon,Eyeliner,Revlon Glitter Shine Eyeliner,20.57,53,856
+24-10-08,Nykaa,Hair Serum,Nykaa Anti-Frizz Drops Hair Serum,103.47,58,410
+24-10-08,Revlon,Perfume,Revlon Jasmine Noir Perfume,55.05,22,734
+24-10-08,The Body Shop,Hair Mask,The Body Shop Honey Silk Hair Mask,7.3,51,402
+24-10-08,Nykaa,Shampoo,Nykaa Gentle Daily Shampoo,92.04,23,341
+24-10-08,The Body Shop,Foundation,The Body Shop Fit Me Foundation,49.16,36,508
+24-10-08,Himalaya,Body Lotion,Himalaya Cocoa Radiance Body Lotion,73.95,40,218
+24-10-08,The Body Shop,Body Wash,The Body Shop Citrus Energize Body Wash,17.79,121,1027
+24-10-08,Himalaya,Sunscreen,Himalaya SPF 50 Gel Sunscreen,27.74,30,309
+24-10-10,Nivea,Sunscreen,Nivea Tinted SPF 50 Sunscreen,69.04,17,374
+24-10-10,Lakme,Deodorant,Lakme Sensitive Care Deodorant,116.48,79,342
+24-10-10,Sugar Cosmetics,Hair Oil,Sugar Cosmetics Olive Deep Hair Oil,119.21,13,224
+24-10-11,Sugar Cosmetics,Hair Oil,Sugar Cosmetics Olive Deep Hair Oil,69.77,5,224
+24-10-11,Sugar Cosmetics,Conditioner,Sugar Cosmetics Herbal Strength Conditioner,53.41,60,515
+24-10-11,L'Oreal,Blush,L'Oreal Rose Petal Blush,86.53,51,720
+24-10-11,L'Oreal,Deodorant,L'Oreal Fresh Cotton Deodorant,79.84,46,902
+24-10-11,L'Oreal,Sunscreen,L'Oreal SPF 30 Light Sunscreen,88.11,17,104
+24-10-11,Lakme,Body Mist,Lakme Fresh Berry Body Mist,52.02,26,603
+24-10-11,Nykaa,Mascara,Nykaa Ultra Curl Mascara,23.4,22,346
+24-10-11,The Body Shop,Moisturizer,The Body Shop Peptide Firm Moisturizer,85.43,22,437
+24-10-12,MAC,Soap,MAC Sandal Fresh Soap,13.5,11,328
+24-10-12,The Body Shop,Face Wash,The Body Shop Vitamin C Fresh Face Wash,7.49,51,347
+24-10-12,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,86.42,67,1205
+24-10-13,MAC,Hair Oil,MAC Almond Repair Hair Oil,72.07,6,296
+24-10-14,Nykaa,Face Wash,Nykaa Acne Clear Face Wash,16.15,90,479
+24-10-15,Nivea,Conditioner,Nivea Keratin Nourish Conditioner,32.36,58,373
+24-10-15,The Body Shop,Sunscreen,The Body Shop Glow Protect Sunscreen,85.92,25,378
+24-10-15,Nykaa,Lipstick,Nykaa Moisture Shine Lipstick,58.18,54,846
+24-10-15,Maybelline,Soap,Maybelline Honey Gentle Soap,88.28,44,1146
+24-10-16,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,105.48,9,1205
+24-10-16,Nivea,Hair Mask,Nivea Color Lock Hair Mask,100.57,26,390
+24-10-16,Lakme,Shampoo,Lakme Volume Lift Shampoo,61.17,3,68
+24-10-16,Sugar Cosmetics,Foundation,Sugar Cosmetics Luminous Silk Foundation,88.23,80,671
+24-10-17,MAC,Foundation,MAC Skin Tint Foundation,9.49,90,844
+24-10-17,Lakme,Perfume,Lakme Floral Bloom Perfume,106.67,81,651
+24-10-17,Nivea,Conditioner,Nivea Keratin Nourish Conditioner,88.2,172,373
+24-10-17,Revlon,Perfume,Revlon Jasmine Noir Perfume,13.14,41,734
+24-10-17,MAC,Sunscreen,MAC Sport Waterproof Sunscreen,97.1,19,322
+24-10-18,Nivea,Face Wash,Nivea Deep Clean Face Wash,101.01,35,539
+24-10-19,Revlon,Deodorant,Revlon Original 48H Deodorant,58.2,14,693
+24-10-19,Nivea,Perfume,Nivea Velvet Vanilla Perfume,42.42,68,775
+24-10-19,Nykaa,Hair Serum,Nykaa Anti-Frizz Drops Hair Serum,35.84,46,410
+24-10-20,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,33.28,15,722
+24-10-20,Nivea,Soap,Nivea Rose Cream Soap,118.08,38,283
+24-10-20,Himalaya,Body Mist,Himalaya Cherry Blossom Body Mist,105.58,33,890
+24-10-20,Lakme,Hair Mask,Lakme Argan Revive Hair Mask,109.05,54,237
+24-10-20,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,83.3,35,1090
+24-10-21,Maybelline,Hair Mask,Maybelline Protein Strength Hair Mask,118.77,54,719
+24-10-21,Lakme,Moisturizer,Lakme Aloe Soothe Moisturizer,107.16,57,284
+24-10-21,Nykaa,Face Wash,Nykaa Acne Clear Face Wash,100.28,68,479
+24-10-22,Lakme,Foundation,Lakme Full Coverage Foundation,111.46,113,601
+24-10-22,Maybelline,Hair Serum,Maybelline Repair & Seal Hair Serum,105.48,32,358
+24-10-22,Himalaya,Foundation,Himalaya Matte Finish Foundation,54.1,6,539
+24-10-22,The Body Shop,Perfume,The Body Shop Golden Hour Perfume,10.5,58,1421
+24-10-22,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,30.26,151,914
+24-10-23,MAC,Perfume,MAC Amber Oud Perfume,63.99,41,1033
+24-10-24,MAC,Blush,MAC Soft Pink Blush,42.83,69,469
+24-10-25,Nykaa,Foundation,Nykaa Flawless Satin Foundation,28.79,50,373
+24-10-25,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,119.94,52,729
+24-10-26,Lakme,Hand Cream,Lakme Daily Nourish Hand Cream,37.32,54,626
+24-10-27,The Body Shop,Deodorant,The Body Shop Citrus Guard Deodorant,104.75,54,477
+24-10-27,Himalaya,Blush,Himalaya Peach Glow Blush,114.24,19,366
+24-10-27,Lakme,Moisturizer,Lakme Aloe Soothe Moisturizer,67.55,44,284
+24-10-27,Nykaa,Hand Cream,Nykaa Glycerin Soothe Hand Cream,55.64,50,638
+24-10-28,Nivea,Moisturizer,Nivea Vitamin C Bright Moisturizer,81.48,27,293
+24-10-28,MAC,Deodorant,MAC Cool Sport Deodorant,66.63,37,480
+24-10-28,Nivea,Perfume,Nivea Velvet Vanilla Perfume,77.31,45,775
+24-10-28,Maybelline,Hair Serum,Maybelline Repair & Seal Hair Serum,106.46,43,358
+24-10-29,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,82.42,52,1422
+24-10-29,Himalaya,Serum,Himalaya Vitamin C Glow Serum,71.26,32,606
+24-10-29,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,98.71,1,1090
+24-10-31,Nykaa,Perfume,Nykaa Ocean Breeze Perfume,9.24,170,1263
+24-10-31,Revlon,Body Lotion,Revlon Sensitive Calm Body Lotion,35.73,23,914
+24-10-31,Sugar Cosmetics,Hair Serum,Sugar Cosmetics Split-End Care Hair Serum,116.47,65,478
+24-11-01,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,36.36,33,1205
+24-11-01,The Body Shop,Shampoo,The Body Shop Scalp Balance Shampoo,12.18,8,792
+24-11-01,Sugar Cosmetics,Sunscreen,Sugar Cosmetics Aqua Fresh SPF 50 Sunscreen,62.74,4,541
+24-11-02,Lakme,Mascara,Lakme Waterproof Curl Mascara,112.32,164,399
+24-11-02,The Body Shop,Face Wash,The Body Shop Vitamin C Fresh Face Wash,43.69,32,347
+24-11-02,Nivea,Lipstick,Nivea Berry Bold Lipstick,28.28,135,604
+24-11-02,Lakme,Perfume,Lakme Floral Bloom Perfume,71.63,25,651
+24-11-02,MAC,Body Lotion,MAC Skin Firming Body Lotion,77.58,23,660
+24-11-03,MAC,Body Wash,MAC Cocoa Butter Body Wash,31.36,7,586
+24-11-03,The Body Shop,Blush,The Body Shop Cheek Pop Blush,105.37,39,635
+24-11-04,Sugar Cosmetics,Soap,Sugar Cosmetics Oatmeal Soft Soap,33.72,82,778
+24-11-04,Revlon,Body Mist,Revlon Cool Cucumber Body Mist,80.5,37,623
+24-11-04,Revlon,Serum,Revlon Snail Repair Serum,5.81,96,578
+24-11-04,L'Oreal,Hair Oil,L'Oreal Coconut Shine Hair Oil,105.38,16,367
+24-11-05,Nivea,Moisturizer,Nivea Vitamin C Bright Moisturizer,72.45,57,293
+24-11-05,L'Oreal,Hair Oil,L'Oreal Coconut Shine Hair Oil,75.78,52,367
+24-11-05,MAC,Body Wash,MAC Cocoa Butter Body Wash,88.67,74,586
+24-11-05,MAC,Body Mist,MAC Coconut Breeze Body Mist,53.1,34,451
+24-11-06,MAC,Hair Mask,MAC Hydrating Treatment Hair Mask,42.1,51,337
+24-11-06,Himalaya,Deodorant,Himalaya Active Dry Deodorant,17.39,33,1122
+24-11-06,MAC,Hair Serum,MAC Heat Protect Hair Serum,70.1,110,458
+24-11-06,MAC,Body Wash,MAC Cocoa Butter Body Wash,77.59,47,586
+24-11-07,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,59.34,82,1422
+24-11-07,Himalaya,Perfume,Himalaya Eau de Parfum Rose Perfume,56.09,64,759
+24-11-07,Revlon,Eyeliner,Revlon Glitter Shine Eyeliner,93.26,38,856
+24-11-07,MAC,Mascara,MAC Black Intense Mascara,48.92,49,315
+24-11-07,MAC,Body Lotion,MAC Skin Firming Body Lotion,61.51,103,660
+24-11-07,Nykaa,Face Mask,Nykaa Collagen Boost Face Mask,53.35,75,369
+24-11-07,Nykaa,Soap,Nykaa Turmeric Glow Soap,17.09,103,758
+24-11-07,L'Oreal,Serum,L'Oreal Hyaluronic Hydra Serum,53.63,34,637
+24-11-08,Nykaa,Sunscreen,Nykaa Oil-Free SPF 40 Sunscreen,27.8,36,281
+24-11-08,Nykaa,Hand Cream,Nykaa Glycerin Soothe Hand Cream,85.03,99,638
+24-11-08,Sugar Cosmetics,Face Wash,Sugar Cosmetics Sensitive Soothe Face Wash,26.64,21,497
+24-11-08,L'Oreal,Body Lotion,L'Oreal Deep Moisture 48H Body Lotion,41.53,37,1090
+24-11-09,MAC,Serum,MAC Retinol Renew Serum,11.61,204,466
+24-11-09,Sugar Cosmetics,Body Lotion,Sugar Cosmetics Whitening Care Body Lotion,4.42,20,185
+24-11-09,Nykaa,Face Mask,Nykaa Collagen Boost Face Mask,5.3,117,369
+24-11-09,Himalaya,Blush,Himalaya Peach Glow Blush,92.17,40,366
+24-11-09,L'Oreal,Face Mask,L'Oreal Hydrating Sheet Face Mask,29.45,70,670
+24-11-09,The Body Shop,Blush,The Body Shop Cheek Pop Blush,119.2,40,635
+24-11-10,MAC,Body Wash,MAC Cocoa Butter Body Wash,9.09,18,586
+24-11-10,Revlon,Blush,Revlon Shimmer Sunset Blush,93.42,21,314
+24-11-10,Himalaya,Soap,Himalaya Classic Bar Soap,74.64,188,923
+24-11-10,Himalaya,Hand Cream,Himalaya Intensive Repair Hand Cream,107.17,53,641
+24-11-11,L'Oreal,Hand Cream,L'Oreal Shea Butter Hand Cream,107.81,59,652
+24-11-11,Revlon,Foundation,Revlon Stay True Foundation,111.02,26,466
+24-11-11,Sugar Cosmetics,Foundation,Sugar Cosmetics Luminous Silk Foundation,35.85,51,671
+24-11-12,Nivea,Hair Oil,Nivea Bhringraj Care Hair Oil,17.84,21,371
+24-11-12,Maybelline,Foundation,Maybelline Long-Wear Foundation,10.36,206,711
+24-11-13,Sugar Cosmetics,Hand Cream,Sugar Cosmetics Quick Absorb Hand Cream,17.91,29,723
+24-11-13,MAC,Shampoo,MAC Repair Intense Shampoo,41.93,44,344
+24-11-14,L'Oreal,Face Wash,L'Oreal Gentle Foaming Face Wash,53.28,27,312
+24-11-14,Nivea,Hair Serum,Nivea Vitamin Shine Hair Serum,53.46,116,319
+24-11-14,Nivea,Body Mist,Nivea Tropical Splash Body Mist,16.6,2,718
+24-11-14,Sugar Cosmetics,Deodorant,Sugar Cosmetics Charcoal Clean Deodorant,7.56,71,584
+24-11-14,Lakme,Moisturizer,Lakme Aloe Soothe Moisturizer,66.96,40,284
+24-11-15,Himalaya,Hand Cream,Himalaya Intensive Repair Hand Cream,69.96,5,641
+24-11-15,Lakme,Conditioner,Lakme Color Care Conditioner,116.02,38,216
+24-11-15,Himalaya,Body Wash,Himalaya Creamy Shower Gel Body Wash,46.29,135,630
+24-11-15,Nykaa,Hair Oil,Nykaa Light Daily Hair Oil,74.31,27,507
+24-11-15,MAC,Blush,MAC Soft Pink Blush,100.46,97,469
+24-11-16,Maybelline,Perfume,Maybelline Fresh Citrus Perfume,92.25,180,1205
+24-11-16,The Body Shop,Face Wash,The Body Shop Vitamin C Fresh Face Wash,110.03,37,347
+24-11-16,Nykaa,Body Mist,Nykaa Sweet Peach Body Mist,82.11,17,729
+24-11-17,Nivea,Face Mask,Nivea Rice Water Face Mask,34.03,92,285
+24-11-17,L'Oreal,Hair Mask,L'Oreal Keratin Smooth Hair Mask,17.85,42,404
+24-11-18,Maybelline,Blush,Maybelline Berry Flush Blush,28.07,28,150
+24-11-18,L'Oreal,Lipstick,L'Oreal Creamy Rose Lipstick,21.98,51,1422
+24-11-19,Maybelline,Deodorant,Maybelline Invisible Black Deodorant,78.88,23,1098
+24-11-19,Nivea,Hair Serum,Nivea Vitamin Shine Hair Serum,11.25,101,319
+24-11-20,Sugar Cosmetics,Hair Oil,Sugar Cosmetics Olive Deep Hair Oil,78.28,64,224
+24-11-20,Himalaya,Moisturizer,Himalaya Hydra Boost Moisturizer,107.3,40,362
+24-11-20,Sugar Cosmetics,Shampoo,Sugar Cosmetics Keratin Care Shampoo,104.66,174,638
+24-11-21,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,43.52,75,722
+24-11-21,Nivea,Shampoo,Nivea Color Protect Shampoo,50.6,32,640
+24-11-21,L'Oreal,Shampoo,L'Oreal Smooth & Shine Shampoo,93.72,49,723
+24-11-22,L'Oreal,Foundation,L'Oreal Dewy Glow Foundation,12.11,33,218
+24-11-22,The Body Shop,Lipstick,The Body Shop Plum Perfect Lipstick,99.94,73,458
+24-11-22,Nykaa,Eyeliner,Nykaa Brown Soft Eyeliner,93.86,146,693
+24-11-24,Nivea,Deodorant,Nivea Roll-On Aqua Deodorant,9.71,19,424
+24-11-24,The Body Shop,Face Mask,The Body Shop Overnight Sleeping Face Mask,30.78,60,637
+24-11-24,Revlon,Blush,Revlon Shimmer Sunset Blush,25.34,106,314
+24-11-24,Nykaa,Serum,Nykaa Anti-Aging Youth Serum,95.96,43,380
+24-11-25,L'Oreal,Conditioner,L'Oreal Deep Repair Conditioner,72.84,104,728
+24-11-25,L'Oreal,Hair Oil,L'Oreal Coconut Shine Hair Oil,31.95,122,367
+24-11-25,Revlon,Perfume,Revlon Jasmine Noir Perfume,26.96,86,734
+24-11-26,MAC,Hair Mask,MAC Hydrating Treatment Hair Mask,85.08,107,337
+24-11-26,Sugar Cosmetics,Eyeliner,Sugar Cosmetics Long-Wear Intense Eyeliner,7.27,28,722
+24-11-27,Himalaya,Deodorant,Himalaya Active Dry Deodorant,81.48,34,1122
+24-11-27,Nivea,Body Mist,Nivea Tropical Splash Body Mist,40.68,49,718
+24-11-28,Nykaa,Perfume,Nykaa Ocean Breeze Perfume,16.5,95,1263
+24-11-29,Lakme,Soap,Lakme Glycerin Pure Soap,31.45,13,605
+24-11-29,MAC,Body Mist,MAC Coconut Breeze Body Mist,53.04,53,451
+24-11-29,Sugar Cosmetics,Face Wash,Sugar Cosmetics Sensitive Soothe Face Wash,68.14,67,497
+24-11-29,Maybelline,Eyeliner,Maybelline Smudge-Proof Pencil Eyeliner,31.71,11,156
+24-11-30,Himalaya,Face Mask,Himalaya Clay Detox Face Mask,53.74,30,671
+24-12-01,Lakme,Hand Cream,Lakme Daily Nourish Hand Cream,52.0,92,626
+24-12-01,Revlon,Soap,Revlon Aloe Cool Soap,57.09,99,482
+24-12-01,Himalaya,Sunscreen,Himalaya SPF 50 Gel Sunscreen,78.56,35,309
+24-12-01,MAC,Moisturizer,MAC Ceramide Repair Moisturizer,90.14,35,489

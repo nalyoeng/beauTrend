@@ -1,0 +1,10 @@
+{
+  "description": "BeautyTrend helps beauty brands and analysts track cosmetic trends, compare Asian markets, forecast emerging interests, and create actionable reports.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
